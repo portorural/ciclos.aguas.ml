@@ -22,7 +22,7 @@ Ou apenas clique em New Pad para um link aleatorio
 
 
 
-## Dicas de uso
+## Opções de uso
 
 Esperamos otimizar o trabalho de nossos projetos com esta ferramenta. Você pode testar a edição de uma página logo abaixo, ou abrir um link só para você em https://pad.pedeagua.org
 
