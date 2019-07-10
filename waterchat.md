@@ -7,10 +7,10 @@
 
 
 ```text
-docker pull rocket.chat:latest
-docker-compose stop rocketchat
-docker-compose rm rocketchat
-docker-compose up -d rocketchat
+$ docker pull rocket.chat:latest
+$ docker-compose stop rocketchat
+$ docker-compose rm rocketchat
+$ docker-compose up -d rocketchat
 ```
 
 
