@@ -5,10 +5,14 @@
 
 
 
-`docker pull rocket.chat:latest
+
+```text
+docker pull rocket.chat:latest
 docker-compose stop rocketchat
 docker-compose rm rocketchat
-docker-compose up -d rocketchat`
+docker-compose up -d rocketchat
+```
+
 
 
 ## Software utilizado
