@@ -3,7 +3,7 @@
 
 # Atualizando o Chat ÁguasML
 
-
+Primeiro faça backup, mais de um backup se possível. Se estiver utilizando uma VPS veja se pode fazer um snapshot também.
 
 
 ```text
