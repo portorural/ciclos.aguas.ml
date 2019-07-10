@@ -9,6 +9,9 @@ Se estiver utilizando uma VPS veja se pode fazer um snapshot também.
 
 
 ```text
+$ ssh root@seudominio.net 
+$ sudo su seu-user
+$ cd /home/gaia/containers/aguas-rocketchat
 $ docker pull rocket.chat:latest
 $ docker-compose stop rocketchat
 $ docker-compose rm rocketchat
