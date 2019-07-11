@@ -19,7 +19,7 @@ git clone --branch master https://github.com/ether/etherpad-lite.git && cd ether
 
 https://github.com/muxator/etherpad-lite.git
 
-## Link GitHub atualizado que funcionou para a gente
+## Link mais atualizado que funcionou para a gente
 
 https://github.com/muxator/etherpad-lite
 
