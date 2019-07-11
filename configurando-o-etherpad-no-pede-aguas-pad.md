@@ -3,7 +3,7 @@
 
 # Anotações úteis para o Etherpad
 
-Veja noss Pad antes de prosseguir: https://pad.aguas.pad
+Veja nosso Pad antes de prosseguir: https://pad.aguas.pad
 
 ## Git principal, ler todos os issues possíveis
 
