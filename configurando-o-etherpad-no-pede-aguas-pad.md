@@ -9,7 +9,7 @@ Veja noss Pad antes de prosseguir: https://pad.aguas.pad
 
 https://github.com/ether/etherpad-lite/wiki
 
-Para instalar:
+Para instalar no modo oficial:
 
 ```text
 curl -sL https://deb.nodesource.com/setup_9.x | sudo -E bash -
@@ -23,7 +23,8 @@ https://github.com/muxator/etherpad-lite.git
 
 https://github.com/muxator/etherpad-lite
 
-Este git funcionou para o que desejávamos, novo tema e mais funções
+Este git funcionou para o que desejávamos, novo tema e mais funções. Então tudou rodou bem quando fizemos a instalação dele:
+
 
 
 ```text
