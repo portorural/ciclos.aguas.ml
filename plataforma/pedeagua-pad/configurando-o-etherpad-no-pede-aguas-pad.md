@@ -11,7 +11,10 @@ https://github.com/ether/etherpad-lite/wiki
 
 Infelizmente deu muito ruim para a gente este git, não foi legal em nossa máquina.
 
-Com você com certeza pode ser diferente, vai que é bom, para instalar no modo oficial:
+Com você com certeza pode ser diferente, vai que é bom
+
+Para instalar no modo oficial:
+
 
 ```text
 curl -sL https://deb.nodesource.com/setup_9.x | sudo -E bash -
@@ -20,6 +23,8 @@ git clone --branch master https://github.com/ether/etherpad-lite.git && cd ether
 ```
 
 https://github.com/muxator/etherpad-lite.git
+
+
 
 ## Link mais atualizado que funcionou para a gente
 
