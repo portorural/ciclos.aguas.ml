@@ -11,10 +11,10 @@ Apresentando a plataforma ÁguasML
 [WaterOps] e o chat hídrico
 Documentação para a manutenção ativa do Chat ÁguasML
 
-Como usar o [Pede Água PAD]
+* Como usar o [Pede Água PAD]* 
 Cocriando em tempo real com o PedeAgua Pad
 
-[Como configuramos o Etherpad] da plataforma ÁguasML
+* [Como configuramos o Etherpad] da plataforma ÁguasML*
 Algumas informações relevantes sobre nossa instalação do Etherpad no Pede Água Pad
 
 
