@@ -3,17 +3,26 @@
 
 # Entendendo as águas e suas plataformas
 
-## O que é a Águas.ML?
+Esta plataforma, chamada de ÁguasML, é uma iniciativa em Ciência Aberta que pretende apresentar muitos projetos bem sucedidos em todo o mundo para inspirar ações de planejamento, design e desenvolvimento de organizações associativas cibernéticas, assim como povoados, cidades e comunidades, os aglomerados que chamaremos de enxames. 
 
-Esta [plataforma ÁguasML] é uma iniciativa em Ciência Aberta que pretende apresentar muitos projetos bem sucedidos em todo o mundo para inspirar ações de planejamento, design e desenvolvimento de organizações associativas cibernéticas, assim como povoados, cidades e comunidades, os aglomerados que chamaremos de enxames. 
+[Plataforma ÁguasML]
+Apresentando a plataforma ÁguasML
 
-### Apresentando a [plataforma ÁguasML]
+[WaterOps] e o chat hídrico
+Documentação para a manutenção ativa do Chat ÁguasML
 
-https://wiki.aguas.ml/aguasml
+Como usar o [Pede Água PAD]
+Cocriando em tempo real com o PedeAgua Pad
 
-Abraços!
+[Como configuramos o Etherpad] da plataforma ÁguasML
+Algumas informações relevantes sobre nossa instalação do Etherpad no Pede Água Pad
 
+
+Seguimos trabalhando!
 Carlos Diego
 
 
-[plataforma ÁguasML]:https://wiki.aguas.ml/aguasml
+[Plataforma ÁguasML]:https://wiki.aguas.ml/aguasml
+[WaterOps]:https://wiki.aguas.ml/plataforma/chat-das-aguas/waterchat
+[Pede Água PAD]:https://wiki.aguas.ml/plataforma/pedeagua-pad/pedeaguas-pad
+[Como configuramos o Etherpad]:https://wiki.aguas.ml/plataforma/pedeagua-pad/configurando-o-etherpad-no-pede-aguas-pad
