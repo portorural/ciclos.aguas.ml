@@ -7,7 +7,7 @@
 Instalando ou revisando o git no wikijs
 https://docs-legacy.requarks.io/wiki/install/git
 
-Usando o wikijs e o Github
+Usando o wikijs  2.0 e o Github 
 https://docs.requarks.io/en/storage/git
 
 O sistema sincroniza com o git a cada 5 minutos, não há como mudar.
