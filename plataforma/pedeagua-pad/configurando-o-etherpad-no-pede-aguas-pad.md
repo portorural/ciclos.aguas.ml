@@ -30,7 +30,8 @@ https://github.com/muxator/etherpad-lite.git
 
 https://github.com/muxator/etherpad-lite
 
-Este git funcionou para o que desejávamos, novo tema e mais funções. Então tudou rodou bem quando fizemos a instalação dele:
+Este git funcionou para o que desejávamos, novo tema e mais funções. Então tudou rodou bem depois que fizemos a instalação dele:
+
 
 
 
@@ -40,14 +41,19 @@ sudo apt-get install -y nodejs
 git clone --branch master https://github.com/muxator/etherpad-lite.git && cd etherpad-lite && bin/run.sh
 ```
 
+
 ## Instalação no /opt que deu certo para os franceses e ajudou aqui
 
 http://reseaux85.fr/index.php?title=Etherpad_-_Edition_collaborative
 
 
+
+
 ## Skin maneira
 
 https://framagit.org/colibris/etherpad-skin-colibris-outilslibres
+
+
 
 
 # Lançamento teste durante install
@@ -56,14 +62,22 @@ cd /opt/etherpad-lite/bin
 ./run.sh --root
 
 
+
+
 # Para atualizar o Etherpad
 cd /opt/etherpad-lite
 git pull origin
 
 
+
+
 ## Comandos úteis
 
+**Reiniciar serviço**
+
 sudo systemctl restart etherpad
+
+
 
 ## Erros conhecidos
 
