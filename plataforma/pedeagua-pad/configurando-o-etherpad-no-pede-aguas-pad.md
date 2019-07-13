@@ -12,13 +12,20 @@ Veja nosso Pad antes de prosseguir: https://pad.aguas.pad
 
 ## Leia todos os issues possíveis no git principal
 
+Quase tudo já foi discutido, principalmente em inglês. Nele você encontra também mais detalhes sobre a instalação
+
+
 https://github.com/ether/etherpad-lite/wiki
+
 
 Infelizmente deu muito ruim para a gente este git, não foi legal em nossa máquina.
 
+
 Com você com certeza pode ser diferente, vai que é bom
 
+
 Para instalar no modo oficial:
+
 
 
 ```text
