@@ -5,14 +5,16 @@
 
 Esta plataforma, chamada de ÁguasML, é uma iniciativa em Ciência Aberta que pretende apresentar muitos projetos bem sucedidos em todo o mundo para inspirar ações de planejamento, design e desenvolvimento de organizações associativas cibernéticas, assim como povoados, cidades e comunidades, os aglomerados que chamaremos de enxames. 
 
-[Plataforma ÁguasML]
+* [Plataforma ÁguasML]
 Apresentando a plataforma ÁguasML
 
-[WaterOps] e o chat hídrico
+* [WaterOps] e o chat hídrico
 Documentação para a manutenção ativa do Chat ÁguasML
+
 
 * Como usar o [Pede Água PAD]* 
 Cocriando em tempo real com o PedeAgua Pad
+
 
 * [Como configuramos o Etherpad] da plataforma ÁguasML*
 Algumas informações relevantes sobre nossa instalação do Etherpad no Pede Água Pad
