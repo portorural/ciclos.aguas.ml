@@ -1,4 +1,4 @@
-<!-- TITLE: Pede Água PAD -->
+<!-- TITLE: Como usar o Pede Água PAD -->
 <!-- SUBTITLE: Cocriando em tempo real com o PedeAgua Pad -->
 
 # Cocriando em tempo real
