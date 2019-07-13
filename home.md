@@ -11,30 +11,35 @@ Esta plataforma, chamada de ÁguasML, é uma iniciativa em Ciência Aberta que p
 -----
 
 
-###  [Plataforma ÁguasML]
-Apresentando a plataforma ÁguasML
+###  Plataforma ÁguasML
+
+Apresentando a [plataforma ÁguasML]
 
 
 
-* [WaterOps] e o chat hídrico
-Documentação para a manutenção ativa do Chat ÁguasML
+### WaterOps e o chat hídrico
+
+Documentação para a manutenção ativa do [Chat ÁguasML]
 
 
 
-* Como usar o [Pede Água PAD]* 
-Cocriando em tempo real com o PedeAgua Pad
+
+Como usar o PedeÁgua PAD
+
+Cocriando em tempo real com o [PedeAgua Pad]
 
 
 
-* [Como configuramos o Etherpad] da plataforma ÁguasML*
-Algumas informações relevantes sobre nossa instalação do Etherpad no Pede Água Pad
+### Como configuramos o Etherpad da plataforma ÁguasML
+
+Algumas informações relevantes sobre nossa [instalação do Etherpad] no Pede Água Pad
 
 
 Seguimos trabalhando!
 Equipe WaterOps
 
 
-[Plataforma ÁguasML]:https://wiki.aguas.ml/aguasml
-[WaterOps]:https://wiki.aguas.ml/plataforma/chat-das-aguas/waterchat
-[Pede Água PAD]:https://wiki.aguas.ml/plataforma/pedeagua-pad/pedeaguas-pad
-[Como configuramos o Etherpad]:https://wiki.aguas.ml/plataforma/pedeagua-pad/configurando-o-etherpad-no-pede-aguas-pad
+[plataforma ÁguasML]:https://wiki.aguas.ml/aguasml
+[Chat ÁguasML]:https://wiki.aguas.ml/plataforma/chat-das-aguas/waterchat
+[PedeAgua Pad]:https://wiki.aguas.ml/plataforma/pedeagua-pad/pedeaguas-pad
+[instalação do Etherpad]:https://wiki.aguas.ml/plataforma/pedeagua-pad/configurando-o-etherpad-no-pede-aguas-pad
