@@ -1,4 +1,4 @@
-<!-- TITLE: Waterchat - o chat hídrico -->
+<!-- TITLE: WaterOps e o chat hídrico -->
 <!-- SUBTITLE: Documentação para a manutenção ativa do Chat ÁguasML -->
 
 # Rotina para atualizar o Chat ÁguasML
