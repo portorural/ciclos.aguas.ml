@@ -5,12 +5,15 @@
 
 ## O que é a Águas.ML?
 
-Esta plataforma é uma iniciativa em Ciência Aberta que pretende apresentar muitos projetos bem sucedidos em todo o mundo para inspirar ações de planejamento, design e desenvolvimento de organizações associativas cibernéticas, assim como povoados, cidades e comunidades, os aglomerados que chamaremos de enxames. 
+Esta [plataforma ÁguasML] é uma iniciativa em Ciência Aberta que pretende apresentar muitos projetos bem sucedidos em todo o mundo para inspirar ações de planejamento, design e desenvolvimento de organizações associativas cibernéticas, assim como povoados, cidades e comunidades, os aglomerados que chamaremos de enxames. 
 
-### Apresentando a plataforma ÁguasML
+### Apresentando a [plataforma ÁguasML]
 
 https://wiki.aguas.ml/aguasml
 
 Abraços!
 
 Carlos Diego
+
+
+[plataforma ÁguasML]:https://wiki.aguas.ml/aguasml
