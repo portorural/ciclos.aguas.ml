@@ -10,7 +10,7 @@ Veja nosso Pad antes de prosseguir: https://pad.aguas.pad
 
 
 
-## Git principal, ler todos os issues possíveis
+## Leia todos os issues possíveis no git principal
 
 https://github.com/ether/etherpad-lite/wiki
 
