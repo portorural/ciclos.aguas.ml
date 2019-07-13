@@ -1,4 +1,4 @@
-<!-- TITLE: Configurando o Etherpad da plataforma ÁguasML -->
+<!-- TITLE: Como configuramos o Etherpad da plataforma ÁguasML -->
 <!-- SUBTITLE: Algumas informações relevantes sobre nossa instalação do Etherpad no Pede Água Pad -->
 
 # Anotações úteis para o Etherpad
