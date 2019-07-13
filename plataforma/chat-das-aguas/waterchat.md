@@ -1,7 +1,7 @@
 <!-- TITLE: Waterchat - o chat hídrico -->
 <!-- SUBTITLE: Documentação para a manutenção ativa do Chat ÁguasML -->
 
-# Atualizando o Chat ÁguasML
+# Rotina para atualizar o Chat ÁguasML
 
 URL: https://chat.aguas.win
 
@@ -11,9 +11,9 @@ Se estiver utilizando uma VPS veja se pode fazer um snapshot também.
 
 
 ```text
-$ ssh root@seudominio.net 
+$ ssh root@seudominio.win
 $ sudo su seu-user
-$ cd /home/gaia/containers/aguas-rocketchat
+$ cd /home/SEU-HOST/containers/aguas-rocketchat
 $ docker pull rocket.chat:latest
 $ docker-compose stop rocketchat
 $ docker-compose rm rocketchat
