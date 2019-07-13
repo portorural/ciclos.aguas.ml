@@ -6,7 +6,7 @@
 Veja nosso Pad antes de prosseguir: https://pad.aguas.pad
 
 
-<img src="/uploads/imagens-do-pad/print-pad-pedeagua-org.png" width="550" />
+<img style="float: center;" src="/uploads/imagens-do-pad/print-pad-pedeagua-org.png" width="550" />
 
 
 
