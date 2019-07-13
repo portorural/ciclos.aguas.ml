@@ -19,7 +19,7 @@ Algumas informações relevantes sobre nossa instalação do Etherpad no Pede Á
 
 
 Seguimos trabalhando!
-Carlos Diego
+Equipe WaterOps
 
 
 [Plataforma ÁguasML]:https://wiki.aguas.ml/aguasml
