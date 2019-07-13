@@ -30,9 +30,12 @@ Cocriando em tempo real com o [PedeAgua Pad]
 
 
 
+
 ### Como configuramos o Etherpad da plataforma ÁguasML
 
 Algumas informações relevantes sobre nossa [instalação do Etherpad] no Pede Água Pad
+
+
 
 
 Seguimos trabalhando!
