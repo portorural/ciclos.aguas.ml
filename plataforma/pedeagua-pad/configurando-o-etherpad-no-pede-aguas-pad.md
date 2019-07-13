@@ -9,7 +9,7 @@ Veja nosso Pad antes de prosseguir: https://pad.aguas.pad
 
 https://github.com/ether/etherpad-lite/wiki
 
-Para instalar no modo oficial:
+Infelizmente ndeu muito ruim para a gente este git, não foi legal em nossa máquina. Com você com certeza pode ser diferente, vai que é bom, para instalar no modo oficial:
 
 ```text
 curl -sL https://deb.nodesource.com/setup_9.x | sudo -E bash -
