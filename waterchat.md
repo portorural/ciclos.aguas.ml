@@ -1,7 +1,9 @@
-<!-- TITLE: Waterchat -->
-<!-- SUBTITLE: DOCUMENTAÇÃO USADA PARA ATUALIZAR O ROCKET CHAT DO AGUAS -->
+<!-- TITLE: Waterchat - o chat hídrico -->
+<!-- SUBTITLE: Documentação para a manutenção ativa do Chat ÁguasML -->
 
 # Atualizando o Chat ÁguasML
+
+URL: https://chat.aguas.win
 
 Primeiro faça backup, mais de um backup se possível.
 
