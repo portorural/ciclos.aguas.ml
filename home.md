@@ -6,6 +6,8 @@
 Esta plataforma, chamada de ÁguasML, é uma iniciativa em Ciência Aberta que pretende apresentar muitos projetos bem sucedidos em todo o mundo para inspirar ações de planejamento, design e desenvolvimento de organizações associativas cibernéticas, assim como povoados, cidades e comunidades, os aglomerados que chamaremos de enxames. 
 
 
+A seguir, veja alguns dos links já abertos nesta wiki. Outra forma de navegar é pelo menu All Pages e pela Pesquisa
+
 
 
 -----
