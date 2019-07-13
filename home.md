@@ -12,6 +12,7 @@ A seguir, veja alguns dos links já abertos nesta wiki. Outra forma de navegar �
 
 -----
 
+# Descobrindo o conteúdo da Wiki Águas ML
 
 ###  A Plataforma ÁguasML
 
@@ -37,6 +38,12 @@ Cocriando em tempo real com o [PedeAgua Pad]
 ### Como configuramos o Etherpad da plataforma ÁguasML
 
 Algumas informações relevantes sobre nossa [instalação do Etherpad] no Pede Água Pad
+
+
+
+
+
+# Ecossistema comunicativo Águas Brasil, Bem Comum em Mídia Livre
 
 
 
