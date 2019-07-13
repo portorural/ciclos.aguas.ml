@@ -6,7 +6,8 @@
 Veja nosso Pad antes de prosseguir: https://pad.aguas.pad
 
 
-![Print Pad Pedeagua Org =350x](/uploads/imagens-do-pad/print-pad-pedeagua-org.png "Print Pad Pedeagua Org")
+<img src="/uploads/imagens-do-pad/print-pad-pedeagua-org.png" width="250" />
+
 
 
 ## Git principal, ler todos os issues possíveis
