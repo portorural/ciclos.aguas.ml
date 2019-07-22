@@ -3,7 +3,7 @@
 
 # Link dos roteiros, programas e histórias inspiradoras
 
-O principal objetivo é listar os potenciais casos que sabemos sermos capazes de realizar em 2019-2020
+O principal objetivo é listar os potenciais casos que sabemos sermos capazes de realizar em 2018-2022
 
 ## Smart Village com um centro de dados
 
