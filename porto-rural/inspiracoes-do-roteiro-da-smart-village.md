@@ -3,6 +3,8 @@
 
 # Link dos roteiros, programas e histórias inspiradoras
 
+O principal objetivo é listar os potenciais casos que sabemos sermos capazes de realizar em 2019-2020
+
 ## Smart Village com um centro de dados
 
 Link do PAD: https://pad.pedeagua.org/p/roteiro_de_dados_de_habita%C3%A7%C3%B5es
