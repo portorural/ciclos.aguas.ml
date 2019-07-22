@@ -21,7 +21,7 @@ A Sunlight Foundation, em sua publicação de 2018 chamada Tactical Data Engagem
 **As fases e objetivos do processo TDE de 4 Etapas**
 
 ![Tde Funnel Grid](/uploads/porto-rural/tde-funnel-grid.png "Tde Funnel Grid")
-**Fonte:** Framework da Metodologia TDE
+**Fonte:** Framework da Metodologia TDE - https://communities.sunlightfoundation.com/methodology/#the-framework
 
 "Trabalham com as ideias geradas pelos grupos de usuários de dados do Centro Regional de Dados da Pensilvânia Ocidental (WPRDC) em Pittsburgh, PA, Estados unidos da América. O WPRDC apóia as principais iniciativas da comunidade na grande Pittsburgh, tornando a informação mais fácil de encontrar e usar. Esta *cyorg* também fornece uma infra-estrutura tecnológica e legal para compartilhamento de dados para dar suporte a um ecossistema crescente de provedores de dados e usuários de dados."
 
