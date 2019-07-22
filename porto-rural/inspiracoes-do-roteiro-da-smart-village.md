@@ -8,9 +8,9 @@ O principal objetivo é listar os potenciais e casos que fortalecem as tarefas r
 
 ## Smart Village com um centro de dados fixo
 
-Link do PAD: https://pad.pedeagua.org/p/roteiro_de_dados_de_habita%C3%A7%C3%B5es
+O exercício de resiliência neste pad é adaptar o conteúdo pertinente para a realidade (oportunidades e necessidades) da Porto Rural e inserir itens relevantes e específicos de nosso processo.
 
-O exercício deste pad é adaptar o conteúdo pertinente para a realidade (oportunidades e necessidades) da Porto Rural e inserir itens relevantes e específicos em nosso processo.
+Link do PAD: https://pad.pedeagua.org/p/roteiro_de_dados_de_habita%C3%A7%C3%B5es
 
 A seguir listamos as nossas referências, comentadas.
 
