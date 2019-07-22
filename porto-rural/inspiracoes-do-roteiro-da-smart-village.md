@@ -10,7 +10,9 @@ O principal objetivo é listar os potenciais e casos que fortalecem as tarefas r
 
 Link do PAD: https://pad.pedeagua.org/p/roteiro_de_dados_de_habita%C3%A7%C3%B5es
 
-O exercício deste pad é adaptar o conteúdo pertinente para a realidade (oportunidades e necessidades) da Porto Rural e inserir itens relevantes e específicos em nosso processo. 
+O exercício deste pad é adaptar o conteúdo pertinente para a realidade (oportunidades e necessidades) da Porto Rural e inserir itens relevantes e específicos em nosso processo.
+
+A seguir listamos as nossas referências comentadas.
 
 ### Roteiro de um centro de dados de propriedades e habitações
 
