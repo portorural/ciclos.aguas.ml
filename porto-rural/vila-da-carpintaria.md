@@ -1,7 +1,7 @@
-<!-- TITLE: Vila da Carpintaria na Capoava -->
-<!-- SUBTITLE: Esboço de projeto da nossa Vila Da Carpintaria -->
+<!-- TITLE: Vila da Carpintaria na Porto Rural -->
+<!-- SUBTITLE: Esboço de projeto da nossa Vila da Carpintaria -->
 
-# Vila da Carpintaria
+# Esboço de projeto da Vila da Carpintaria na Capoava
 
 
 ONG Caminho das Águas
