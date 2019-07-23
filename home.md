@@ -46,8 +46,21 @@ Algumas informações relevantes sobre nossa [instalação do Etherpad] no Pede 
 # Ecossistema comunicativo Águas Brasil, Bem Comum em Mídia Livre
 
 
+Nave mãe: https://aguas.ml
 
+Publicações ÁguasML: https://livros.aguas.ml
 
+Chat para grupos das águas:  https://aguas.win
+
+Textos colaborativos: https://pad.pedeagua.org 
+
+Wiki das Águas: https://wiki.aguas.ml
+
+EAD para cursos livres: http://livres.aguas.ml
+
+Raspador de notícias hídricas: http://novas.portorural.com.br
+
+Raspador de notícias hídricas alternativo: http://mitmacs.com
 
 
 Seguimos trabalhando!
