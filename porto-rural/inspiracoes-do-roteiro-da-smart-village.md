@@ -6,7 +6,7 @@
 O principal objetivo é listar os potenciais e casos que fortalecem as tarefas realizadas pela ONG Caminho das Águas previstas para o ciclo de 2019 à 2022
 
 
-## Smart Village com um centro de dados fixo
+## Smart Village com um centro de dados volátil
 
 O exercício de resiliência neste pad é adaptar o conteúdo pertinente para a realidade (oportunidades e necessidades) da Porto Rural e inserir itens relevantes e específicos de nosso processo.
 
@@ -28,4 +28,4 @@ A Sunlight Foundation, em sua publicação de 2018 chamada Tactical Data Engagem
 **Fonte: ** https://sunlight-foundation.gitbooks.io/playbook-data-user-groups/content/home.html
 
 
-## Smart Village com um centro de dados volátil
+## Smart Village com um centro de dados fixo
