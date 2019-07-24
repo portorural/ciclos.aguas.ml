@@ -26,17 +26,14 @@ Ainda em Configurações Gerais, digite seu nome de usuário e senha
 
 
 # Usando o ODK Collect no seu aparelho, com ou sem internet
-A seguir temos algumas dicas para que você possa baixar, preencher e enviar os relatórios para a ONG
+A seguir temos algumas dicas para que você possa baixar, preencher e enviar os relatórios para a ONG quando tiver acesso a internet 3g, 4g ou wifi
 
 ### Faça o download de formulários quando tiver internet
 
-Para baixar formulários da sua conta e iniciar a coleta de dados, siga estas etapas:
-
-Certifique-se de estar conectado à Internet no seu dispositivo. 
-
-No menu inicial do KoBoCollect, clique em Obter formulário em branco
-
-Uma lista de todos os seus formulários de seus diferentes projetos será mostrada. Clique em Alternar todos (ou selecione os que deseja baixar) e clique em Obter selecionados.
+1. Para baixar formulários da sua conta e iniciar a coleta de dados, siga estas etapas:
+1. Certifique-se de estar conectado à Internet no seu dispositivo. 
+1. No menu inicial do KoBoCollect, clique em Obter formulário em branco
+1. Uma lista de todos os seus formulários de seus diferentes projetos será mostrada. Clique em Alternar todos (ou selecione os que deseja baixar) e clique em Obter selecionados.
 
 ### Coletando os dados
 1. Clique em preencher formulário em branco
