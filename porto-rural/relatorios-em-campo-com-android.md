@@ -5,23 +5,19 @@
 Um passo a passo para criar conta no Kobo Humanitarian Response, instalar o ODK Collect no android e utilizar os serviços de registro da ONG
 
 
-### 1- Baixe o aplicativo Kobo Collect
-
+**1- Baixe o aplicativo Kobo Collect**
 Link: https://play.google.com/store/apps/details?id=org.koboc.collect.android&hl=en
 
 
-### 2- Instale-o aceitando tudo
-
+**2- Instale-o aceitando tudo**
 No seu dispositivo Android, abra o KoBoCollect e abra as Configurações gerais (isso pode estar no canto superior direito da tela, no canto inferior direito ou em um botão na parte central inferior - dependendo da versão do Android)
 
-### 3. URL do servidor
-
+**3. URL do servidor**
 Em Configurações Gerais, em URL, insira a URL do servidor
 https://kc.humanitarianresponse.info
 
 
-### 4. Inserir nome de usuário e senha
-
+**4. Inserir nome de usuário e senha**
 Ainda em Configurações Gerais, digite seu nome de usuário e senha
 
 
