@@ -1,4 +1,4 @@
-<!-- TITLE: Relatorios em campo com android -->
+<!-- TITLE: Relatórios em campo com android -->
 <!-- SUBTITLE: Um guia para utilizar o ODK em campo com android -->
 
 # Guia de uso do Kobo na ONG Caminho das Águas
