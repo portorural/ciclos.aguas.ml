@@ -4,6 +4,13 @@
 # Guia de uso do Kobo na ONG Caminho das Águas
 Um passo a passo para criar conta no Kobo Humanitarian Response, instalar o ODK Collect no android e utilizar os serviços de registro da ONG
 
+### Criando conta no Kobotoolbox
+
+1. Acesse o site https://kobo.humanitarianresponse.info/accounts/register/#/
+1. Preencha o formulário completamente e guarde os dados como email e senha
+1. Confirme sua conta clicando no link que eles enviaram para seu email
+1. Envie o email e o nome de usuário que você utilizou para diego@caminhodasaguas.org.br
+
 ### Instalando o ODK no android
 **1- Baixe o aplicativo Kobo Collect**
 Link: https://play.google.com/store/apps/details?id=org.koboc.collect.android&hl=en
