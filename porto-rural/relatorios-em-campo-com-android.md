@@ -26,8 +26,9 @@ Ainda em Configurações Gerais, digite seu nome de usuário e senha
 
 
 # Usando o ODK Collect no seu aparelho, com ou sem internet
+A seguir temos algumas dicas para que você possa baixar, preencher e enviar os relatórios para a ONG
 
-##### Faça o download de formulários da sua conta
+### Faça o download de formulários quando tiver internet
 
 Para baixar formulários da sua conta e iniciar a coleta de dados, siga estas etapas:
 
@@ -43,3 +44,5 @@ Clique em preencher formulário em branco
 Selecione o formulário para o qual você gostaria de inserir dados
 Faça todas as perguntas (passando o dedo da direita para a esquerda)
 No final, clique em Salvar Formulário e Sair (certificando-se de que o formulário esteja marcado como 'finalizado')
+
+### Faça o envio de formulários com respostas quando tiver internet
