@@ -38,11 +38,10 @@ No menu inicial do KoBoCollect, clique em Obter formulário em branco
 
 Uma lista de todos os seus formulários de seus diferentes projetos será mostrada. Clique em Alternar todos (ou selecione os que deseja baixar) e clique em Obter selecionados.
 
-Coletar dados
-Clique em preencher formulário em branco
-
-Selecione o formulário para o qual você gostaria de inserir dados
-Faça todas as perguntas (passando o dedo da direita para a esquerda)
-No final, clique em Salvar Formulário e Sair (certificando-se de que o formulário esteja marcado como 'finalizado')
+### Coletando os dados
+1. Clique em preencher formulário em branco
+1. Selecione o formulário para o qual você gostaria de inserir dados
+1. Faça todas as perguntas (passando o dedo da direita para a esquerda)
+1. No final, clique em Salvar Formulário e Sair (certificando-se de que o formulário esteja marcado como 'finalizado')
 
 ### Faça o envio de formulários com respostas quando tiver internet
