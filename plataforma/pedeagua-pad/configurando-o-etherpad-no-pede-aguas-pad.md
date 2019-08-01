@@ -41,6 +41,7 @@ git clone --branch master https://github.com/ether/etherpad-lite.git && cd ether
 ## Link mais atualizado que funcionou para a gente
 
 https://github.com/muxator/etherpad-lite
+
 https://github.com/muxator/etherpad-lite.git
 
 Este git funcionou para o que desejávamos, novo tema e mais funções. Então tudou rodou bem depois que fizemos a instalação dele:
