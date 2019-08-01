@@ -34,13 +34,14 @@ sudo apt-get install -y nodejs
 git clone --branch master https://github.com/ether/etherpad-lite.git && cd etherpad-lite && bin/run.sh
 ```
 
-https://github.com/muxator/etherpad-lite.git
+
 
 
 
 ## Link mais atualizado que funcionou para a gente
 
 https://github.com/muxator/etherpad-lite
+https://github.com/muxator/etherpad-lite.git
 
 Este git funcionou para o que desejávamos, novo tema e mais funções. Então tudou rodou bem depois que fizemos a instalação dele:
 
