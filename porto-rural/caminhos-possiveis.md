@@ -3,6 +3,9 @@
 
 # Perspectivas e estudos abertos sobre a colônia da Fazenda Capoava
 
+Uma lista de perspectivas e estudos criados a partir de conversas significativas da Porto Rural:
+
+
 **Inspirando uma Smart Village**
 
 Link: https://wiki.aguas.ml/porto-rural/caminhos-possiveis/inspiracoes-do-roteiro-da-smart-village
