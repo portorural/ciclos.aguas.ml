@@ -14,6 +14,9 @@ A seguir, listamos alguns dos links já abertos nesta wiki. Outra forma de naveg
 
 # Descobrindo o conteúdo da Wiki Águas ML
 
+Esta Wiki tem seu conteúdo duplicado no GitHub, é uma forma de backup e ampliação das possibilidades de uso e interação com o oconteúdo. Caso queira contribuir, é este o link para o acesso: https://github.com/portorural/wiki.aguas.ml
+
+
 ###  A Plataforma ÁguasML
 
 Apresentando a [plataforma ÁguasML]
@@ -43,7 +46,6 @@ Algumas informações relevantes sobre nossa [instalação do Etherpad] no Pede 
 
 # Ecossistema comunicativo Águas Brasil, Bem Comum em Mídia Livre
 
-Esta Wiki no GitHub: https://github.com/portorural/wiki.aguas.ml
 
 Nave mãe: https://aguas.ml
 
