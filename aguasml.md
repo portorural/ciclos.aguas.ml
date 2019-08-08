@@ -1,4 +1,4 @@
-<!-- TITLE: Apresentando a plataforma ÁguasML -->
+<!-- TITLE: Apresentação da plataforma -->
 <!-- SUBTITLE: Ciência aberta com a Plataforma Aguas Ml -->
 
 
