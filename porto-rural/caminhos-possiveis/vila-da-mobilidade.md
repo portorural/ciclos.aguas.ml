@@ -1,8 +1,7 @@
 <!-- TITLE: Vila Da Mobilidade -->
 <!-- SUBTITLE: A quick summary of Vila Da Mobilidade -->
 
-# Header
-Vila Capoava da Mobilidade Rural 
+# Vila Capoava da Mobilidade Rural
 
 Além de uma estrada útil para pessoas, veículos e empresas, a Estrada Municipal que liga a cidade de Porto Feliz à Capoava pode ser base de caminhos que visam a conservação dos recursos naturais, criando diagnósticos e direcionamentos relacionados à perda laminar de solo pela água da chuva, conhecida como erosão de solo, evitando assoreamentos e outros danos aos nossos corpos hídricos, fortalecendo o patrimônio histórico, cultural e a biodiversidade.
 
