@@ -7,9 +7,15 @@
 
 Link: https://wiki.aguas.ml/porto-rural/caminhos-possiveis/inspiracoes-do-roteiro-da-smart-village
 
+
+-----
+
 **Saneamento medicinal**
 
 Link: https://wiki.aguas.ml/porto-rural/caminhos-possiveis/saneamento-medicinal-na-capoava
+
+
+-----
 
 **Vila da mobilidade**
 
