@@ -26,3 +26,5 @@ $ docker-compose up -d rocketchat
 
 **Rocket.Chat Documentation - Docker Compose**
 https://rocket.chat/docs/installation/docker-containers/docker-compose/
+
+.
