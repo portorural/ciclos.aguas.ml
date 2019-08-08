@@ -3,8 +3,12 @@
 
 # Perspectivas e estudos abertos sobre a colônia da Fazenda Capoava
 
-Inspirando uma Smart Village - https://wiki.aguas.ml/porto-rural/caminhos-possiveis/inspiracoes-do-roteiro-da-smart-village
+Inspirando uma Smart Village
 
-Saneamento medicinal - https://wiki.aguas.ml/porto-rural/caminhos-possiveis/saneamento-medicinal-na-capoava
+Link: https://wiki.aguas.ml/porto-rural/caminhos-possiveis/inspiracoes-do-roteiro-da-smart-village
 
-Vila da mobilidade - https://wiki.aguas.ml/porto-rural/caminhos-possiveis/vila-da-mobilidade
+Saneamento medicinal
+Link: https://wiki.aguas.ml/porto-rural/caminhos-possiveis/saneamento-medicinal-na-capoava
+
+Vila da mobilidade
+Link: https://wiki.aguas.ml/porto-rural/caminhos-possiveis/vila-da-mobilidade
