@@ -134,6 +134,7 @@ E especificamente falando do solo na Capoava, extraímos do Mapa Geomorfopedoló
 
 
 Acreditamos no potencial de todos os envolvidos (Público, Privado, Terceiro Setor e Civis) em tratar com zelo e harmonia este tema oportuno e necessário
+
 A Vila Capoava da Mobilidade Rural é uma projeto das interações na Porto Rural! Não desejamos propor soluções sozinhos, mesmo sabendo que estamos pesquisando e fazendo cursos sobre os temas e regulações, então estas iniciativas da Vila Capoava da Mobilidade Rural não podem ser revendidas à revelia de uma pessoa em detrimento da coletividade, o código é sempre aberto.
 
 As decisões de última instância são de responsabilidade dos atores envolvidos
