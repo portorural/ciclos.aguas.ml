@@ -1,4 +1,4 @@
-<!-- TITLE: Inspirações para nossa Smart Village -->
+<!-- TITLE: Inspirações em nossa Smart Village -->
 <!-- SUBTITLE: Uma lista de referências pertinentes para inspirações no Roteiro Da Smart Village -->
 
 # Link dos roteiros, programas e histórias inspiradoras
