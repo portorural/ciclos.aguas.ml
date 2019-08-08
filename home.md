@@ -3,7 +3,7 @@
 
 # Entendendo as águas e suas plataformas
 
-Este wiki, parte integrante da plataforma ÁguasML, é uma iniciativa em Ciência Aberta que pretende apresentar muitos projetos bem sucedidos em todo o mundo para inspirar ações de planejamento, design e desenvolvimento de organizações associativas cibernéticas, assim como povoados, cidades e comunidades, os aglomerados que chamaremos tecnicamente, em alguns lugares, de enxames. 
+Esta wiki, parte integrante da plataforma ÁguasML, é uma iniciativa em Ciência Aberta que pretende apresentar muitos projetos bem sucedidos em todo o mundo para inspirar ações de planejamento, design e desenvolvimento de organizações associativas cibernéticas, assim como povoados, cidades e comunidades, os aglomerados que chamaremos tecnicamente, em alguns lugares, de enxames. 
 
 
 A seguir, listamos alguns dos links já abertos nesta wiki. Outra forma de navegar é pelo menu All Pages e pela Pesquisa
