@@ -6,7 +6,7 @@
 Este wiki, parte integrante da plataforma ÁguasML, é uma iniciativa em Ciência Aberta que pretende apresentar muitos projetos bem sucedidos em todo o mundo para inspirar ações de planejamento, design e desenvolvimento de organizações associativas cibernéticas, assim como povoados, cidades e comunidades, os aglomerados que chamaremos tecnicamente, em alguns lugares, de enxames. 
 
 
-A seguir, veja alguns dos links já abertos nesta wiki. Outra forma de navegar é pelo menu All Pages e pela Pesquisa
+A seguir, listamos alguns dos links já abertos nesta wiki. Outra forma de navegar é pelo menu All Pages e pela Pesquisa
 
 
 
@@ -34,7 +34,6 @@ Cocriando em tempo real com o [PedeAgua Pad]
 
 
 
-
 ### Como configuramos o Etherpad da plataforma ÁguasML
 
 Algumas informações relevantes sobre nossa [instalação do Etherpad] no Pede Água Pad
@@ -42,9 +41,9 @@ Algumas informações relevantes sobre nossa [instalação do Etherpad] no Pede 
 
 
 
-
 # Ecossistema comunicativo Águas Brasil, Bem Comum em Mídia Livre
 
+Esta Wiki no GitHub: https://github.com/portorural/wiki.aguas.ml
 
 Nave mãe: https://aguas.ml
 
