@@ -1,5 +1,5 @@
 <!-- TITLE: Aguas Bot 1 0 -->
-<!-- SUBTITLE: A quick summary of Aguas Bot 1 0 -->
+<!-- SUBTITLE: Um robô de conversas capaz de aprender com as águas e recursos hídricos -->
 
 # O chatbot Águasbot 1.0
 
