@@ -17,6 +17,14 @@ Link: https://wiki.aguas.ml/porto-rural/caminhos-possiveis/relatorios-em-campo-c
 
 -----
 
+**Vila Capoava da Carpintaria**
+
+Link: https://wiki.aguas.ml/porto-rural/caminhos-possiveis/vila-da-carpintaria
+
+
+-----
+
+
 **Saneamento medicinal**
 
 Link: https://wiki.aguas.ml/porto-rural/caminhos-possiveis/saneamento-medicinal-na-capoava
