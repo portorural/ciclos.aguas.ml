@@ -22,6 +22,10 @@ $ docker-compose up -d rocketchat
 
 
 
+
+-----
+
+
 ## Software utilizado
 
 **Rocket.Chat Documentation - Docker Compose**
