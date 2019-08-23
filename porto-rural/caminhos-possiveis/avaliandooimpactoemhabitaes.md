@@ -18,3 +18,11 @@ Link do evento: https://youtu.be/Ammcu1cz2EU?t=12413 creio que está no tempo da
 ### Grupo Terra Nova
 
 Site e metodologia (resumo) - https://grupoterranova.com.br/metodologia/
+
+
+
+### Visões quilombolas do Piauí
+
+Não dizíamos “aquela terra é minha” e, sim, “nós somos daquela terra”
+
+https://piseagrama.org/somos-da-terra/
