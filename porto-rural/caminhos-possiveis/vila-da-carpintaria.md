@@ -10,9 +10,15 @@ Porto Feliz, 3 de julho de 2018
 
 ## VISÃO GERAL
 
-A ideia de uma Vila da Carpintaria parece simples: madeiras, uma moeda social e muitas crianças. Mas para nós é mais do que apenas carpintaria e construção. Nós inspiramos as crianças a usar sua criatividade, serem curiosas e buscar a aventura. Nós encorajamos as crianças a trabalharem juntas e brincarem ao céu aberto.
+A ideia de uma Vila da Carpintaria parece simples: madeiras, uma moeda social e muitas crianças. 
 
-Para começar a construir-se e desenvolver a autoconfiança. Queremos incentivá-los a desenvolver e tomar novos caminhos, a lidar com o meio ambiente e os materiais disponíveis de maneira diferente do cotidiano insustentável. Reunindo crianças e adultos com todos compartilhando conhecimentos, habilidades, criatividade e tecnologias, asseguramos que elas se tornarão mais conscientes do papel que podem desempenhar na formação da sociedade.
+Para nós é mais do que apenas carpintaria e construção. Nós inspiramos as crianças a usar sua criatividade, serem curiosas e buscar a aventura. Nós encorajamos as crianças a trabalharem juntas e brincarem ao céu aberto, para começar a construir-se e desenvolver a autoconfiança.
+
+Queremos incentivá-los a desenvolver e tomar novos caminhos, a lidar com o meio ambiente, tecnologias e os materiais disponíveis de maneira diferente do cotidiano insustentável. 
+
+Reunindo crianças e adultos com todos compartilhando conhecimentos, habilidades, criatividade e tecnologias, asseguramos que elas se tornarão mais conscientes do papel que podem desempenhar na formação da sociedade.
+
+
 
 ### MAIS DO QUE UMA SEMANA INESQUECÍVEL
 
