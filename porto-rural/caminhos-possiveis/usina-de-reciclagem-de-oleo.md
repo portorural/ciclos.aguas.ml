@@ -4,7 +4,7 @@
 # Sobre o projeto Anjos das Águas
 O projeto Anjos das Águas nasce no momento em que a ONG Anjos das Perucas e a ONG Caminho das Águas aliam-se para a reciclagem de óleo doméstico nas cidades de Porto Feliz e Itu.
 
-Dia 12 de setembro de 2019 Iniciamos, em reunião na casa 421 da colônia, uma conversa sobre a instalação de uma usina de reciclagem de óleo de cozinha na Fazenda Capuava como um projeto na Porto Rural.
+No dia 12 de setembro de 2019 iniciamos, em reunião na casa 421 da colônia, uma conversa sobre a instalação de uma usina de reciclagem de óleo de cozinha na Fazenda Capuava como um projeto na Porto Rural.
 
 Conectados pela Telma, Fernando apresentou os planos 3D da usina em seu estágio final e, inspirados pelo potencial de conexão com a rede das ONGs, queremos evitar que o óleo de cozinha tenha destinação incorreta, principalmente em pias e ralos, evitando a contaminação de nossas águas, evitando o desperdício de recursos preciosos e gerando recursos financeiros para o cumpriment de nossas atividades estatutárias
 
