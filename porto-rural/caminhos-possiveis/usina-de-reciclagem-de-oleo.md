@@ -91,7 +91,7 @@ Aqui itens desejáveis, mesmo que não essenciais neste momento do projeto
 - conectar o projeto com outras etapas do problema (ver vídeos do prof Evandro Sanguinetto https://www.youtube.com/watch?v=tKCgQRZHaYI )
 - estudar Transesterificação
 - estudar Normas Técnicas
-- realizar estudo quanto ao impacto em qustões de patrimônio histórico e ambiental
+- realizar estudo quanto ao impacto em questões de patrimônio histórico e ambiental
 - possível ampliação para uma usina de reciclagem de pneus de caminhões e tratores
 
 
