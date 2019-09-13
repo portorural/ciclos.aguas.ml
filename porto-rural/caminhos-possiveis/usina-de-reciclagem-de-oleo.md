@@ -2,7 +2,7 @@
 <!-- SUBTITLE: Registros do projeto Anjos das Águas -->
 
 # Sobre o projeto Anjos das Águas
-Em 12 de setembro de 2019 iniciamos uma conversa sobre a instalação de uma usina de reciclagem de óleo de cozinha na Fazenda Capuava, quando a ONG Caminho das Águas e a ONG Anjos das Perucas aliam-se para a reciclagem de óleo doméstico
+O projeto Anjos das Águas é fundado em 12 de setembro de 2019 quando iniciamos uma conversa sobre a instalação de uma usina de reciclagem de óleo de cozinha na Fazenda Capuava. Um momento onde a ONG Caminho das Águas e a ONG Anjos das Perucas aliam-se para a reciclagem de óleo doméstico
 
 Conectados pela Telma e inspirados pelo potencial de conexão com a rede de, queremos evitar que o óleo de cozinha tenha destinação incorreta, principalmente em pias e ralos, evitando a contaminação de nossas águas e evitando o desperdício de recursos preciosos. O óleo de cozinha possui uma densidade inferior à da água, podendo formar uma película entorno das moléculas de águas capaz de causar problemas ambientais graves, alé de danos como entupimento nas estruturas de saneamento, públicas ou privadas.
 
@@ -11,7 +11,8 @@ Participaram das conversas e visita aos galpões da Garagem Industrial: Telma We
 
 ## Cuidados e atenção
 
-A seguir cuidados práticos anotados a partir de nossas conversas
+A seguir cuidados práticos anotados a partir de nossas conversas que podem ser úteis para a elaboração do projeto técnico
+
 
 ### Definindo o espaço
 
@@ -22,15 +23,13 @@ Fatores a serem considerados:
 - definir local e reformas necessárias nos galpões da Porto Rural
 
 
-### Disponibilidade de mão-de-obra
-
-É necessária mão de obra constante, e mesmo sendo um trabalho leve, super desejável ter uma pessoa da comunidade ativa neste processo
-
-
-### Sistema de Segurança
+### Sistemas e Segurança
 
 Itens relevantes na primeira conversa:
 
+- águas e energia elétrica
+- mobiliário
+- internet
 - grades de ferro
 - sinalizações
 - alarme
@@ -38,10 +37,44 @@ Itens relevantes na primeira conversa:
 - cadeados, trancas e afins
 
 
+### Disponibilidade de mão-de-obra
+
+É necessária mão de obra constante, e mesmo sendo um trabalho leve, super desejável ter uma pessoa da comunidade ativa neste processo
+
+
+### Esqueleto do Plano do Projeto
+
+1.	Matriz de Responsabilidades do Planejamento
+2.	Declaração do Escopo
+3.	Definição das Atividades, Estimativa de Recursos e Duração
+4.	Planejamento de Aquisições
+5.	Planejamento da Qualidade
+6.	Planejamento de Riscos
+7.	Cronograma de execução
+8.	Planejamento dos Custos
+9.	Elaboração dos contratos
+
+### Conexão com os Objetivos do Desenvolvimento Sustentável
+
+
+### Pesquisas e links relevantes
+
+**Projeto de Lei do Senado n° 75, de 2017**
+https://www25.senado.leg.br/web/atividade/materias/-/materia/128531
+
+**Campanha apoiada pela Secretaria de Infraestrutura e Meio Ambiente do Estado de São Paulo**
+https://www.oleosustentavel.org.br
+
+**Associação Brasileira das Indústrias de Óleos Vegetais (ABIOVE)**
+http://abiove.org.br
+
+
 ## Variantes
 
 Aqui itens desejáveis, mesmo que não essenciais neste momento do projeto
 
+- iniciar implementação de website
+- desenhar aplicativo mobile
 - estudar Transesterificação
 - estudar Normas Técnicas
 - realizar estudo quanto ao impacto em qustões de patrimônio histórico e ambiental
