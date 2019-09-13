@@ -14,6 +14,8 @@ Segundo pesquisas desenvolvidas pela ADM (Archer Daniels Midland Company) do Bra
 
 Participaram das conversas e visita aos galpões da Garagem Industrial: Telma Weissmann , Dr Jairo, Fernando e Carlos Diego. Depois entregamos ao Moisés e Mayara o manual de tecnologias de saneamento permacultural, avançando os potenciais de integração dos processos em curso na Porto Rural
 
+<img src="/uploads/porto-rural/anjos-das-aguas-portorural.jpeg" width="480">
+
 ![Anjos Das Aguas Portorural](/uploads/porto-rural/anjos-das-aguas-portorural.jpeg "Anjos Das Aguas Portorural")
 
 ## Cuidados e atenção
