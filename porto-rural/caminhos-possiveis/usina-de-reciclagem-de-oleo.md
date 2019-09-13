@@ -2,11 +2,15 @@
 <!-- SUBTITLE: Registros do projeto Anjos das Águas -->
 
 # Sobre o projeto Anjos das Águas
-O projeto Anjos das Águas é fundado em 12 de setembro de 2019 quando iniciamos uma conversa sobre a instalação de uma usina de reciclagem de óleo de cozinha na Fazenda Capuava. Um momento onde a ONG Caminho das Águas e a ONG Anjos das Perucas aliam-se para a reciclagem de óleo doméstico
+O projeto Anjos das Águas nasce no momento em que a ONG Anjos das Perucas e a ONG Caminho das Águas aliam-se para a reciclagem de óleo doméstico nas cidades de Porto Feliz e Itu.
 
-Conectados pela Telma e inspirados pelo potencial de conexão com a rede de, queremos evitar que o óleo de cozinha tenha destinação incorreta, principalmente em pias e ralos, evitando a contaminação de nossas águas e evitando o desperdício de recursos preciosos. O óleo de cozinha possui uma densidade inferior à da água, podendo formar uma película entorno das moléculas de águas capaz de causar problemas ambientais graves, alé de danos como entupimento nas estruturas de saneamento, públicas ou privadas.
+Dia 12 de setembro de 2019 Iniciamos, em reunião na casa 421 da colônia, uma conversa sobre a instalação de uma usina de reciclagem de óleo de cozinha na Fazenda Capuava como um projeto na Porto Rural.
 
-Participaram das conversas e visita aos galpões da Garagem Industrial: Telma Weissmann , Dr Jairo, Fernando e Carlos Diego.
+Conectados pela Telma, Fernando apresentou os planos 3D da usina em seu estágio final e, inspirados pelo potencial de conexão com a rede das ONGs, queremos evitar que o óleo de cozinha tenha destinação incorreta, principalmente em pias e ralos, evitando a contaminação de nossas águas, evitando o desperdício de recursos preciosos e gerando recursos financeiros para o cumpriment de nossas atividades estatutárias
+
+Segundo pesquisas desenvolvidas pela ADM (Archer Daniels Midland Company) do Brasil, 90% do óleo de cozinha é descartado de forma inadequada. O óleo de cozinha possui uma densidade inferior à da água, podendo formar uma película entorno das moléculas de águas capaz de causar problemas ambientais graves, além de danos como entupimento nas estruturas de saneamento, públicas ou privadas.
+
+Participaram das conversas e visita aos galpões da Garagem Industrial: Telma Weissmann , Dr Jairo, Fernando e Carlos Diego. Depois entregamos ao Moisés e Mayara o manual de tecnologias de saneamento permacultural, avançando os potenciais de integração dos processos em curso na Porto Rural
 
 
 ## Cuidados e atenção
@@ -54,7 +58,15 @@ Itens relevantes na primeira conversa:
 8.	Planejamento dos Custos
 9.	Elaboração dos contratos
 
-### Conexão com os Objetivos do Desenvolvimento Sustentável
+### Conexão com os Objetivos do Desenvolvimento Sustentável (ODS)
+
+O projeto Anjos das Águas colabora com os seguintes ODS:
+
+* ODS1 –  Erradicação da Pobreza;
+* ODS 4 – Educação de Qualidade;
+* ODS 6 – Água Potável e Saneamento;
+* ODS 8 – Trabalho Descente e Crescimento Econômico;
+* ODS 12 – Consumo e Produção Responsáveis.
 
 
 ### Pesquisas e links relevantes
@@ -75,6 +87,7 @@ Aqui itens desejáveis, mesmo que não essenciais neste momento do projeto
 
 - iniciar implementação de website
 - desenhar aplicativo mobile
+- planejar subprodutos possíveis (sabão, etc)
 - estudar Transesterificação
 - estudar Normas Técnicas
 - realizar estudo quanto ao impacto em qustões de patrimônio histórico e ambiental
