@@ -74,7 +74,7 @@ O projeto Anjos das Águas colabora com os seguintes ODS:
 * ODS 12 – Consumo e Produção Responsáveis.
 
 
-### Pesquisas e links relevantes
+### Cyorgs e links relevantes
 
 **Projeto de Lei do Senado n° 75, de 2017**
 https://www25.senado.leg.br/web/atividade/materias/-/materia/128531
