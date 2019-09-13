@@ -52,6 +52,8 @@ Itens relevantes na primeira conversa:
 
 ## Esqueleto do Plano do Projeto
 
+De acordo com o modelo a seguir
+
 1.	Matriz de Responsabilidades do Planejamento
 2.	Declaração do Escopo
 3.	Definição das Atividades, Estimativa de Recursos e Duração
