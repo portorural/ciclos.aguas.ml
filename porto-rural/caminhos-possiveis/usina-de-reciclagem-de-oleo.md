@@ -6,7 +6,7 @@ O projeto Anjos das Águas nasce no momento em que a ONG Anjos das Perucas e a O
 
 No dia 12 de setembro de 2019 iniciamos, em reunião na casa 421 da colônia, uma conversa sobre a instalação de uma usina de reciclagem de óleo de cozinha na Fazenda Capuava como um projeto na Porto Rural.
 
-Conectados pela Telma, Fernando apresentou os planos 3D da usina em seu estágio final e, inspirados pelo potencial de conexão com a rede das ONGs, queremos evitar que o óleo de cozinha tenha destinação incorreta, principalmente em pias e ralos, evitando a contaminação de nossas águas, evitando o desperdício de recursos preciosos e gerando recursos financeiros para o cumprimento de nossas atividades estatutárias
+Conectados pela Telma, Fernando apresentou os planos 3D da usina em seu estágio final e, inspirados pelo potencial de conexão com a rede das ONGs, queremos evitar que o óleo de cozinha tenha destinação incorreta, principalmente em pias e ralos, evitando a contaminação de nossas águas e o desperdício de recursos preciosos. Queremos também criar trabalhos dignos e gerar recursos financeiros para o cumprimento de nossas atividades estatutárias
 
 Segundo pesquisas desenvolvidas pela ADM (Archer Daniels Midland Company) do Brasil, 90% do óleo de cozinha é descartado de forma inadequada. O óleo de cozinha possui uma densidade inferior à da água, podendo formar uma película entorno das moléculas de águas capaz de causar problemas ambientais graves, além de danos como entupimento nas estruturas de saneamento, públicas ou privadas.
 
