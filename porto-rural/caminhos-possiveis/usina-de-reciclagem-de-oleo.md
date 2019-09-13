@@ -50,8 +50,7 @@ Itens relevantes na primeira conversa:
 
 É necessária mão de obra constante, e mesmo sendo um trabalho leve, super desejável ter uma pessoa da comunidade ativa neste processo
 
-
-### Esqueleto do Plano do Projeto
+## Esqueleto do Plano do Projeto
 
 1.	Matriz de Responsabilidades do Planejamento
 2.	Declaração do Escopo
@@ -63,7 +62,7 @@ Itens relevantes na primeira conversa:
 8.	Planejamento dos Custos
 9.	Elaboração dos contratos
 
-### Conexão com os Objetivos do Desenvolvimento Sustentável (ODS)
+## Conexão com os Objetivos do Desenvolvimento Sustentável (ODS)
 
 O projeto Anjos das Águas colabora com os seguintes ODS:
 
@@ -72,18 +71,6 @@ O projeto Anjos das Águas colabora com os seguintes ODS:
 * ODS 6 – Água Potável e Saneamento;
 * ODS 8 – Trabalho Descente e Crescimento Econômico;
 * ODS 12 – Consumo e Produção Responsáveis.
-
-
-### Cyorgs e links relevantes
-
-**Projeto de Lei do Senado n° 75, de 2017**
-https://www25.senado.leg.br/web/atividade/materias/-/materia/128531
-
-**Campanha apoiada pela Secretaria de Infraestrutura e Meio Ambiente do Estado de São Paulo**
-https://www.oleosustentavel.org.br
-
-**Associação Brasileira das Indústrias de Óleos Vegetais (ABIOVE)**
-http://abiove.org.br
 
 
 ## Variantes
@@ -112,3 +99,15 @@ ONG Caminho das Águas
 
 Nossa sede social é a Baia - https://baiahacker.space/endereco
 Vídeo do local - https://www.youtube.com/watch?v=MvX5GsO8Jdo
+
+### Cyorgs e links relevantes
+
+**Projeto de Lei do Senado n° 75, de 2017**
+https://www25.senado.leg.br/web/atividade/materias/-/materia/128531
+
+**Campanha apoiada pela Secretaria de Infraestrutura e Meio Ambiente do Estado de São Paulo**
+https://www.oleosustentavel.org.br
+
+**Associação Brasileira das Indústrias de Óleos Vegetais (ABIOVE)**
+http://abiove.org.br
+
