@@ -25,7 +25,7 @@ A seguir, cuidados práticos anotados em nossas conversas que são úteis para a
 Fatores a serem considerados:
 
 - liberar a sala de aula da Anjos das Perucas
-- usar Baia Hacker Space para o período de incubação
+- Baia Hacker Space pode ser o local para o período de incubação
 - definir local e reformas necessárias nos galpões da Porto Rural
 
 
