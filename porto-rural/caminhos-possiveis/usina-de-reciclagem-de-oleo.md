@@ -29,13 +29,16 @@ Fatores a serem considerados:
 - definir local e reformas necessárias nos galpões da Porto Rural
 
 
-### Sistemas e Segurança
+### Necessidades e Segurança
 
 Itens relevantes na primeira conversa:
 
 - águas e energia elétrica
 - mobiliário
 - internet
+- banheiro
+- escritório e refeitório apto
+- normas técnicas
 - grades de ferro
 - sinalizações
 - alarme
