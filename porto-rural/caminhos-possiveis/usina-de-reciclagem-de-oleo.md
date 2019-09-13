@@ -40,6 +40,8 @@ Itens relevantes na primeira conversa:
 
 ## Variantes
 
+Aqui itens desejáveis, mesmo que não essenciais neste momento do projeto
+
 - estudar Transesterificação
 - estudar Normas Técnicas
 - realizar estudo quanto ao impacto em qustões de patrimônio histórico e ambiental
