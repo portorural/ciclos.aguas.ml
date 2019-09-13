@@ -88,6 +88,7 @@ Aqui itens desejáveis, mesmo que não essenciais neste momento do projeto
 - iniciar implementação de website
 - desenhar aplicativo mobile
 - planejar subprodutos possíveis (sabão, etc)
+- conectar o projeto com outras etapas do problema (ver vídeos do prof Evandro Sanguinetto https://www.youtube.com/watch?v=tKCgQRZHaYI )
 - estudar Transesterificação
 - estudar Normas Técnicas
 - realizar estudo quanto ao impacto em qustões de patrimônio histórico e ambiental
