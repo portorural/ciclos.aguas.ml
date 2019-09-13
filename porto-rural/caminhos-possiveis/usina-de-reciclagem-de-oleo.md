@@ -15,7 +15,7 @@ Participaram das conversas e visita aos galpões da Garagem Industrial: Telma We
 
 ## Cuidados e atenção
 
-A seguir cuidados práticos anotados a partir de nossas conversas que podem ser úteis para a elaboração do projeto técnico
+A seguir, cuidados práticos anotados em nossas conversas que são úteis para a elaboração do projeto técnico
 
 
 ### Definindo o espaço
