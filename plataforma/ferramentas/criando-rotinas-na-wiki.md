@@ -15,3 +15,6 @@ https://github.com/Requarks/wiki/issues/627
 
 Modelo nginx de websites
 https://linuxize.com/post/how-to-install-wordpress-with-nginx-on-ubuntu-18-04/
+
+Instalar rapidamente Ubuntu 18.04 LEMP
+https://www.digitalocean.com/community/tutorials/how-to-install-linux-nginx-mysql-php-lemp-stack-ubuntu-18-04
