@@ -85,3 +85,7 @@ Programa de extensão para incentivar melhores práticas de espaçamento entre �
 Beneficia principalmente a sociedade. Pode ser financiado através de receitas de turismo, vendas de carbono, imposto sobre carbono ou imposto sobre energia hidrelétrica, dependendo da situação.
 
 **Fonte:** Quadro 27
+
+# Exemplo em Senegal
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">100,000 people have worked together to replant tens of millions of trees in Senegal 🇸🇳 over the last 13 years <a href="https://t.co/n4gsmVEEaN">pic.twitter.com/n4gsmVEEaN</a></p>&mdash; Julia Norton (@Julez_Norton) <a href="https://twitter.com/Julez_Norton/status/1188946156761600000?ref_src=twsrc%5Etfw">October 28, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
