@@ -12,13 +12,12 @@ Encontre as atividades específicas da cadeia de valor (conjunto de negócios) e
 
 
 ### Principais atividades
-* • Identificar como alavancar estratégias governamentais e
-* investimentos.
-* • Alinhar com as realidades econômicas da área.
-* • Atenda aos requisitos básicos para um bom investimento em restauração.
-* • Identifique um número limitado de atividades a serem focadas (ou seja, mantenha os modelos de negócios simples).
-* • “Siga o dinheiro”, gastos públicos e outros investimentos privados para encontrar oportunidades.
-* • Desenvolver um conjunto inicial de oportunidades de investimento em potencial alinhadas por tipo de cadeia de valor / negócio, tipo de alvo da fonte de financiamento.
+* Identificar como alavancar estratégias governamentais e investimentos.
+* Alinhar com as realidades econômicas da área.
+* Atenda aos requisitos básicos para um bom investimento em restauração.
+* Identifique um número limitado de atividades a serem focadas (ou seja, mantenha os modelos de negócios simples).
+* “Siga o dinheiro”, gastos públicos e outros investimentos privados para encontrar oportunidades.
+* Desenvolver um conjunto inicial de oportunidades de investimento em potencial alinhadas por tipo de cadeia de valor / negócio, tipo de alvo da fonte de financiamento.
 
 ## 2. Fornecer suporte para comercialização e apresentar o caso de negócios
 
@@ -31,10 +30,10 @@ para retornos de investimento, desenvolvendo experiência em gerenciamento opera
 
 ### Principais atividades
 
-• Estabeleça abordagens de agregação que proporcionem escala suficiente (para que o tamanho total seja grande o suficiente para o investidor alvo).
-• Desenvolver projeções financeiras de alta qualidade com sensibilidades para demonstrar rentabilidade, risco e perfil de retorno.
-• Definir os principais parceiros de implementação e executar acordos contratuais com as comunidades, especialistas técnicos e governo.
-• Determinar mecanismos transparentes e eficientes de fluxo de fundos.
+* Estabeleça abordagens de agregação que proporcionem escala suficiente (para que o tamanho total seja grande o suficiente para o investidor alvo).
+* Desenvolver projeções financeiras de alta qualidade com sensibilidades para demonstrar rentabilidade, risco e perfil de retorno.
+* Definir os principais parceiros de implementação e executar acordos contratuais com as comunidades, especialistas técnicos e governo.
+* Determinar mecanismos transparentes e eficientes de fluxo de fundos.
 
 ## 3. Identifique e garanta o investimento privado
 
@@ -45,11 +44,11 @@ pode representar a oportunidade de investimento, direcionar os investidores apro
 
 ### Principais atividades
 
-* • Revise cada conjunto de investimentos quanto à adequação a cada tipo de investidor e desenvolva a lista de possíveis clientes-alvo.
-* • Desenvolver materiais de qualidade profissional para investimentos.
-* • Realize a triagem inicial dos clientes potenciais.
-* • Planeje 'roadshows' e reuniões direcionadas com o envolvimento dos principais parceiros de implementação.
-* • Suporte a due diligence e estruturação / negociação de documentos de transação.
+* Revise cada conjunto de investimentos quanto à adequação a cada tipo de investidor e desenvolva a lista de possíveis clientes-alvo.
+* Desenvolver materiais de qualidade profissional para investimentos.
+* Realize a triagem inicial dos clientes potenciais.
+* Planeje 'roadshows' e reuniões direcionadas com o envolvimento dos principais parceiros de implementação.
+* Suporte a due diligence e estruturação / negociação de documentos de transação.
 
 ## 4. Manter o valor do investimento e promover escala
 
@@ -60,10 +59,10 @@ para garantir o sucesso do investimento e identificar novas oportunidades de neg
 
 ### Principais atividades
 
-* • Estabelecer requisitos de relatório de desempenho para entidades de investimento e principais parceiros de implementação (alavancando sistemas e serviços de extensão existentes, tecnologias móveis e de sensoriamento remoto).
-* • Assegurar a existência de programas para treinamento contínuo e motivações alinhadas para promover uma adoção mais ampla e mais ampla entre os novos pequenos proprietários.
-* • Forneça relatórios trimestrais de desempenho aos investidores e compartilhe histórias de sucesso de forma mais ampla.
-* • Supervisionar a prática financeira e operacional das entidades de investimento.
+* Estabelecer requisitos de relatório de desempenho para entidades de investimento e principais parceiros de implementação (alavancando sistemas e serviços de extensão existentes, tecnologias móveis e de sensoriamento remoto).
+* Assegurar a existência de programas para treinamento contínuo e motivações alinhadas para promover uma adoção mais ampla e mais ampla entre os novos pequenos proprietários.
+* Forneça relatórios trimestrais de desempenho aos investidores e compartilhe histórias de sucesso de forma mais ampla.
+* Supervisionar a prática financeira e operacional das entidades de investimento.
 
 **Fonte:** Quadro 26
 ----
