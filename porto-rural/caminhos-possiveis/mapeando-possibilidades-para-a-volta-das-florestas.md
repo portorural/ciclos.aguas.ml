@@ -74,8 +74,7 @@ Exemplos de opções de financiamento recomendadas para algumas das intervençõ
 
 ### A agrofloresta e a regeneração natural gerenciada pelos agricultores
 
-Programa de co-investimento em que os agricultores fornecem
-o trabalho agrícola em troca de mudas e fertilizantes inorgânicos poderia compensar o risco das culturas.
+Programa de co-investimento em que os agricultores fornecem o trabalho agrícola em troca de mudas e fertilizantes inorgânicos poderia compensar o risco das culturas.
 
 ### Gerenciamento aprimorado de lotes de madeira
 
