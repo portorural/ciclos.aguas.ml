@@ -39,8 +39,7 @@ para retornos de investimento, desenvolvendo experiência em gerenciamento opera
 
 ### Recomendação
 
-Para atrair investimentos de fundos de private equity, instituições financeiras de desenvolvimento, bancos regionais / internacionais e investidores institucionais, é necessário usar especialistas financeiros qualificados que
-pode representar a oportunidade de investimento, direcionar os investidores apropriados e estruturar / executar a transação.
+Para atrair investimentos de fundos de private equity, instituições financeiras de desenvolvimento, bancos regionais / internacionais e investidores institucionais, é necessário usar especialistas financeiros qualificados que pode representar a oportunidade de investimento, direcionar os investidores apropriados e estruturar / executar a transação.
 
 ### Principais atividades
 
