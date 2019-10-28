@@ -67,8 +67,9 @@ para garantir o sucesso do investimento e identificar novas oportunidades de neg
 * Supervisionar a prática financeira e operacional das entidades de investimento.
 
 **Fonte:** Quadro 26
-----
 
+Exemplo em Ruanda
+----
 Exemplos de opções de financiamento recomendadas para algumas das intervenções prioritárias de RRF no Ruanda
 
 ### A agrofloresta e a regeneração natural gerenciada pelos agricultores
