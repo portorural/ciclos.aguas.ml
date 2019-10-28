@@ -9,7 +9,7 @@ Fonte 2: download do pdf https://cmsdata.iucn.org/downloads/roam_handbook_lowres
 
 A seguir temos as recomendações gerais para atrair investimentos privados para restauração. Traduzidas para o português, estas ações tem como objetivo mapear as oportunidades de retorno de florestas e árvores.
 
-## 1. Identificar práticas e parceiros que valem a pena investir## 
+## 1. Identificar práticas e parceiros que valem a pena investir
 ### Recomendação
 Encontre as atividades específicas da cadeia de valor (conjunto de negócios) em uma região geográfica que já estão sendo implementadas em alguma escala e podem oferecer atividades de restauração prioritárias e melhorar os meios de subsistência, mas que têm o potencial de atrair novas fontes de investimento privado.
 
