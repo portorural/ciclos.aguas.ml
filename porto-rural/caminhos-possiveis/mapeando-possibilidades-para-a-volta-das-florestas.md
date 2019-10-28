@@ -4,6 +4,9 @@
 # Atlas da Oportunidade de Restauração da Paisagem Florestal
 O Atlas da Oportunidade de Restauração da Paisagem Florestal foi produzido pelo WRI em colaboração com a Universidade de Maryland e a IUCN como uma contribuição à Parceria Global sobre Restauração da Paisagem Florestal.
 
+Fonte: 1: https://www.wri.org/our-work/project/global-restoration-initiative/methodology-about-atlas-forest-landscape-restoration
+Fonte 2: download do pdf https://cmsdata.iucn.org/downloads/roam_handbook_lowres_web.pdf
+
 A seguir temos as recomendações gerais para atrair investimentos privados para restauração. Traduzidas para o português, estas ações tem como objetivo mapear as oportunidades de retorno de florestas e árvores.
 
 ## 1. Identificar práticas e parceiros que valem a pena investir## 
