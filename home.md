@@ -59,7 +59,7 @@ Wiki das Águas: https://wiki.aguas.ml
 
 EAD para cursos livres: http://livres.aguas.ml
 
-Raspador de notícias hídricas: http://novas.portorural.com.br
+Raspador de notícias hídricas: https://porto.aguas.ml
 
 Raspador de notícias hídricas alternativo: http://mitmacs.com
 
