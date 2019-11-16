@@ -18,7 +18,7 @@ Software escolhido é um fork do Airtime atual, atualizando em http://libretime.
 
 
 ```text
-apt-get install language-pack-de language-pack-de-base mc unp zip unzip sudo unp git ufw nano sudo git build-essential libssl-dev openssh-server
+sudo apt-get install mc unp zip unzip sudo unp git ufw nano sudo git build-essential libssl-dev openssh-server
 ```
 
 
