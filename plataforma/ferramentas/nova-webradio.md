@@ -14,6 +14,16 @@ Software escolhido é um fork do Airtime atual, atualizando em http://libretime.
 * Pareando chaves e criando VPS
 * Login ssh root@
 
+## Criar novo usuário
+
+
+```text
+sudo adduser biluga
+sudo usermod -aG sudo biluga
+sudo su - biluga
+```
+
+Realizar os próximos passos com o novo usuário criado. Guarde bem a senha que você utilizou.
 
 ### Adicionando novos repositórios
 
@@ -54,6 +64,15 @@ sudo apt update && sudo apt upgrade && sudo apt dist-upgrade
 sudo reboot
 ```
 
+
+### Instalar o Libretime
+
+
+```text
+git clone https://github.com/LibreTime/libretime.git
+cd /libretime
+sudo ./install
+```
 
 
 
