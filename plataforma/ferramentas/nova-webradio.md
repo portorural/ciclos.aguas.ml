@@ -39,7 +39,7 @@ deb http://archive.ubuntu.com/ubuntu bionic-updates main multiverse restricted u
 ```
 
 
-### Atualize e instale:
+### Atualize e verifique firewall:
 
 ```text
 sudo apt update
