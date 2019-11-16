@@ -14,6 +14,7 @@ Software escolhido é um fork do Airtime atual, atualizando em http://libretime.
 * Pareando chaves e criando VPS
 * Login ssh root@
 
+
 ## Criar novo usuário
 
 
@@ -25,8 +26,9 @@ sudo su - biluga
 
 Realizar os próximos passos com o novo usuário criado. Guarde bem a senha que você utilizou.
 
-## Adicionando o básico
 
+## Adicionando o básico
+Instale ferramentas que serão úteis durante o processo
 
 ```text
 sudo apt-get install mc unp zip unzip sudo curl git ufw nano wget git build-essential libssl-dev openssh-server
@@ -41,8 +43,12 @@ sudo apt-get install wget
 sudo apt-get install nano
 ```
 
+Acreditamos que foi tudo tranquilo e você souber escolher a melhor opção para você
+
 
 ### Edite o arquivo /etc/apt/sources.list com estas linhas:
+
+Adicione novas linhas. A seguir estão as linhas para o Ubuntu 18.04 e caso você deseja para o Ubuntu 16 Xenial, veja ao final da página nas referências
 
 
 ```text
@@ -55,6 +61,7 @@ deb http://archive.ubuntu.com/ubuntu bionic-security main multiverse restricted 
 deb http://archive.ubuntu.com/ubuntu bionic-updates main multiverse restricted universe
 ```
 
+Control + X  para salvar usando o nano, não se esqueça ;)
 
 ### Atualize e verifique firewall:
 
