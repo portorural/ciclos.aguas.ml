@@ -25,7 +25,7 @@ sudo su - biluga
 
 Realizar os próximos passos com o novo usuário criado. Guarde bem a senha que você utilizou.
 
-### Adicionando o básico
+## Adicionando o básico
 
 
 ```text
@@ -72,7 +72,7 @@ sudo reboot
 ```
 
 
-### Instalar o Libretime
+## Instalar o Libretime
 
 
 ```text
@@ -84,6 +84,7 @@ sudo ./install
 
 
 ### Instalar PHP
+Se for preciso você saberá
 
 ```text
 sudo apt-get install php
