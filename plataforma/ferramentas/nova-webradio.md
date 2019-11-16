@@ -29,7 +29,7 @@ Realizar os próximos passos com o novo usuário criado. Guarde bem a senha que 
 
 
 ```text
-sudo apt-get install mc unp zip unzip sudo unp git ufw nano sudo git build-essential libssl-dev openssh-server
+sudo apt-get install mc unp zip unzip sudo curl git ufw nano wget git build-essential libssl-dev openssh-server
 ```
 
 ou
