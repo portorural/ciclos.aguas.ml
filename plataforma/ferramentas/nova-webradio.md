@@ -1,6 +1,13 @@
 <!-- TITLE: Nova Web Rádio -->
 <!-- SUBTITLE: Uma nova web rádio -->
 
+
+# Novidades da Rádio Bilu.ga
+
+Vamos atualizar nossa rádio, melhorando os serviços!
+
+Software escolhido é um fork do Airtime atual, atualizando em http://libretime.org/install/
+
 # Notas de instalação
 
 * Instalando Puttygen
