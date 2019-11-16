@@ -86,6 +86,8 @@ sudo apt-get install php-{bcmath,bz2,intl,gd,mbstring,mysql,zip,fpm}
 
 ## Referências
 
+
 https://github.com/LibreTime/libretime/wiki/Installing-LibreTime-from-Git-on-a-stand-alone-VPS
+https://devanswers.co/ubuntu-18-04-initial-server-setup/
 https://soka.gitlab.io/RadioLibre/man/libretime_y_virtualbox/
 https://www.p-node.org/documentation/hardwares/serveur-2
