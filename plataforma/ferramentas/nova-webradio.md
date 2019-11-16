@@ -82,10 +82,12 @@ sudo ./install
 ```
 
 
+Digite Y e aperte  ENTER quando preciso.
 
+E aguarde
 
 ### Instalar PHP
-Se for preciso você saberá
+Se for preciso, você saberá
 
 ```text
 sudo apt-get install php
@@ -101,7 +103,9 @@ https://devanswers.co/ubuntu-18-04-initial-server-setup/
 https://soka.gitlab.io/RadioLibre/man/libretime_y_virtualbox/
 https://www.p-node.org/documentation/hardwares/serveur-2
 
-## Source list Ubuntu 16 Xenial
+
+
+### Source list Ubuntu 16 Xenial
 
 
 ```text
