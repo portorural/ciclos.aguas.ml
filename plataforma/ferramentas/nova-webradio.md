@@ -23,13 +23,17 @@ deb http://archive.ubuntu.com/ubuntu bionic-updates main multiverse restricted u
 
 ### Atualize e instale:
 
-`sudo apt update`
-`sudo apt-get upgrade`
-`sudo apt-get install ufw`
-`sudo ufw allow OpenSSH
-sudo ufw enable`
-`date`
-`sudo apt update && sudo apt upgrade && sudo apt dist-upgrade`
+```text
+sudo apt update
+sudo apt-get upgrade
+sudo apt-get install ufw
+sudo ufw allow OpenSSH
+sudo ufw enable
+date
+sudo apt update && sudo apt upgrade && sudo apt dist-upgrade
+sudo reboot
+```
+
 
 
 
