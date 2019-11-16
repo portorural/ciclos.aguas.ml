@@ -64,6 +64,7 @@ deb http://archive.ubuntu.com/ubuntu bionic-updates main multiverse restricted u
 Control + X  para salvar usando o nano, não se esqueça ;)
 
 ### Atualize e verifique firewall:
+Atualizei seu sistema com os novos repositórios e instale e configure o ufw
 
 ```text
 sudo apt update
@@ -71,13 +72,22 @@ sudo apt-get upgrade
 sudo apt-get install ufw
 sudo ufw allow OpenSSH
 sudo ufw enable
-date
-sudo timedatectl set-timezone America/Sao_Paulo
-timedatectl
 sudo apt update && sudo apt upgrade && sudo apt dist-upgrade
 sudo reboot
 ```
 
+Maneiro né?
+
+### Data no Ubuntu 18.04
+Caso seja preciso
+
+```text
+date
+sudo timedatectl set-timezone America/Sao_Paulo
+timedatectl
+```
+
+Super simples.
 
 ## Instalar o Libretime
 
