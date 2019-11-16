@@ -111,6 +111,23 @@ sudo apt-get install php
 sudo apt-get install php-{bcmath,bz2,intl,gd,mbstring,mysql,zip,fpm}
 ```
 
+A seguir outros possíveis "erros"
+
+
+```text
+sudo a2dismod mpm_event
+sudo a2enmod mpm_prefork
+```
+
+
+Pasta de armazenamento do Libretime
+
+
+```text
+/srv/airtime/stor
+```
+
+Fuce
 
 ## Referências
 
