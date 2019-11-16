@@ -18,13 +18,6 @@ Software escolhido é um fork do Airtime atual, atualizando em http://libretime.
 
 
 ```text
-sudo apt-get install mc unp zip unzip sudo unp git ufw nano sudo git build-essential libssl-dev openssh-server
-```
-
-
-ou
-
-```text
 sudo adduser biluga
 sudo usermod -aG sudo biluga
 sudo su - biluga
@@ -32,7 +25,14 @@ sudo su - biluga
 
 Realizar os próximos passos com o novo usuário criado. Guarde bem a senha que você utilizou.
 
-### Adicionando novos repositórios
+### Adicionando o básico
+
+
+```text
+sudo apt-get install mc unp zip unzip sudo unp git ufw nano sudo git build-essential libssl-dev openssh-server
+```
+
+ou
 
 ```text
 sudo apt-get install git
