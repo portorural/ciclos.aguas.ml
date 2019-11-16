@@ -98,3 +98,43 @@ https://github.com/LibreTime/libretime/wiki/Installing-LibreTime-from-Git-on-a-s
 https://devanswers.co/ubuntu-18-04-initial-server-setup/
 https://soka.gitlab.io/RadioLibre/man/libretime_y_virtualbox/
 https://www.p-node.org/documentation/hardwares/serveur-2
+
+## Source list Ubuntu 16 Xenial
+
+
+```text
+#deb cdrom:[Ubuntu 16.04.2 LTS _Xenial Xerus_ - Release amd64 (20170215.2)]/ xenial main restricted
+
+deb http://us.archive.ubuntu.com/ubuntu/ xenial main restricted
+#deb-src http://us.archive.ubuntu.com/ubuntu/ xenial main restricted
+
+deb http://us.archive.ubuntu.com/ubuntu/ xenial-updates main restricted
+#deb-src http://us.archive.ubuntu.com/ubuntu/ xenial-updates main restricted
+
+deb http://us.archive.ubuntu.com/ubuntu/ xenial universe
+#deb-src http://us.archive.ubuntu.com/ubuntu/ xenial universe
+
+deb http://us.archive.ubuntu.com/ubuntu/ xenial-updates universe
+#deb-src http://us.archive.ubuntu.com/ubuntu/ xenial-updates universe
+
+deb http://us.archive.ubuntu.com/ubuntu/ xenial multiverse
+#deb-src http://us.archive.ubuntu.com/ubuntu/ xenial multiverse
+
+deb http://us.archive.ubuntu.com/ubuntu/ xenial-updates multiverse
+#deb-src http://us.archive.ubuntu.com/ubuntu/ xenial-updates multiverse
+
+deb http://us.archive.ubuntu.com/ubuntu/ xenial-backports main restricted universe multiverse
+#deb-src http://us.archive.ubuntu.com/ubuntu/ xenial-backports main restricted universe multiverse
+
+#deb http://archive.canonical.com/ubuntu xenial partner
+#deb-src http://archive.canonical.com/ubuntu xenial partner
+
+deb http://security.ubuntu.com/ubuntu xenial-security main restricted
+#deb-src http://security.ubuntu.com/ubuntu xenial-security main restricted
+
+deb http://security.ubuntu.com/ubuntu xenial-security universe
+#deb-src http://security.ubuntu.com/ubuntu xenial-security universe
+
+deb http://security.ubuntu.com/ubuntu xenial-security multiverse
+#deb-src http://security.ubuntu.com/ubuntu xenial-security multiverse
+```
