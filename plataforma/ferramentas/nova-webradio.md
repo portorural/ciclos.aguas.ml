@@ -55,8 +55,12 @@ sudo reboot
 
 
 ### Instalar PHP
-`sudo apt-get install php
-sudo apt-get install php-{bcmath,bz2,intl,gd,mbstring,mysql,zip,fpm}`
+
+```text
+sudo apt-get install php
+sudo apt-get install php-{bcmath,bz2,intl,gd,mbstring,mysql,zip,fpm}
+```
+
 
 https://soka.gitlab.io/RadioLibre/man/libretime_y_virtualbox/
 https://www.p-node.org/documentation/hardwares/serveur-2
