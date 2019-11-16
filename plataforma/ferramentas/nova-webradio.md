@@ -49,6 +49,7 @@ sudo ufw allow OpenSSH
 sudo ufw enable
 date
 sudo timedatectl set-timezone America/Sao_Paulo
+timedatectl
 sudo apt update && sudo apt upgrade && sudo apt dist-upgrade
 sudo reboot
 ```
