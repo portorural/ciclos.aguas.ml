@@ -18,6 +18,13 @@ Software escolhido é um fork do Airtime atual, atualizando em http://libretime.
 
 
 ```text
+apt-get install language-pack-de language-pack-de-base mc unp zip unzip sudo unp git ufw nano sudo git build-essential libssl-dev openssh-server
+```
+
+
+ou
+
+```text
 sudo adduser biluga
 sudo usermod -aG sudo biluga
 sudo su - biluga
