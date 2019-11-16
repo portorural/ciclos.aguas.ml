@@ -14,7 +14,14 @@ Software escolhido é um fork do Airtime atual, atualizando em http://libretime.
 * Pareando chaves e criando VPS
 * Login ssh root@
 
-`sudo apt-get install git curl wget nano`
+
+```text
+sudo apt-get install git
+sudo apt-get install curl
+sudo apt-get install wget
+sudo apt-get install nano
+```
+
 
 ### Edite o arquivo /etc/apt/sources.list com estas linhas:
 deb http://archive.ubuntu.com/ubuntu bionic main multiverse restricted universe
@@ -30,6 +37,7 @@ sudo apt-get install ufw
 sudo ufw allow OpenSSH
 sudo ufw enable
 date
+sudo timedatectl set-timezone America/Sao_Paulo
 sudo apt update && sudo apt upgrade && sudo apt dist-upgrade
 sudo reboot
 ```
