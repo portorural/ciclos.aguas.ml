@@ -145,8 +145,8 @@ ServerName seudominio.org
 
 # Teste e reinicie o Apache2
 
-sudo apachectl configtest
-sudo service apache2 restart
+sudo apache2ctl configtest
+sudo systemctl restart apache2
 
 ```
 
