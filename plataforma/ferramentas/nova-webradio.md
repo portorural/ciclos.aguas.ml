@@ -68,13 +68,18 @@ Control + X  para salvar usando o nano, não se esqueça ;)
 Atualizei seu sistema com os novos repositórios e instale e configure o ufw
 
 ```text
+# Primeiro atualiza
 sudo apt update
 sudo apt-get upgrade
+
+# Depois instala ufw
+
 sudo apt-get install ufw
 sudo ufw allow "OpenSSH"
 sudo ufw allow "ApacheFull"
 sudo ufw enable
 
+# Atualiza de novo e reboota
 sudo apt update && sudo apt upgrade && sudo apt dist-upgrade
 sudo reboot
 ```
