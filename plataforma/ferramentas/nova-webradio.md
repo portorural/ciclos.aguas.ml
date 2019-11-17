@@ -76,7 +76,7 @@ sudo reboot
 
 Maneiro né?
 
-## Criar novo usuário
+## Criando novo usuário
 
 
 ```text
@@ -88,7 +88,7 @@ sudo su - biluga
 Realizar os próximos passos com o novo usuário criado. Guarde bem a senha que você utilizou.
 
 
-## Instalar o Libretime
+## Instalando o Libretime
 
 
 ```text
@@ -112,6 +112,9 @@ https://devanswers.co/ubuntu-18-04-initial-server-setup/
 https://soka.gitlab.io/RadioLibre/man/libretime_y_virtualbox/
 https://www.p-node.org/documentation/hardwares/serveur-2
 
+
+
+## Dicas para finalizar e personalizar o Libretime
 
 ### Data no Ubuntu 18.04
 Caso seja preciso
