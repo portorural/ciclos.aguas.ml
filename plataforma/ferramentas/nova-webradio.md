@@ -115,6 +115,8 @@ https://www.p-node.org/documentation/hardwares/serveur-2
 
 
 ## Dicas geeks do Libretime
+Algumas anotações importantes para o processo
+
 
 ### Data no Ubuntu 18.04
 Caso seja preciso
