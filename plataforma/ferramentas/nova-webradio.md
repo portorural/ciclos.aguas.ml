@@ -114,7 +114,7 @@ https://www.p-node.org/documentation/hardwares/serveur-2
 
 
 
-## Dicas para finalizar e personalizar o Libretime
+## Dicas para personalizar o Libretime
 
 ### Data no Ubuntu 18.04
 Caso seja preciso
@@ -126,6 +126,28 @@ timedatectl
 ```
 
 Super simples.
+
+### Verificando e resolvendo o apache2
+
+Caso você receba o erro: AH00558: apache2: Could not reliably determine the server's fully qualified domain name
+
+```text
+
+# Edite o arquivo de config do Apache2
+
+sudo nano /etc/apache2/apache2.conf
+
+# E adicione a seguinte linha
+
+ServerName seudominio.org
+
+# Teste e reinicie o Apache2
+
+sudo apachectl configtest
+sudo service apache2 restart
+
+```
+
 
 ### Instalar PHP
 Se for preciso, você saberá
