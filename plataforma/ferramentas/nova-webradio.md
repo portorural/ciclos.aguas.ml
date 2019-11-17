@@ -118,6 +118,27 @@ https://www.p-node.org/documentation/hardwares/serveur-2
 Algumas anotações importantes para o processo
 
 
+### Definir local, erro airtime-playout
+A instalação não tem um local mínimo setado, faça isso
+
+
+
+```text
+localectl set-locale LANG="en_US.utf8"
+
+# check status
+systemctl status airtime-playout
+
+# look at logs:
+journalctl -u airtime-playout
+
+# follow logs:
+journalctl -u airtime-playout -fn
+```
+
+E reinicie
+
+
 ### Data no Ubuntu 18.04
 Caso seja preciso
 
