@@ -130,7 +130,7 @@ journalctl -u airtime-playout -fn
 E reinicie
 
 
-### Data no Ubuntu 18.04
+### Alterando a hora no Ubuntu 18.04
 Caso seja preciso
 
 ```text
