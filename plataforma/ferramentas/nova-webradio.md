@@ -247,6 +247,8 @@ https://devanswers.co/ubuntu-18-04-initial-server-setup/
 https://soka.gitlab.io/RadioLibre/man/libretime_y_virtualbox/
 https://www.p-node.org/documentation/hardwares/serveur-2
 
+https://wordpress.org/plugins/radio-station/
+
 
 ### Source list Ubuntu 16 Xenial
 
