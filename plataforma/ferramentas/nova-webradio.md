@@ -15,18 +15,6 @@ Software escolhido é um fork do Airtime atual, atualizando em http://libretime.
 * Login ssh root@
 
 
-## Criar novo usuário
-
-
-```text
-sudo adduser biluga
-sudo usermod -aG sudo biluga
-sudo su - biluga
-```
-
-Realizar os próximos passos com o novo usuário criado. Guarde bem a senha que você utilizou.
-
-
 ## Configurando o básico
 Instale ferramentas que serão úteis durante o processo
 
@@ -69,6 +57,7 @@ Atualizei seu sistema com os novos repositórios e instale e configure o ufw
 
 ```text
 # Primeiro atualiza
+
 sudo apt update
 sudo apt-get upgrade
 
@@ -80,22 +69,24 @@ sudo ufw allow "ApacheFull"
 sudo ufw enable
 
 # Atualiza de novo e reboota
+
 sudo apt update && sudo apt upgrade && sudo apt dist-upgrade
 sudo reboot
 ```
 
 Maneiro né?
 
-### Data no Ubuntu 18.04
-Caso seja preciso
+## Criar novo usuário
+
 
 ```text
-date
-sudo timedatectl set-timezone America/Sao_Paulo
-timedatectl
+sudo adduser biluga
+sudo usermod -aG sudo biluga
+sudo su - biluga
 ```
 
-Super simples.
+Realizar os próximos passos com o novo usuário criado. Guarde bem a senha que você utilizou.
+
 
 ## Instalar o Libretime
 
@@ -109,7 +100,29 @@ sudo ./install
 
 Digite Y e aperte  ENTER quando preciso.
 
-E aguarde
+E aguarde para ver seu site rodando. A partir do seu IP, continue a configuração do Libretime
+
+
+
+## Referências
+
+
+https://github.com/LibreTime/libretime/wiki/Installing-LibreTime-from-Git-on-a-stand-alone-VPS
+https://devanswers.co/ubuntu-18-04-initial-server-setup/
+https://soka.gitlab.io/RadioLibre/man/libretime_y_virtualbox/
+https://www.p-node.org/documentation/hardwares/serveur-2
+
+
+### Data no Ubuntu 18.04
+Caso seja preciso
+
+```text
+date
+sudo timedatectl set-timezone America/Sao_Paulo
+timedatectl
+```
+
+Super simples.
 
 ### Instalar PHP
 Se for preciso, você saberá
@@ -137,13 +150,6 @@ Pasta de armazenamento do Libretime
 
 Fuce
 
-## Referências
-
-
-https://github.com/LibreTime/libretime/wiki/Installing-LibreTime-from-Git-on-a-stand-alone-VPS
-https://devanswers.co/ubuntu-18-04-initial-server-setup/
-https://soka.gitlab.io/RadioLibre/man/libretime_y_virtualbox/
-https://www.p-node.org/documentation/hardwares/serveur-2
 
 ### Permissões de uso da pasta /var/www/
 
