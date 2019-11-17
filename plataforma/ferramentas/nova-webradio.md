@@ -172,6 +172,17 @@ sudo systemctl restart apache2
 ```
 
 
+### Ufw não ativa ao reiniciar
+
+Veja se funciona para você
+
+
+```text
+sudo apt remove iptables-persistent
+sudo apt autoremove
+```
+
+
 ### Instalar PHP
 Se for preciso, você saberá
 
