@@ -27,7 +27,7 @@ sudo su - biluga
 Realizar os próximos passos com o novo usuário criado. Guarde bem a senha que você utilizou.
 
 
-## Adicionando o básico
+## Configurando o básico
 Instale ferramentas que serão úteis durante o processo
 
 ```text
@@ -63,6 +63,7 @@ deb http://archive.ubuntu.com/ubuntu bionic-updates main multiverse restricted u
 
 Control + X  para salvar usando o nano, não se esqueça ;)
 
+
 ### Atualize e verifique firewall:
 Atualizei seu sistema com os novos repositórios e instale e configure o ufw
 
@@ -70,8 +71,10 @@ Atualizei seu sistema com os novos repositórios e instale e configure o ufw
 sudo apt update
 sudo apt-get upgrade
 sudo apt-get install ufw
-sudo ufw allow OpenSSH
+sudo ufw allow "OpenSSH"
+sudo ufw allow "ApacheFull"
 sudo ufw enable
+
 sudo apt update && sudo apt upgrade && sudo apt dist-upgrade
 sudo reboot
 ```
