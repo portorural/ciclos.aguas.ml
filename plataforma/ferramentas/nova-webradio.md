@@ -137,7 +137,26 @@ https://devanswers.co/ubuntu-18-04-initial-server-setup/
 https://soka.gitlab.io/RadioLibre/man/libretime_y_virtualbox/
 https://www.p-node.org/documentation/hardwares/serveur-2
 
+### Permissões de uso da pasta /var/www/
 
+Após criar pastas para cada site [ /var/www/seudominio.org/public_html ] altere as permissões destas pastas
+
+```text
+sudo chown -R www-data:www-data /var/www/seudominio.org/public_html
+```
+
+Simples
+
+### Editando arquivo  [ /etc/hosts ]
+
+
+```text
+IP.AQUI.XXX.XXX  www.mysite.se mysite.se test.mysite.se
+```
+
+
+
+/etc/hosts
 
 ### Source list Ubuntu 16 Xenial
 
