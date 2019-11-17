@@ -173,6 +173,8 @@ sudo apt remove iptables-persistent
 sudo apt autoremove
 ```
 
+Reinicie e verifique no navegador
+
 
 ### Instalar PHP
 Se for preciso, você saberá
@@ -214,20 +216,24 @@ Simples
 
 
 ### Editando arquivo  [ /etc/hosts ]
-
+Para adicionar novo site
 
 ```text
+sudo nano /etc/hosts
+
+#Adicione
+
 IP.AQUI.XXX.XXX  www.mysite.se mysite.se test.mysite.se
+
 ```
 
 
-
-/etc/hosts
+Editando o arquivo /etc/hosts
 
 
 ### reinstalando o Libretime
 
-If you need to re-run the web installer, just remove /etc/airtime/airtime.conf
+Delete o arquivo /etc/airtime/airtime.conf e rode o instalador novamente
 
 
 
