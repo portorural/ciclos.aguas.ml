@@ -199,6 +199,12 @@ IP.AQUI.XXX.XXX  www.mysite.se mysite.se test.mysite.se
 
 /etc/hosts
 
+
+### reinstalando o Libretime
+
+If you need to re-run the web installer, just remove /etc/airtime/airtime.conf
+
+
 ### Source list Ubuntu 16 Xenial
 
 
