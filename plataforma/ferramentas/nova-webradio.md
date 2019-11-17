@@ -104,15 +104,6 @@ E aguarde para ver seu site rodando. A partir do seu IP, continue a configuraç�
 
 
 
-## Referências
-
-
-https://github.com/LibreTime/libretime/wiki/Installing-LibreTime-from-Git-on-a-stand-alone-VPS
-https://devanswers.co/ubuntu-18-04-initial-server-setup/
-https://soka.gitlab.io/RadioLibre/man/libretime_y_virtualbox/
-https://www.p-node.org/documentation/hardwares/serveur-2
-
-
 
 ## Dicas geeks do Libretime
 Algumas anotações importantes para o processo
@@ -210,6 +201,7 @@ Pasta de armazenamento do Libretime
 Fuce
 
 
+
 ### Permissões de uso da pasta /var/www/
 
 Após criar pastas para cada site [ /var/www/seudominio.org/public_html ] altere as permissões destas pastas
@@ -219,6 +211,7 @@ sudo chown -R www-data:www-data /var/www/seudominio.org/public_html
 ```
 
 Simples
+
 
 ### Editando arquivo  [ /etc/hosts ]
 
@@ -235,6 +228,16 @@ IP.AQUI.XXX.XXX  www.mysite.se mysite.se test.mysite.se
 ### reinstalando o Libretime
 
 If you need to re-run the web installer, just remove /etc/airtime/airtime.conf
+
+
+
+## Referências
+
+
+https://github.com/LibreTime/libretime/wiki/Installing-LibreTime-from-Git-on-a-stand-alone-VPS
+https://devanswers.co/ubuntu-18-04-initial-server-setup/
+https://soka.gitlab.io/RadioLibre/man/libretime_y_virtualbox/
+https://www.p-node.org/documentation/hardwares/serveur-2
 
 
 ### Source list Ubuntu 16 Xenial
