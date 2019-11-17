@@ -141,9 +141,10 @@ timedatectl
 
 Super simples.
 
+
 ### Verificando e resolvendo o apache2
 
-Caso você receba o erro: AH00558: apache2: Could not reliably determine the server's fully qualified domain name
+Caso você receba o erro: `AH00558: apache2: Could not reliably determine the server's fully qualified domain name`
 
 ```text
 
@@ -162,6 +163,7 @@ sudo systemctl restart apache2
 
 ```
 
+Reinicie o sistema, de novo
 
 ### Ufw não ativa ao reiniciar
 
