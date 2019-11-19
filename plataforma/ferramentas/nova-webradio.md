@@ -170,7 +170,7 @@ deb http://archive.ubuntu.com/ubuntu bionic-updates main multiverse restricted u
 Control + X  para salvar usando o nano, não se esqueça ;)
 
 
-### Atualize e verifique firewall SEMPRE
+## Atualize e verifique firewall SEMPRE
 Atualize seu sistema com os novos repositórios, instale e configure o ufw
 
 ```text
@@ -195,7 +195,7 @@ sudo reboot
 Maneiro né?
 
 ## Criando novo usuário
-
+Troque biluga pelo nomme de usuário desejável
 
 ```text
 sudo adduser biluga
