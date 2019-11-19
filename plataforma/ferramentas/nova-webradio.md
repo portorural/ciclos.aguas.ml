@@ -206,7 +206,7 @@ sudo su - biluga
 Realizar os próximos passos com o novo usuário criado. Guarde bem a senha que você utilizou.
 
 
-
+# Possíveis itens de suporte
 ### Permissões de uso da pasta /var/www/
 
 Após criar pastas para cada site [ /var/www/seudominio.org/public_html ] altere as permissões destas pastas
