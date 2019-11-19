@@ -113,7 +113,7 @@ sudo apt-get install php
 sudo apt-get install php-{bcmath,bz2,intl,gd,mbstring,mysql,zip,fpm}
 ```
 
-A seguir outros possíveis "erros"
+A seguir outros possíveis "erros" no Libretime
 
 
 ```text
@@ -131,6 +131,9 @@ Pasta de armazenamento do Libretime
 
 Fuce
 
+### reinstalando o Libretime
+
+Delete o arquivo /etc/airtime/airtime.conf e rode o instalador novamente
 
 
 # Configurando o básico
@@ -140,16 +143,7 @@ Instale ferramentas que serão úteis durante o processo
 sudo apt-get install mc unp zip unzip sudo curl git ufw nano wget git build-essential libssl-dev openssh-server
 ```
 
-ou
-
-```text
-sudo apt-get install git
-sudo apt-get install curl
-sudo apt-get install wget
-sudo apt-get install nano
-```
-
-Acreditamos que foi tudo tranquilo e você souber escolher a melhor opção para você
+Acreditamos que foi tudo tranquilo e você souber escolher a melhor opção para você se algo deu errado
 
 
 ### Edite o arquivo /etc/apt/sources.list com estas linhas:
@@ -207,6 +201,8 @@ Realizar os próximos passos com o novo usuário criado. Guarde bem a senha que 
 
 
 # Possíveis itens de suporte
+Itens que foram úteis durante este trabalho
+
 ### Permissões de uso da pasta /var/www/
 
 Após criar pastas para cada site [ /var/www/seudominio.org/public_html ] altere as permissões destas pastas
@@ -234,13 +230,10 @@ IP.AQUI.XXX.XXX  www.mysite.se mysite.se test.mysite.se
 Editando o arquivo /etc/hosts
 
 
-### reinstalando o Libretime
-
-Delete o arquivo /etc/airtime/airtime.conf e rode o instalador novamente
 
 
 
-## Referências
+# Referências
 
 
 https://github.com/LibreTime/libretime/wiki/Installing-LibreTime-from-Git-on-a-stand-alone-VPS
@@ -251,7 +244,7 @@ https://www.p-node.org/documentation/hardwares/serveur-2
 https://wordpress.org/plugins/radio-station/
 
 
-### Source list Ubuntu 16 Xenial
+## Source list Ubuntu 16 Xenial
 
 
 ```text
