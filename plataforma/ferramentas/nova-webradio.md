@@ -15,79 +15,6 @@ Software escolhido é um fork do Airtime atual, atualizando em http://libretime.
 * Login ssh root@
 
 
-## Configurando o básico
-Instale ferramentas que serão úteis durante o processo
-
-```text
-sudo apt-get install mc unp zip unzip sudo curl git ufw nano wget git build-essential libssl-dev openssh-server
-```
-
-ou
-
-```text
-sudo apt-get install git
-sudo apt-get install curl
-sudo apt-get install wget
-sudo apt-get install nano
-```
-
-Acreditamos que foi tudo tranquilo e você souber escolher a melhor opção para você
-
-
-### Edite o arquivo /etc/apt/sources.list com estas linhas:
-
-Adicione novas linhas. A seguir estão as linhas para o Ubuntu 18.04 e caso você deseja para o Ubuntu 16 Xenial, veja ao final da página nas referências
-
-
-```text
-sudo nano /etc/apt/sources.list
-
-
-# Novos repositórios
-deb http://archive.ubuntu.com/ubuntu bionic main multiverse restricted universe
-deb http://archive.ubuntu.com/ubuntu bionic-security main multiverse restricted universe
-deb http://archive.ubuntu.com/ubuntu bionic-updates main multiverse restricted universe
-```
-
-Control + X  para salvar usando o nano, não se esqueça ;)
-
-
-### Atualize e verifique firewall SEMPRE
-Atualize seu sistema com os novos repositórios, instale e configure o ufw
-
-```text
-# Primeiro atualiza
-
-sudo apt update
-sudo apt-get upgrade
-
-# Depois instala ufw
-
-sudo apt-get install ufw
-sudo ufw allow "OpenSSH"
-sudo ufw allow "ApacheFull"
-sudo ufw enable
-
-# Atualiza de novo e reboota
-
-sudo apt update && sudo apt upgrade && sudo apt dist-upgrade
-sudo reboot
-```
-
-Maneiro né?
-
-## Criando novo usuário
-
-
-```text
-sudo adduser biluga
-sudo usermod -aG sudo biluga
-sudo su - biluga
-```
-
-Realizar os próximos passos com o novo usuário criado. Guarde bem a senha que você utilizou.
-
-
 ## Instalando o Libretime
 
 
@@ -203,6 +130,80 @@ Pasta de armazenamento do Libretime
 ```
 
 Fuce
+
+
+
+# Configurando o básico
+Instale ferramentas que serão úteis durante o processo
+
+```text
+sudo apt-get install mc unp zip unzip sudo curl git ufw nano wget git build-essential libssl-dev openssh-server
+```
+
+ou
+
+```text
+sudo apt-get install git
+sudo apt-get install curl
+sudo apt-get install wget
+sudo apt-get install nano
+```
+
+Acreditamos que foi tudo tranquilo e você souber escolher a melhor opção para você
+
+
+### Edite o arquivo /etc/apt/sources.list com estas linhas:
+
+Adicione novas linhas. A seguir estão as linhas para o Ubuntu 18.04 e caso você deseja para o Ubuntu 16 Xenial, veja ao final da página nas referências
+
+
+```text
+sudo nano /etc/apt/sources.list
+
+
+# Novos repositórios
+deb http://archive.ubuntu.com/ubuntu bionic main multiverse restricted universe
+deb http://archive.ubuntu.com/ubuntu bionic-security main multiverse restricted universe
+deb http://archive.ubuntu.com/ubuntu bionic-updates main multiverse restricted universe
+```
+
+Control + X  para salvar usando o nano, não se esqueça ;)
+
+
+### Atualize e verifique firewall SEMPRE
+Atualize seu sistema com os novos repositórios, instale e configure o ufw
+
+```text
+# Primeiro atualiza
+
+sudo apt update
+sudo apt-get upgrade
+
+# Depois instala ufw
+
+sudo apt-get install ufw
+sudo ufw allow "OpenSSH"
+sudo ufw allow "ApacheFull"
+sudo ufw enable
+
+# Atualiza de novo e reboota
+
+sudo apt update && sudo apt upgrade && sudo apt dist-upgrade
+sudo reboot
+```
+
+Maneiro né?
+
+## Criando novo usuário
+
+
+```text
+sudo adduser biluga
+sudo usermod -aG sudo biluga
+sudo su - biluga
+```
+
+Realizar os próximos passos com o novo usuário criado. Guarde bem a senha que você utilizou.
 
 
 
