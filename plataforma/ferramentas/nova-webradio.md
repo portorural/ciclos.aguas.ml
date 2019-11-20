@@ -57,18 +57,6 @@ journalctl -u airtime-playout -fn
 E reinicie
 
 
-### Alterando a hora no Ubuntu 18.04
-Caso seja preciso
-
-```text
-date
-sudo timedatectl set-timezone America/Sao_Paulo
-timedatectl
-```
-
-Super simples.
-
-
 ### Verificando e resolvendo o apache2
 
 Caso você receba o erro: `AH00558: apache2: Could not reliably determine the server's fully qualified domain name`
@@ -92,26 +80,7 @@ sudo systemctl restart apache2
 
 Reinicie o sistema, de novo
 
-### Ufw não ativa ao reiniciar
-
-Veja se funciona para você
-
-
-```text
-sudo apt remove iptables-persistent
-sudo apt autoremove
-```
-
-Reinicie e verifique no navegador
-
-
-### Instalar PHP
-Se for preciso, você saberá
-
-```text
-sudo apt-get install php
-sudo apt-get install php-{bcmath,bz2,intl,gd,mbstring,mysql,zip,fpm}
-```
+### Infos sobre o Libretime
 
 A seguir outros possíveis "erros" no Libretime
 
@@ -121,6 +90,9 @@ sudo a2dismod mpm_event
 sudo a2enmod mpm_prefork
 ```
 
+E ai?
+
+### Storage Libretime
 
 Pasta de armazenamento do Libretime
 
@@ -206,6 +178,41 @@ Realizar os próximos passos com o novo usuário criado. Guarde bem a senha que 
 
 # Possíveis itens de suporte
 Itens que foram úteis durante este trabalho
+
+### Alterando a hora no Ubuntu 18.04
+Caso seja preciso
+
+```text
+date
+sudo timedatectl set-timezone America/Sao_Paulo
+timedatectl
+```
+
+Super simples.
+
+
+### Ufw não ativa ao reiniciar
+
+Veja se funciona para você
+
+
+```text
+sudo apt remove iptables-persistent
+sudo apt autoremove
+```
+
+Reinicie e verifique no navegador
+
+
+### Instalar PHP
+Se for preciso, você saberá
+
+```text
+sudo apt-get install php
+sudo apt-get install php-{bcmath,bz2,intl,gd,mbstring,mysql,zip,fpm}
+```
+
+Instalará a versão mais estável, confirme os repositórios.
 
 ### Permissões de uso da pasta /var/www/
 
