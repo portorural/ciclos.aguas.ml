@@ -155,7 +155,7 @@ Adicione novas linhas. A seguir estão as linhas para o Ubuntu 18.04 e caso voc�
 sudo nano /etc/apt/sources.list
 
 
-# Novos repositórios
+# Novos repositorios
 deb http://archive.ubuntu.com/ubuntu bionic main multiverse restricted universe
 deb http://archive.ubuntu.com/ubuntu bionic-security main multiverse restricted universe
 deb http://archive.ubuntu.com/ubuntu bionic-updates main multiverse restricted universe
