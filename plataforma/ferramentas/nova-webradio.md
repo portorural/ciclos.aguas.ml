@@ -179,8 +179,8 @@ Realizar os próximos passos com o novo usuário criado. Guarde bem a senha que 
 # Possíveis itens de suporte
 Itens que foram úteis durante este trabalho
 
-### Alterando a hora no Ubuntu 18.04
-Caso seja preciso
+## Alterando a hora
+Caso seja preciso, no Ubuntu 18.04 use:
 
 ```text
 date
@@ -191,7 +191,7 @@ timedatectl
 Super simples.
 
 
-### Ufw não ativa ao reiniciar
+##Ufw não ativa ao reiniciar
 
 Veja se funciona para você
 
@@ -204,7 +204,7 @@ sudo apt autoremove
 Reinicie e verifique no navegador
 
 
-### Instalar PHP
+## Instalar PHP
 Se for preciso, você saberá
 
 ```text
@@ -214,7 +214,7 @@ sudo apt-get install php-{bcmath,bz2,intl,gd,mbstring,mysql,zip,fpm}
 
 Instalará a versão mais estável, confirme os repositórios.
 
-### Permissões de uso da pasta /var/www/
+## Permissões de uso
 
 Após criar pastas para cada site [ /var/www/seudominio.org/public_html ] altere as permissões destas pastas
 
@@ -225,7 +225,7 @@ sudo chown -R www-data:www-data /var/www/seudominio.org/public_html
 Simples
 
 
-### Editando arquivo  [ /etc/hosts ]
+## Editando [ /etc/hosts ]
 Para adicionar novo site
 
 ```text
