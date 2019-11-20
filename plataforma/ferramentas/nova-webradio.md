@@ -140,7 +140,7 @@ Delete o arquivo /etc/airtime/airtime.conf e rode o instalador novamente
 Instale ferramentas que serão úteis durante o processo
 
 ```text
-sudo apt-get install mc unp zip unzip sudo curl git ufw nano wget git build-essential libssl-dev openssh-server
+sudo apt-get install mc unp zip unzip sudo curl nano wget git build-essential libssl-dev openssh-server
 ```
 
 Acreditamos que foi tudo tranquilo e você souber escolher a melhor opção para você se algo deu errado
