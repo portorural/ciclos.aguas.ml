@@ -143,7 +143,11 @@ Instale ferramentas que serão úteis durante o processo
 sudo apt-get install mc unp zip unzip sudo curl nano wget git build-essential libssl-dev openssh-server
 ```
 
-Acreditamos que foi tudo tranquilo e você souber escolher a melhor opção para você se algo deu errado
+Acreditamos que foi tudo tranquilo
+
+## Atualize os repositórios
+
+Você saberá escolher a melhor opção para você se algo der errado
 
 
 ### Edite o arquivo /etc/apt/sources.list com estas linhas:
