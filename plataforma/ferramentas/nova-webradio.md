@@ -224,6 +224,39 @@ sudo chown -R www-data:www-data /var/www/seudominio.org/public_html
 
 Simples
 
+## Permissões dos arquivos
+
+Alterando permissões para rolar bem na web
+
+
+```text
+# Para arquivos use
+sudo find /your/location -type f -exec chmod 644 {} \; 
+
+# Para pastas use
+sudo find /your/location -type d -exec chmod 755 {} \;
+```
+
+
+Isso se não precisar de algo especial, consulte a sua documentação
+
+## Comprimir e extrair coisas
+
+Comprimir
+
+```text
+tar -zcvf archive-name.tar.gz directory-name
+```
+
+
+Extrair
+
+
+```text
+tar -zxvf archive-name.tar.gz
+```
+
+Simplão de tudo
 
 ## Editando [ /etc/hosts ]
 Para adicionar novo site
