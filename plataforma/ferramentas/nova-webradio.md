@@ -168,7 +168,7 @@ deb http://archive.ubuntu.com/ubuntu bionic-updates main multiverse restricted u
 Control + X  para salvar usando o nano, não se esqueça ;)
 
 
-## Atualize e verifique firewall SEMPRE
+## Atualize o firewall SEMPRE
 Atualize seu sistema com os novos repositórios, instale e configure o ufw
 
 ```text
