@@ -72,7 +72,7 @@ sudo su - biluga
 Realizar os próximos passos com o novo usuário criado. Guarde bem a senha que você utilizou.
 
 
-# Possíveis itens de suporte
+# Alterações mais comuns
 Itens que foram úteis durante este trabalho
 
 ## Alterando a hora
