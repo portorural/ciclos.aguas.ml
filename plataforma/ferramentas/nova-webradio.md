@@ -191,7 +191,7 @@ timedatectl
 Super simples.
 
 
-##Ufw não ativa ao reiniciar
+## Ufw não ativo ao iniciar
 
 Veja se funciona para você
 
