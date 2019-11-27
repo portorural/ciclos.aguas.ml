@@ -60,6 +60,19 @@ sudo reboot
 
 Maneiro né?
 
+
+## Ufw não ativa ao reiniciar
+
+Veja se funciona para você
+
+
+```text
+sudo apt remove iptables-persistent
+sudo apt autoremove
+```
+
+Reinicie e verifique no navegador
+
 ## Criando novo usuário
 Troque biluga pelo nomme de usuário desejável
 
@@ -85,19 +98,6 @@ timedatectl
 ```
 
 Super simples.
-
-
-##Ufw não ativa ao reiniciar
-
-Veja se funciona para você
-
-
-```text
-sudo apt remove iptables-persistent
-sudo apt autoremove
-```
-
-Reinicie e verifique no navegador
 
 
 ## Instalar PHP
