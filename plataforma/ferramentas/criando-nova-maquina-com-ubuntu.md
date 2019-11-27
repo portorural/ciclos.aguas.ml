@@ -85,7 +85,7 @@ sudo su - biluga
 Realizar os próximos passos com o novo usuário criado. Guarde bem a senha que você utilizou.
 
 
-# Alterações mais comuns
+# Dicas de ações comuns
 Itens que foram úteis durante este trabalho
 
 ## Alterando a hora
