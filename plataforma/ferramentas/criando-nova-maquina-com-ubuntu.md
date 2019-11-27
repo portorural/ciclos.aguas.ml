@@ -50,6 +50,7 @@ sudo apt-get upgrade
 sudo apt-get install ufw
 sudo ufw allow "OpenSSH"
 sudo ufw allow "ApacheFull"
+sudo ufw allow proto tcp from any to any port 80,443
 sudo ufw enable
 
 # Atualiza de novo e reboota
