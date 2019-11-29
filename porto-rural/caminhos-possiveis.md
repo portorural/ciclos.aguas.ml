@@ -2,7 +2,7 @@
 title: Escritórios de Projeto da Porto Rural
 description: Relatos de possibilidades na Porto Rural
 published: true
-date: 2019-11-29T17:59:05.281Z
+date: 2019-11-29T18:24:02.640Z
 tags: 
 ---
 
@@ -13,6 +13,9 @@ Tudo o que podemos compartilhar sobre as ações na colônia da Fazenda Capoava,
 Uma lista de perspectivas e estudos criados a partir de conversas significativas da Porto Rural:
 
 
+### Volta das florestas
+
+Link: https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/mapeando-possibilidades-para-a-volta-das-florestas
 
 ### Inspirando uma Smart Village
 
