@@ -2,7 +2,7 @@
 title: Nova Web Rádio
 description: Uma nova web rádio
 published: true
-date: 2019-11-29T18:57:58.330Z
+date: 2019-11-29T18:59:18.112Z
 tags: 
 ---
 
@@ -14,9 +14,9 @@ Software escolhido é um fork do Airtime atual, atualizando em http://libretime.
 
 # Notas de instalação
 
-* Instalando Puttygen
-* Pareando chaves e criando VPS
-* Login ssh root@
+* Se usa o Windows, instale o Puttygen
+* Pareie as chaves e crie sua imagem UBUNTU no VPS
+* Entre com ssh root@IP
 
 
 ## Instalando o Libretime
