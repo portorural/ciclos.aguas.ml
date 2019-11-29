@@ -2,11 +2,11 @@
 title: Apresentação da plataforma
 description: Ciência aberta com a Plataforma Aguas Ml
 published: true
-date: 2019-11-29T18:32:43.377Z
+date: 2019-11-29T18:32:55.352Z
 tags: 
 ---
 
-# Quais os objetivos da Plataforma Águas ML?
+# Os objetivos da Plataforma Águas ML
 
 Queremos oferecer uma visão prática de conceitos complexos e projetos de sucesso em recursos hídricos – todos com impactos socioambientais positivos, além da felicidade de vivenciar o projeto em si
 
