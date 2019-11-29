@@ -1,8 +1,8 @@
 ---
-title: Ferramentas
-description: Uma lista de ferramentas de nosso ecossistema ecomunicativo
+title: WaterOps
+description: Uma seção para as ferramentas de nosso ecossistema ecomunicativo
 published: true
-date: 2019-11-29T20:43:37.761Z
+date: 2019-11-29T20:44:11.755Z
 tags: 
 ---
 
