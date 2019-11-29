@@ -2,7 +2,7 @@
 title: Inspirações em nossa Smart Village
 description: Uma lista de referências pertinentes para inspirações no Roteiro Da Smart Village
 published: true
-date: 2019-11-29T17:55:18.868Z
+date: 2019-11-29T17:56:12.339Z
 tags: 
 ---
 
@@ -18,6 +18,11 @@ O exercício de resiliência neste pad é adaptar o conteúdo pertinente para a 
 Link do PAD: https://pad.pedeagua.org/p/roteiro_de_dados_de_habita%C3%A7%C3%B5es
 
 A seguir listamos as nossas referências, comentadas.
+
+
+## Roteiro tático
+
+Criar equipe com base nas atividades a seguir
 
 
 ### Roteiro de um centro de dados de propriedades e habitações
