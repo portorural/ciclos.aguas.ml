@@ -8,7 +8,7 @@ Sempre depende de qual máquina você está utilizando, nem todo Ubuntu é igual
 Instale ferramentas que serão úteis durante o processo
 
 ```text
-sudo apt-get install mc unp zip unzip sudo curl nano wget git build-essential libssl-dev openssh-server
+sudo apt-get install -y vim socat bash-completion apt-transport-https build-essential mc unp zip unzip sudo curl nano wget git build-essential libssl-dev openssh-server
 ```
 
 Acreditamos que foi tudo tranquilo
