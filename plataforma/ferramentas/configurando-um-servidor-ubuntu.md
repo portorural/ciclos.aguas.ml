@@ -1,6 +1,10 @@
-<!-- TITLE: Configurando Um Servidor Ubuntu -->
-<!-- SUBTITLE: Um resumo prático para configurar um servidor Ubuntu -->
-
+---
+title: Configurando Um Servidor Ubuntu
+description: Um resumo prático para configurar um servidor Ubuntu
+published: true
+date: 2019-11-29T22:15:27.766Z
+tags: 
+---
 
 Alguns passos comuns em muitas instalações de um servidor Ubuntu, nem sempre igual em todas as máquinas
 
@@ -8,25 +12,24 @@ Alguns passos comuns em muitas instalações de um servidor Ubuntu, nem sempre i
 Instale ferramentas que serão úteis durante o processo
 
 ```text
-sudo apt-get install mc unp zip unzip sudo curl nano wget git build-essential libssl-dev openssh-server
+sudo apt-get install -y vim socat bash-completion apt-transport-https build-essential mc unp zip unzip sudo curl nano wget git build-essential libssl-dev openssh-server
 ```
 
 Acreditamos que foi tudo tranquilo
 
+.
 ## Atualize os repositórios
 
-Você saberá escolher a melhor opção para você se algo der errado
+Edite o arquivo `/etc/apt/sources.list` e adicione novas linhas.
 
+A seguir estão as linhas para o Ubuntu 18.04 e caso você deseja para o Ubuntu 16 Xenial, veja ao final da página nas referências
 
-### Edite o arquivo /etc/apt/sources.list com estas linhas:
-
-Adicione novas linhas. A seguir estão as linhas para o Ubuntu 18.04 e caso você deseja para o Ubuntu 16 Xenial, veja ao final da página nas referências
-
+Você deverá saberá escolher a melhor opção para você se algo der errado
 
 ```text
 sudo nano /etc/apt/sources.list
-
-
+```
+```text
 # Novos repositorios
 deb http://archive.ubuntu.com/ubuntu bionic main multiverse restricted universe
 deb http://archive.ubuntu.com/ubuntu bionic-security main multiverse restricted universe
@@ -35,24 +38,28 @@ deb http://archive.ubuntu.com/ubuntu bionic-updates main multiverse restricted u
 
 Control + X  para salvar usando o nano, não se esqueça ;)
 
-
+.
 ## Atualize o firewall SEMPRE
 Atualize seu sistema com os novos repositórios, instale e configure o ufw
 
+Primeiro atualiza
 ```text
-# Primeiro atualiza
-
 sudo apt update
 sudo apt-get upgrade
+```
 
-# Depois instala ufw
-
+Depois instala ufw
+```text
 sudo apt-get install ufw
 sudo ufw allow "OpenSSH"
 sudo ufw allow "ApacheFull"
+sudo ufw allow proto tcp from any to any port 80,443
+sudo ufw status
 sudo ufw enable
+```
 
-# Atualiza de novo e reboota
+Atualiza de novo e reboota
+```text
 
 sudo apt update && sudo apt upgrade && sudo apt dist-upgrade
 sudo reboot
@@ -60,33 +67,7 @@ sudo reboot
 
 Maneiro né?
 
-## Criando novo usuário
-Troque biluga pelo nomme de usuário desejável
-
-```text
-sudo adduser biluga
-sudo usermod -aG sudo biluga
-sudo su - biluga
-```
-
-Realizar os próximos passos com o novo usuário criado. Guarde bem a senha que você utilizou.
-
-
-# Possíveis itens de suporte
-Itens que foram úteis durante este trabalho
-
-## Alterando a hora
-Caso seja preciso, no Ubuntu 18.04 use:
-
-```text
-date
-sudo timedatectl set-timezone America/Sao_Paulo
-timedatectl
-```
-
-Super simples.
-
-
+.
 ## Ufw não ativo ao iniciar
 
 Veja se funciona para você
@@ -99,7 +80,38 @@ sudo apt autoremove
 
 Reinicie e verifique no navegador
 
+.
 
+# Dicas de ações comuns
+Itens que são úteis durante este trabalho
+
+.
+## Criando novo usuário
+Troque biluga pelo seu nome de usuário(a) desejável
+
+```text
+sudo adduser biluga
+sudo usermod -aG sudo biluga
+sudo su - biluga
+```
+
+Realizar os próximos passos com o(a) novo(a) usuário(a) criado(a). Guarde bem a senha que você utilizou.
+
+
+.
+## Alterando a hora
+Caso seja preciso, no Ubuntu 18.04 use:
+
+```text
+date
+sudo timedatectl set-timezone America/Sao_Paulo
+timedatectl
+```
+
+Super simples.
+
+
+.
 ## Instalar PHP
 Se for preciso, você saberá
 
@@ -110,32 +122,40 @@ sudo apt-get install php-{bcmath,bz2,intl,gd,mbstring,mysql,zip,fpm}
 
 Instalará a versão mais estável, confirme os repositórios.
 
+.
 ## Permissões de uso
 
-Após criar pastas para cada site [ /var/www/seudominio.org/public_html ] altere as permissões destas pastas
+Após criar pastas para cada site  `/var/www/seudominio.org/public_html` 
 
+```text
+cd /var/www
+sudo mkdir seudominio.org/public_html
+```
+altere as permissões destas pastas
 ```text
 sudo chown -R www-data:www-data /var/www/seudominio.org/public_html
 ```
 
 Simples
 
+.
 ## Permissões dos arquivos
 
 Alterando permissões para rolar bem na web
 
-
+Para arquivos use
 ```text
-# Para arquivos use
 sudo find /your/location -type f -exec chmod 644 {} \; 
-
-# Para pastas use
+```
+Para pastas use
+```text
 sudo find /your/location -type d -exec chmod 755 {} \;
 ```
 
 
 Isso se não precisar de algo especial, consulte a sua documentação
 
+.
 ## Comprimir e extrair coisas
 
 Comprimir
@@ -154,25 +174,23 @@ tar -zxvf archive-name.tar.gz
 
 Simplão de tudo
 
-## Editando [ /etc/hosts ]
-Para adicionar novo site
+.
+## Editando /etc/hosts
+Para adicionar novo site, edite o arquivo `hosts`
 
 ```text
 sudo nano /etc/hosts
-
-#Adicione
-
-IP.AQUI.XXX.XXX  www.mysite.se mysite.se test.mysite.se
-
 ```
 
+E adicione
+```text
+IP.AQUI.XXX.XXX  www.mysite.se mysite.se test.mysite.se
+```
 
-Editando o arquivo /etc/hosts
+Reinicie seu servidor.
 
 
-
-
-
+.
 # Referências
 
 
@@ -184,8 +202,8 @@ https://www.p-node.org/documentation/hardwares/serveur-2
 https://wordpress.org/plugins/radio-station/
 
 
-## Source list Ubuntu 16 Xenial
-
+## Source Ubuntu 16 Xenial
+Adicione as seguintes linhas em seu arquivo `/etc/apt/sources.list`
 
 ```text
 #deb cdrom:[Ubuntu 16.04.2 LTS _Xenial Xerus_ - Release amd64 (20170215.2)]/ xenial main restricted
