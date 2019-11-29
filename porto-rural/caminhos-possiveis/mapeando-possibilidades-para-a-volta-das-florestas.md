@@ -1,5 +1,10 @@
-<!-- TITLE: Mapeando Possibilidades Para A Volta Das Florestas -->
-<!-- SUBTITLE: Anotações do estudo de Mapas de Possibilidades Para A Volta Das Florestas -->
+---
+title: Mapeando Possibilidades Para A Volta Das Florestas
+description: Anotações do estudo de Mapas de Possibilidades Para A Volta Das Florestas
+published: true
+date: 2019-11-29T18:25:23.994Z
+tags: 
+---
 
 # Atlas da Oportunidade de Restauração da Paisagem Florestal
 O Atlas da Oportunidade de Restauração da Paisagem Florestal foi produzido pelo WRI em colaboração com a Universidade de Maryland e a IUCN como uma contribuição à Parceria Global sobre Restauração da Paisagem Florestal.
@@ -89,3 +94,8 @@ Beneficia principalmente a sociedade. Pode ser financiado através de receitas d
 # Exemplo em Senegal
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">100,000 people have worked together to replant tens of millions of trees in Senegal 🇸🇳 over the last 13 years <a href="https://t.co/n4gsmVEEaN">pic.twitter.com/n4gsmVEEaN</a></p>&mdash; Julia Norton (@Julez_Norton) <a href="https://twitter.com/Julez_Norton/status/1188946156761600000?ref_src=twsrc%5Etfw">October 28, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+# Ferramentas
+
+Como precificar trabalho de restauração híbrida
+http://quantoefloresta.escolhas.org/
