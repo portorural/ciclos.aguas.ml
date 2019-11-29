@@ -1,18 +1,24 @@
-<!-- TITLE: Inspirações em nossa Smart Village -->
-<!-- SUBTITLE: Uma lista de referências pertinentes para inspirações no Roteiro Da Smart Village -->
+---
+title: Inspirações em nossa Smart Village
+description: Uma lista de referências pertinentes para inspirações no Roteiro Da Smart Village
+published: true
+date: 2019-11-29T17:55:18.868Z
+tags: 
+---
 
 # Link dos roteiros, programas e histórias inspiradoras
 
 O principal objetivo é listar os potenciais e casos que fortalecem as tarefas realizadas pela ONG Caminho das Águas previstas para o ciclo de 2019 à 2022
 
 
-## Smart Village com um centro de dados volátil
+## Centro de dados volátil
 
 O exercício de resiliência neste pad é adaptar o conteúdo pertinente para a realidade (oportunidades e necessidades) da Porto Rural e inserir itens relevantes e específicos de nosso processo.
 
 Link do PAD: https://pad.pedeagua.org/p/roteiro_de_dados_de_habita%C3%A7%C3%B5es
 
 A seguir listamos as nossas referências, comentadas.
+
 
 ### Roteiro de um centro de dados de propriedades e habitações
 
@@ -28,4 +34,4 @@ A Sunlight Foundation, em sua publicação de 2018 chamada Tactical Data Engagem
 **Fonte: ** https://sunlight-foundation.gitbooks.io/playbook-data-user-groups/content/home.html
 
 
-## Smart Village com um centro de dados fixo
+ADICIONAR: Smart Village com um centro de dados fixo
