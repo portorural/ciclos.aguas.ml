@@ -2,22 +2,25 @@
 title: Mapeando Possibilidades Para A Volta Das Florestas
 description: Anotações do estudo de Mapas de Possibilidades Para A Volta Das Florestas
 published: true
-date: 2019-11-29T23:42:15.406Z
+date: 2019-11-29T23:43:34.228Z
 tags: 
 ---
 
 # Restauração da Paisagem Florestal
 O Atlas da Oportunidade de Restauração da Paisagem Florestal foi produzido pelo WRI em colaboração com a Universidade de Maryland e a IUCN como uma contribuição à Parceria Global sobre Restauração da Paisagem Florestal.
 
+A seguir temos as recomendações gerais para atrair investimentos privados para restauração e ao final uma lista de links e ferramentas.
+
+Traduzidas para o português, estas ações tem como objetivo mapear as oportunidades de retorno de florestas e árvores.
+
+.
+### Fontes
 **Fonte: 1:** ler texto
 https://www.wri.org/our-work/project/global-restoration-initiative/methodology-about-atlas-forest-landscape-restoration
 
 **Fonte 2:** download do pdf 
 https://cmsdata.iucn.org/downloads/roam_handbook_lowres_web.pdf
 
-A seguir temos as recomendações gerais para atrair investimentos privados para restauração e ao final uma lista de links e ferramentas 
-
-Traduzidas para o português, estas ações tem como objetivo mapear as oportunidades de retorno de florestas e árvores.
 
 .
 ## 1. Parcerias
