@@ -2,9 +2,12 @@
 title: Ferramentas
 description: Uma lista de ferramentas de nosso ecossistema ecomunicativo
 published: true
-date: 2019-11-29T18:00:18.265Z
+date: 2019-11-29T19:02:26.225Z
 tags: 
 ---
+
+Equipe WaterResilient Operations (WaterOps)
+
 
 # Lista de ferramentas
 
