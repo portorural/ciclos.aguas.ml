@@ -1,5 +1,10 @@
-<!-- TITLE: Escritórios de Projeto da Porto Rural -->
-<!-- SUBTITLE: Relatos de possibilidades na Porto Rural -->
+---
+title: Escritórios de Projeto da Porto Rural
+description: Relatos de possibilidades na Porto Rural
+published: true
+date: 2019-11-29T17:53:40.668Z
+tags: 
+---
 
 # Perspectivas e estudos abertos sobre a colônia da Fazenda Capoava
 
@@ -10,21 +15,21 @@ Uma lista de perspectivas e estudos criados a partir de conversas significativas
 
 **Inspirando uma Smart Village**
 
-Link: https://wiki.aguas.ml/porto-rural/caminhos-possiveis/inspiracoes-do-roteiro-da-smart-village
+Link: https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/inspiracoes-do-roteiro-da-smart-village
 
 
 -----
 
 **Relatórios em campo com Android**
 
-Link: https://wiki.aguas.ml/porto-rural/caminhos-possiveis/relatorios-em-campo-com-android
+Link: https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/relatorios-em-campo-com-android
 
 
 -----
 
 **Vila Capoava da Carpintaria**
 
-Link: https://wiki.aguas.ml/porto-rural/caminhos-possiveis/vila-da-carpintaria
+Link: https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/vila-da-carpintaria
 
 
 -----
@@ -32,11 +37,11 @@ Link: https://wiki.aguas.ml/porto-rural/caminhos-possiveis/vila-da-carpintaria
 
 **Saneamento medicinal**
 
-Link: https://wiki.aguas.ml/porto-rural/caminhos-possiveis/saneamento-medicinal-na-capoava
+Link: https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/saneamento-medicinal-na-capoava
 
 
 -----
 
 **Vila da mobilidade**
 
-Link: https://wiki.aguas.ml/porto-rural/caminhos-possiveis/vila-da-mobilidade
+Link: https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/vila-da-mobilidade
