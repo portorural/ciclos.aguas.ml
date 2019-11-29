@@ -2,7 +2,7 @@
 title: Apresentação da plataforma
 description: Ciência aberta com a Plataforma Aguas Ml
 published: true
-date: 2019-11-29T18:32:55.352Z
+date: 2019-11-29T21:37:36.350Z
 tags: 
 ---
 
@@ -10,10 +10,15 @@ tags:
 
 Queremos oferecer uma visão prática de conceitos complexos e projetos de sucesso em recursos hídricos – todos com impactos socioambientais positivos, além da felicidade de vivenciar o projeto em si
 
-Ela também faz parte de minha pesquisa no Mestrado Profissional em Gestão e Regulação de Recursos Hídricos  PROFÁGUA, assim como dá suporte à pesquisa de colegas e outros projetos que estão conectados. O ProfÁgua é um programa de pós-graduação stricto sensu em Gestão e Regulação de Recursos Hídricos recomendado pela Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) do Ministério da Educação e coordenado pela Universidade Estadual Paulista Júlio de Mesquita Filho, a UNESP de Ilha Solteira
+Ela também faz parte de minha pesquisa no Mestrado Profissional em Gestão e Regulação de Recursos Hídricos  PROFÁGUA, assim como dá suporte à pesquisa de colegas e outros projetos que estão conectados. 
+
+O ProfÁgua é um programa de pós-graduação stricto sensu em Gestão e Regulação de Recursos Hídricos recomendado pela Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) do Ministério da Educação e coordenado pela Universidade Estadual Paulista Júlio de Mesquita Filho, a UNESP de Ilha Solteira
+
+![logo_profagua-150x64.png](/porto-rural/logo_profagua-150x64.png)
 
 
 
+.
 ## Qual a abordagem adotada para o ínicio da plataforma?
 
 Aqui a abordagem estabelecida tende à pesquisa exploratória pois se organiza entorno de distintas realidades e inúmeros autores, temas e caminhos científicos ou não que foram vivenciados em uma série de eventos, diálogos, aulas, experiências e pesquisas livres que são relatadas livremente. São criados entrelaces criativos cujo objetivo é tornar possível um conjunto de conhecimentos que merecem estudos aprofundados e acoplamentos em aplicações práticas. O momento presente é sempre oportuno para experiências.
