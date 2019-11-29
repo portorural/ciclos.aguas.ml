@@ -1,6 +1,10 @@
-<!-- TITLE: Apresentação da plataforma -->
-<!-- SUBTITLE: Ciência aberta com a Plataforma Aguas Ml -->
-
+---
+title: Apresentação da plataforma
+description: Ciência aberta com a Plataforma Aguas Ml
+published: true
+date: 2019-11-29T18:32:13.002Z
+tags: 
+---
 
 # Quais os objetivos da Águas.ML?
 
