@@ -2,7 +2,7 @@
 title: Ferramentas
 description: Uma lista de ferramentas de nosso ecossistema ecomunicativo
 published: true
-date: 2019-11-29T17:51:09.210Z
+date: 2019-11-29T18:00:18.265Z
 tags: 
 ---
 
@@ -10,8 +10,8 @@ tags:
 
 ## Chat Águas ML
 
-Rotina para atualizar o Chat ÁguasML - https://wiki.aguas.ml/plataforma/ferramentas/waterchat
+Rotina para atualizar o Chat ÁguasML - https://ciclos.aguas.ml/plataforma/ferramentas/waterchat
 
 ## ÁguasBot 1.0
 
-Um robô de conversas capaz de aprender com as águas e recursos hídricos - https://wiki.aguas.ml/plataforma/ferramentas/aguas-bot-1-0
+Um robô de conversas capaz de aprender com as águas e recursos hídricos - https://ciclos.aguas.ml/plataforma/ferramentas/aguas-bot-1-0
