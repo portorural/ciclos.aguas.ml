@@ -2,7 +2,7 @@
 title: Nova Web Rádio
 description: Uma nova web rádio
 published: true
-date: 2019-11-29T18:57:30.422Z
+date: 2019-11-29T18:57:58.330Z
 tags: 
 ---
 
@@ -36,7 +36,7 @@ E aguarde para ver seu site rodando. A partir do seu IP, continue a configuraç�
 
 
 
-## Dicas geeks do Libretime
+## Dicas waterops do Libretime
 Algumas anotações importantes para o processo
 
 
