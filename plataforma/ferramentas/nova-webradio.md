@@ -1,6 +1,10 @@
-<!-- TITLE: Nova Web Rádio -->
-<!-- SUBTITLE: Uma nova web rádio -->
-
+---
+title: Nova Web Rádio
+description: Uma nova web rádio
+published: true
+date: 2019-11-29T18:57:30.422Z
+tags: 
+---
 
 # Novidades da Rádio Bilu.ga
 
@@ -61,18 +65,23 @@ E reinicie
 
 Caso você receba o erro: `AH00558: apache2: Could not reliably determine the server's fully qualified domain name`
 
+
+Edite o arquivo de config do Apache2
 ```text
 
-# Edite o arquivo de config do Apache2
+
 
 sudo nano /etc/apache2/apache2.conf
+```
 
-# E adicione a seguinte linha
-
+E adicione a seguinte linha
+```text
 ServerName seudominio.org
+```
 
-# Teste e reinicie o Apache2
 
+Teste e reinicie o Apache2
+```text
 sudo apache2ctl configtest
 sudo systemctl restart apache2
 
@@ -105,6 +114,6 @@ Fuce
 
 ### reinstalando o Libretime
 
-Delete o arquivo /etc/airtime/airtime.conf e rode o instalador novamente
+Delete o arquivo `/etc/airtime/airtime.conf` e rode o instalador novamente
 
 
