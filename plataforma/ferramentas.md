@@ -2,7 +2,7 @@
 title: Ferramentas
 description: Uma lista de ferramentas de nosso ecossistema ecomunicativo
 published: true
-date: 2019-11-29T20:42:39.067Z
+date: 2019-11-29T20:43:37.761Z
 tags: 
 ---
 
@@ -25,4 +25,4 @@ Um robô de conversas capaz de aprender com as águas e recursos hídricos - htt
 ## Pede Águas PAD
 
 Como usar o Pede Água PAD
-https://ciclos.aguas.ml/plataforma/ferramentas/pedeaguas-pad
+https://ciclos.aguas.ml/plataforma/ferramentas/pedeaguapad
