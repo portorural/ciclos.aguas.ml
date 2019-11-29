@@ -2,7 +2,7 @@
 title: Nova Web Rádio
 description: Uma nova web rádio
 published: true
-date: 2019-11-29T18:59:18.112Z
+date: 2019-11-29T19:01:05.477Z
 tags: 
 ---
 
@@ -13,12 +13,14 @@ Vamos atualizar nossa rádio, melhorando os serviços!
 Software escolhido é um fork do Airtime atual, atualizando em http://libretime.org/install/
 
 # Notas de instalação
+Caso você pretenda criar um webrádio especial, esperamos que você já saiba o que está fazendo, então alguns passos são genéricos
 
 * Se usa o Windows, instale o Puttygen
 * Pareie as chaves e crie sua imagem UBUNTU no VPS
 * Entre com ssh root@IP
 
 
+.
 ## Instalando o Libretime
 
 
@@ -35,11 +37,11 @@ E aguarde para ver seu site rodando. A partir do seu IP, continue a configuraç�
 
 
 
-
+.
 ## Dicas waterops do Libretime
 Algumas anotações importantes para o processo
 
-
+.
 ### Definir local, erro airtime-playout
 A instalação não tem um local mínimo setado, faça isso
 
@@ -60,7 +62,7 @@ journalctl -u airtime-playout -fn
 
 E reinicie
 
-
+.
 ### Verificando e resolvendo o apache2
 
 Caso você receba o erro: `AH00558: apache2: Could not reliably determine the server's fully qualified domain name`
@@ -89,6 +91,7 @@ sudo systemctl restart apache2
 
 Reinicie o sistema, de novo
 
+.
 ### Infos sobre o Libretime
 
 A seguir outros possíveis "erros" no Libretime
@@ -101,6 +104,7 @@ sudo a2enmod mpm_prefork
 
 E ai?
 
+.
 ### Storage Libretime
 
 Pasta de armazenamento do Libretime
@@ -112,8 +116,10 @@ Pasta de armazenamento do Libretime
 
 Fuce
 
+.
 ### reinstalando o Libretime
 
 Delete o arquivo `/etc/airtime/airtime.conf` e rode o instalador novamente
 
 
+.
