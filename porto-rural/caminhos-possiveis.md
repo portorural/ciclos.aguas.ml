@@ -2,7 +2,7 @@
 title: Escritórios de Projeto da Porto Rural
 description: Relatos de possibilidades na Porto Rural
 published: true
-date: 2019-11-29T17:54:31.221Z
+date: 2019-11-29T17:59:05.281Z
 tags: 
 ---
 
@@ -14,21 +14,21 @@ Uma lista de perspectivas e estudos criados a partir de conversas significativas
 
 
 
-**Inspirando uma Smart Village**
+### Inspirando uma Smart Village
 
 Link: https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/inspiracoes-do-roteiro-da-smart-village
 
 
 -----
 
-**Relatórios em campo com Android**
+### Relatórios em campo com Android
 
 Link: https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/relatorios-em-campo-com-android
 
 
 -----
 
-**Vila Capoava da Carpintaria**
+### Vila Capoava da Carpintaria
 
 Link: https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/vila-da-carpintaria
 
@@ -36,13 +36,13 @@ Link: https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/vila-da-carpintaria
 -----
 
 
-**Saneamento medicinal**
+### Saneamento medicinal
 
 Link: https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/saneamento-medicinal-na-capoava
 
 
 -----
 
-**Vila da mobilidade**
+### Vila da mobilidade
 
 Link: https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/vila-da-mobilidade
