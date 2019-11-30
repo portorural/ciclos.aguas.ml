@@ -2,15 +2,16 @@
 title: Relatórios em campo com android
 description: Um guia para utilizar o ODK em campo com android
 published: true
-date: 2019-11-30T00:26:37.508Z
+date: 2019-11-30T00:28:37.731Z
 tags: 
 ---
 
-# Guia de uso do Kobo na ONG Caminho das Águas
+Guia de uso do Kobo, inspirado no uso com a ONG Caminho das Águas
+# Guia de uso do Kobo
 Um passo a passo para criar conta no Kobo Humanitarian Response, instalar o ODK Collect no android e utilizar os serviços de registro da ONG
 
 .
-### Criando conta no Kobotoolbox
+## Criando conta no Kobotoolbox
 
 1. Acesse o site https://kobo.humanitarianresponse.info/accounts/register/#/
 1. Preencha o formulário completamente e guarde os dados como email e senha
@@ -18,7 +19,7 @@ Um passo a passo para criar conta no Kobo Humanitarian Response, instalar o ODK 
 1. Envie o email e o nome de usuário que você utilizou para diego@caminhodasaguas.org.br
 
 .
-### Instalando o ODK no android
+## Instalando o ODK no android
 **1- Baixe o aplicativo Kobo Collect**
 Link: https://play.google.com/store/apps/details?id=org.koboc.collect.android&hl=en
 
@@ -36,7 +37,9 @@ https://kc.humanitarianresponse.info
 Ainda em Configurações Gerais, digite seu nome de usuário e senha
 
 .
-# Usando o ODK Collect no seu aparelho, com ou sem internet
+# Usando o ODK Collect 
+Veremos com usar o ODK COllect no seu aparelho, com ou sem internet
+
 A seguir temos algumas dicas para que você possa baixar, preencher e enviar os relatórios para a ONG quando tiver acesso a internet 3g, 4g ou wifi
 
 .
