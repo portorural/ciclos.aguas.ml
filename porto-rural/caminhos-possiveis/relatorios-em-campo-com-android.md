@@ -2,7 +2,7 @@
 title: Relatórios em campo com android
 description: Um guia do ODK em campo com android
 published: true
-date: 2019-11-30T00:29:24.223Z
+date: 2019-11-30T00:30:38.621Z
 tags: 
 ---
 
@@ -43,7 +43,8 @@ Veremos com usar o ODK COllect no seu aparelho, com ou sem internet
 A seguir temos algumas dicas para que você possa baixar, preencher e enviar os relatórios para a ONG quando tiver acesso a internet 3g, 4g ou wifi
 
 .
-### Faça o download de formulários quando tiver internet
+## Com acesso a internet
+Faça o download de formulários quando tiver internet:
 
 1. Para baixar formulários da sua conta e iniciar a coleta de dados, siga estas etapas:
 1. Certifique-se de estar conectado à Internet no seu dispositivo. 
