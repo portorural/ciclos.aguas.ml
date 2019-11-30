@@ -2,7 +2,7 @@
 title: Vila Capoava da Mobilidade Rural
 description: Tecendo os caminhos para a mobilidade na Capoava
 published: true
-date: 2019-11-30T00:46:09.925Z
+date: 2019-11-30T00:47:47.218Z
 tags: 
 ---
 
@@ -21,7 +21,17 @@ Queremos a utilização das informações e dos conhecimentos disponíveis de mo
 
 Imagem aérea à 14.55km de altura, base de dados ESRI
 
-Conversamos com quem usa a estrada todo dia, com quem gere e com quem trabalha por horas a fio nela, além de reunir as pessoas mais ativas em nossa Rede de Apoio onde estamos compartilhando conhecimentos, habilidades, criatividade e tecnologias para assegurar que nossas motivações em interdependência na mobilidade rural se tornarão mais efetivas no desempenho da integração de nossa colônia à sociedade portofelicense. Queremos mais conversas!
+Conversamos com quem usa a estrada todo dia, com quem gere e com quem trabalha por horas a fio nela, além de reunir as pessoas mais ativas em nossa Rede de Apoio.
+
+Estamos compartilhando conhecimentos, habilidades, criatividade e tecnologias para assegurar que nossas motivações em interdependência na mobilidade rural se tornarão mais efetivas no desempenho da integração de nossa colônia à sociedade portofelicense. Queremos mais conversas!
+
+.
+# FUTURO DA VILA CAPOAVA DA MOBILIDADE RURAL
+
+
+Queremos fortalecer a cultura do diálogo entre o Poder Público, as empresas, as ONGs e os cidadãos a partir dos diálogos de manutenção desta estrada, abrindo os caminhos da Capoava. 
+
+Para isso propomos que a Mobilidade Rural na Fazenda Capoava de Porto Feliz seja um modelo compartilhado de produção, gestão e uso de um bem comum e patrimônio global na relação com as águas superficiais e as estradas rurais, assim como o uso racional de serviços e veículos movidos à combustíveis fósseis em ambientes rurais.
 
 .
 ## MAIS DO QUE UMA ESTRADA ACESSÍVEL
@@ -31,13 +41,6 @@ Propomos que os atores envolvidos se organizem para a realização de um diagnó
 
 Marcação da estrada municipal, acesso da cidade à Fazenda Capoava, base de dados ESRI usando Ekylibre
 
-.
-# FUTURO DA VILA CAPOAVA DA MOBILIDADE RURAL
-
-
-Queremos fortalecer a cultura do diálogo entre o Poder Público, as empresas, as ONGs e os cidadãos a partir dos diálogos de manutenção desta estrada, abrindo os caminhos da Capoava. 
-
-Para isso propomos que a Mobilidade Rural na Fazenda Capoava de Porto Feliz seja um modelo compartilhado de produção, gestão e uso de um bem comum e patrimônio global na relação com as águas superficiais e as estradas rurais, assim como o uso racional de serviços e veículos movidos à combustíveis fósseis em ambientes rurais.
 
 .
 ## OBJETIVOS ESPECÍFICOS
