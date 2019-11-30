@@ -2,7 +2,7 @@
 title: WaterOps
 description: Uma seção para as ferramentas de nosso ecossistema ecomunicativo
 published: true
-date: 2019-11-30T03:49:47.996Z
+date: 2019-11-30T03:54:42.466Z
 tags: 
 ---
 
@@ -15,9 +15,8 @@ Equipe WaterResilient Operations (WaterOps)
 ## Raspadores de notícias
 Conheça o ÁguasBot Telegram e outros [raspadores de notícias (clique aqui)](https://ciclos.aguas.ml/plataforma/raspadores "Raspadores ÁguasML")!
 
-Raspador Porto ÁguasML: https://porto.aguas.ml 
-Raspador de notícias hídricas 02: https://noticias.aguas.ml
-
+**Raspador Porto ÁguasML**
+https://porto.aguas.ml 
 
 .
 ## Notícias ÁguasML
@@ -43,11 +42,13 @@ https://ciclos.aguas.ml/plataforma/ferramentas/pedeaguapad
 .
 ## Chat Águas ML
 
-Rotina para atualizar o Chat ÁguasML - https://ciclos.aguas.ml/plataforma/ferramentas/waterchat
+Apresentação e rotinas para rodar o Chat ÁguasML
+https://ciclos.aguas.ml/plataforma/ferramentas/waterchat
 
 .
 ## ÁguasBot 1.0
 
-Um robô de conversas capaz de aprender com as águas e recursos hídricos - https://ciclos.aguas.ml/plataforma/ferramentas/aguas-bot-1-0
+Um robô de conversas capaz de aprender com as águas e recursos hídricos
+https://ciclos.aguas.ml/plataforma/ferramentas/aguas-bot-1-0
 
 .
