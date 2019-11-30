@@ -2,7 +2,7 @@
 title: Relatórios em campo com android
 description: Um guia do ODK em campo com android
 published: true
-date: 2019-11-30T00:31:08.567Z
+date: 2019-11-30T00:31:48.543Z
 tags: 
 ---
 
@@ -44,9 +44,9 @@ A seguir temos algumas dicas para que você possa baixar, preencher e enviar os 
 
 .
 ## Com acesso a internet
-Faça o download de formulários quando tiver internet:
+Faça o download de formulários quando tiver internet.
 
-1. Para baixar formulários da sua conta e iniciar a coleta de dados, siga estas etapas:
+Para baixar formulários da sua conta e iniciar a coleta de dados, siga estas etapas:
 1. Certifique-se de estar conectado à Internet no seu dispositivo. 
 1. No menu inicial do KoBoCollect, clique em Obter formulário em branco
 1. Uma lista de todos os seus formulários de seus diferentes projetos será mostrada. Clique em Alternar todos (ou selecione os que deseja baixar) e clique em Obter selecionados.
