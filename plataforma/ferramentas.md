@@ -2,7 +2,7 @@
 title: WaterOps
 description: Uma seção para as ferramentas de nosso ecossistema ecomunicativo
 published: true
-date: 2019-11-30T03:54:42.466Z
+date: 2019-11-30T17:39:15.892Z
 tags: 
 ---
 
@@ -10,28 +10,20 @@ Equipe WaterResilient Operations (WaterOps)
 
 
 # Lista de ferramentas
+Útil todos os dias na execução de nossas atividades
+
+.
+## Notícias ÁguasML
+Descubra como fizemos o [Portal de Notícias](https://ciclos.aguas.ml/plataforma/raspadores/noticias-aguasml "Portal de Notícias ÁguasML") da plataforma Águas ML
+
 
 .
 ## Raspadores de notícias
 Conheça o ÁguasBot Telegram e outros [raspadores de notícias (clique aqui)](https://ciclos.aguas.ml/plataforma/raspadores "Raspadores ÁguasML")!
 
+
 **Raspador Porto ÁguasML**
 https://porto.aguas.ml 
-
-.
-## Notícias ÁguasML
-Portal de notícias da plataforma Águas ML
-https://noticias.aguas.ml
-
-```text
-## Template citando a fonte
-
-{content}
-
-O post "<b>{title}</b>" foi publicado em {item_date} e pode ser visto originalmente <a href="{permalink}" target="_blank">na fonte {feedtitle}</a>
-
-.
-```
 
 .
 ## Pede Águas PAD
