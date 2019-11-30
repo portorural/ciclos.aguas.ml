@@ -2,7 +2,7 @@
 title: Vila Capoava da Mobilidade Rural
 description: Tecendo os caminhos para a mobilidade na Capoava
 published: true
-date: 2019-11-30T00:49:29.109Z
+date: 2019-11-30T00:51:03.564Z
 tags: 
 ---
 
@@ -142,7 +142,7 @@ Informação de extremo interesse para projetos técnicos, de acordo com informa
 E especificamente falando do solo na Capoava, extraímos do Mapa Geomorfopedológico do Município de Porto Feliz
 
 .
-## Caracterização do solo
+## CARACTERIZAÇÃO DO SOLO
 
 **Colinas Amplas e Patamares Suavemente Convexos**
 
