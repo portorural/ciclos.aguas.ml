@@ -2,7 +2,7 @@
 title: Raspadores
 description: 
 published: true
-date: 2019-11-30T01:45:20.373Z
+date: 2019-11-30T01:49:32.298Z
 tags: tecnologias, raspadores
 ---
 
@@ -10,12 +10,7 @@ tags: tecnologias, raspadores
 
 Alimenta as notícias dinâmicas na página principal da plataforma Notícias ÁguasML
 
-.
-## Links de acesso
-Link para este raspador de notícias hídricas 01
-https://porto.aguas.ml 
 
-.
 ## Tecnologias empregadas
 Softwares utilizados: FreshRSS, RSS-Bridge e Telegram
 
@@ -24,29 +19,32 @@ Softwares utilizados: FreshRSS, RSS-Bridge e Telegram
 > URL do Telegram: https://telegram.org
 {.is-info}
 
-.
 ## Fontes de dados
 Informações sobre as fontes de dados deste raspador
 
 > Número de fontes atualmente no feed: 32 endereços
 > Total de notícias recebidas: 7430 notícias
-> ~~URL de aplicação 01: http://swarm.aguas.ml~~
-> URL de aplicação 02: https://porto.aguas.ml
 {.is-warning}
 
+## Links de acesso
+Links do Raspador Porto ÁguasML
 
-.
+> ~~URL de aplicação 01: http://swarm.aguas.ml~~
+> URL de aplicação 02: https://porto.aguas.ml
+{.is-info}
+
 
 ## Configuração
 Nossa configuração conta com o FreshRSS, além de ler e coletar notícias via RSS, trabalha em conjunto com outro software que cria um novo link RSS, geral ou personalizado por categorias.
 
 Assim ele pode alimentar qualquer outro site que trabalhe como RSS.
 
-.
-# Raspador ÁguasBot Brasil
-Fizemos um bot em um canal de notícias no comunicador Telegram, que nomeamos como ÁguasBot Brasil. Diríamos que aqui o bot é um programa escrito (ou configurado) para repetir padrões que alguns humanos porventura estejam fazendo manualmente.
 
-.
+# Raspador ÁguasBot Brasil
+Fizemos um *bot* em um canal de notícias no comunicador Telegram, que nomeamos como ÁguasBot Brasil.
+
+Diríamos que aqui o *bot* é um programa escrito (ou configurado) para repetir padrões que alguns humanos porventura estejam fazendo manualmente.
+
 ## Tecnologias utilizadas
 O bot é simples e segue a lógica do serviço IFTTT (If This Than That)
 
@@ -57,7 +55,6 @@ O bot é simples e segue a lógica do serviço IFTTT (If This Than That)
 
 Então se algo for agregado por nosso raspador então vamos mandar uma publicação para um canal de notícias do software Telegram.
 
-.
 ## Configurando o IFTTT
 A programação a ser feita na plataforma IFTTT é bem simples e o resultado pode ser visualizado na figura 50:
 
