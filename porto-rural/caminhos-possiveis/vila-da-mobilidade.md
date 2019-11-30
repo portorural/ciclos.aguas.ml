@@ -2,7 +2,7 @@
 title: Vila Capoava da Mobilidade
 description: Tecendo os caminhos para a mobilidade na Capoava
 published: true
-date: 2019-11-30T00:39:41.355Z
+date: 2019-11-30T00:42:45.856Z
 tags: 
 ---
 
@@ -89,7 +89,13 @@ Em nossa compreensão dos dados disponíveis no site da prefeitura a cidade come
 
 Não encontramos em nossas pesquisas um Plano Diretor Municipal de Controle de Erosão Rural para a cidade de Porto Feliz, proposta que desde 2008 vem ganhando apoio e execuções por cidades em todo o país. 
 
-Estudamos a Proposta do Plano Municipal Integrado de Saneamento Básico – Município de Porto Feliz, que tem detalhes sobre os ambientes urbanos, mas muito pouco aborda as situações em áreas rurais. O único item encontrado trata da coleta de lixo: “Na zona rural, a coleta de lixo é de responsabilidade da Diretoria de Obras Públicas da Prefeitura, que também é responsável pela coleta dos resíduos dos serviços de saúde.” Este item é importante item pois a estrada serve como repositório irregular de resíduos domésticos urbanos e de construção civil.
+Estudamos em 2017-2018 temas convergentes com a Proposta do Plano Municipal Integrado de Saneamento Básico – Município de Porto Feliz, que tem detalhes sobre os ambientes urbanos, mas muito pouco aborda as situações em áreas rurais. O único item encontrado trata da coleta de lixo:
+
+> “Na zona rural, a coleta de lixo é de responsabilidade da Diretoria de Obras Públicas da Prefeitura, que também é responsável pela coleta dos resíduos dos serviços de saúde.”
+{.is-warning}
+
+
+Este item é importante item pois a estrada serve como repositório irregular de resíduos domésticos urbanos e de construção civil.
 
 Dada a ausência de legislação municipal específica nos atentamos à estudos em outras esferas, principalmente observando os avanços do Comitê de Bacias Hidrográficas Sorocaba-Médio-Tietê que tem a responsabilidade de tratar esta questão em seus planos.
 
@@ -105,18 +111,19 @@ Outro item relevante quanto aos planos municipais ou diretores de erosão rural 
 
 Destacamos que após determinar no Artigo 1º que “O solo agrícola é patrimônio da humanidade, e por conseqüência, cabe aos responsáveis pelo seu uso a obrigatoriedade de conservá-lo”, a Lei Estadual nº 6.171 detalha:
 
-`"Artigo 4.° - Todo aquele que explorar o solo agrícola fica obrigado a:
-l - zelar pelo aproveitamento adequado e pela conservação das águas em todas as suas formas;
-II - controlar a erosão do solo, em todas as suas formas;
-III - evitar processos de desertificação;
-IV - evitar assoreamento de cursos d'água e bacias de acumulação;
-V - zelar pelas dunas, taludes e escarpas naturais ou artificiais;
-VI - evitar a prática de queimadas, tolerando-as, somente, quando amparadas por norma regulamentar;
+> Artigo 4.° - Todo aquele que explorar o solo agrícola fica obrigado a:
+> l - zelar pelo aproveitamento adequado e pela conservação das águas em todas as suas formas;
+> II - controlar a erosão do solo, em todas as suas formas;
+> III - evitar processos de desertificação;
+> IV - evitar assoreamento de cursos d'água e bacias de acumulação;
+> V - zelar pelas dunas, taludes e escarpas naturais ou artificiais;
+> VI - evitar a prática de queimadas, tolerando-as, somente, quando amparadas por norma regulamentar;
+> VII - evitar o desmatamento das áreas impróprias para exploração agro-silvo-pastoril e promover a possível vegetação permanente nessas áreas, quando desmatadas;
+> VIII - recuperar, manter e melhorar as características físicas, químicas e biológicas do solo agrícola;
+> IX - adequar a locação, construção e manutenção de barragens, estradas, carreadores, caminhos, canais de irrigação e prados escoadouros aos princípios conservacionistas.
+{.is-success}
 
-VII - evitar o desmatamento das áreas impróprias para exploração agro-silvo-pastoril e promover a possível vegetação permanente nessas áreas, quando desmatadas;
-VIII - recuperar, manter e melhorar as características físicas, químicas e biológicas do solo agrícola;
-IX - adequar a locação, construção e manutenção de barragens, estradas, carreadores, caminhos, canais de irrigação e prados escoadouros aos princípios conservacionistas.
-`
+
 .
 ### SOBRE OS SOLOS RURAIS DE PORTO FELIZ
 
