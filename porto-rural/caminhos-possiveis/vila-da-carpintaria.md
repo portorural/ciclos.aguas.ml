@@ -2,11 +2,11 @@
 title: Vila da Carpintaria na Porto Rural
 description: Esboço de projeto da nossa Vila da Carpintaria
 published: true
-date: 2019-11-30T00:55:22.051Z
+date: 2019-11-30T00:57:49.920Z
 tags: 
 ---
 
-# Esboço de projeto da Vila da Carpintaria na Capoava
+Esboço de projeto da Vila da Carpintaria na Capoava
 
 
 ONG Caminho das Águas
@@ -24,7 +24,7 @@ Queremos incentivá-los a desenvolver e tomar novos caminhos, a lidar com o meio
 Reunindo crianças e adultos com todos compartilhando conhecimentos, habilidades, criatividade e tecnologias, asseguramos que elas se tornarão mais conscientes do papel que podem desempenhar na formação da sociedade.
 
 .
-## MAIS DO QUE UMA SEMANA INESQUECÍVEL
+## MAIS DO QUE INESQUECÍVEL
 
 O mais importante é que as crianças tenham uma experiência inesquecível, mas a Vila da Carpintaria é mais do que uma boa semana:
 
@@ -38,7 +38,7 @@ O mais importante é que as crianças tenham uma experiência inesquecível, mas
 * Filhos de pais que são bem pequenos podem se juntar a Vila da Carpintaria gratuitamente.
 
 .
-## O FUTURO DA VILA DA CARPINTARIA
+## FUTURO DA CARPINTARIA
 
 * Queremos que A Vila da Carpintaria permaneça um evento recorrente de baixa frequência, anual, para jovens de 7 a 12 anos.
 * Os jovens poderão trabalhar por uma semana eles mesmos. Eles se encontram e aprendem mais sobre carpintaria, bioconstrução e desenvolvem suas próprias habilidades pessoais em coletivo. Desenvoltura, habilidade, tecnologia e criatividade se unem e proporcionam um resultado inesquecível.
@@ -69,7 +69,7 @@ Erro é descumprir as instruções. Se errar terá as seguintes consequências:
 3ª vez: uma pena, mas infelizmente a brincadeira acabou pra você que voltará para casa
 
 .
-## TRAGA O SEU 
+## TRAGA O SEU
 
 * Você receberá um martelo, chaves de fenda e possivelmente uma serra. Coloque seu nome na sua ferramenta para que você não a perca.
 * Você usará roupas velhas ou um macacão, que pode ficar sujo.
@@ -85,6 +85,7 @@ Erro é descumprir as instruções. Se errar terá as seguintes consequências:
 * As pessoas grandes são naturalmente muito bem-vindas como supervisores!
 * No final da semana há uma Festa da Vila onde os pais são bem-vindos. Então as crianças mostram o que estiveram trabalhando a semana toda!
 
+.
 **REGRAS GERAIS DURANTE A CONSTRUÇÃO**
 
 * Você deve manter os trabalhos dos outros inteiros
@@ -96,7 +97,7 @@ Erro é descumprir as instruções. Se errar terá as seguintes consequências:
 * Não deixe a área que foi demarcada como território, fique perto do local
 * Preste atenção as suas excelentes unhas ao pregar nas paredes e tetos e não deixe as suas unhas ficarem no chão!
 
-
+.
 **TRAGA E PEGUE**
 
 * Chegada aberta às 8h30, presença às 9h
@@ -105,11 +106,12 @@ Erro é descumprir as instruções. Se errar terá as seguintes consequências:
 * Avise a secretaria no dia se você for para casa mais cedo. É importante para a segurança saber quantas crianças ainda estão no campo.
 
 .
-## MATERIAIS E GARANTIAS:
+## MATERIAL E GARANTIAS
 
 * Madeira, paletes, vigas, pregos, luvas, capacetes de construção, água / limonada, lanches, sanitários e primeiros socorros.
 * E claro, muitas pessoas legais, um ótimo programa e a chance de experimentar uma semana inesquecível!
 
+.
 **FINALMENTE**
 
 * A participação na Vila da Carpintaria é por sua conta e risco.
@@ -119,7 +121,7 @@ Erro é descumprir as instruções. Se errar terá as seguintes consequências:
 Dica: coloque seu nome em sua ferramenta, bolsa e outras coisas.
 
 ---
-## Inspiraçâo
+## INSPIRAÇÃO
 
 Projeto traduzido e adaptado de: http://timmerdorpgroningen.nl/
 Imagens: https://www.facebook.com/timmerdorpgroningen 
