@@ -2,7 +2,7 @@
 title: Ferramentas WaterOps
 description: As ferramentas de nosso ecossistema ecomunicativo
 published: true
-date: 2019-11-30T17:48:16.725Z
+date: 2019-11-30T19:47:16.317Z
 tags: 
 ---
 
@@ -39,5 +39,18 @@ Apresentação e rotinas para rodar o [Chat ÁguasML (clique aqui)](https://cicl
 
 Um robô de conversas capaz de aprender com as águas e recursos hídricos, o [ÁguasBot 1.0 (saiba mais)](https://ciclos.aguas.ml/plataforma/ferramentas/aguas-bot-1-0 "Chat Águas ML")
 
-
 .
+## Ecossistema virtual
+
+Todas as ferramentas disponíveis à comunidade Águas Brasil, Bem Comum em Mídia Livre
+
+Nave mãe Brasil Águas ML-  https://brasil.aguas.ml 
+Notícias Águas ML: https://noticias.aguas.ml
+Publicações ÁguasML - https://livros.aguas.ml 
+Chat para grupos das águas - https://aguas.win 
+Textos colaborativos: https://pad.pedeagua.org 
+Ciclos, a Wiki das Águas: https://ciclos.aguas.ml
+EAD para cursos livres: http://livres.aguas.ml 
+Raspador de notícias hídricas 01: https://porto.aguas.ml 
+
+
