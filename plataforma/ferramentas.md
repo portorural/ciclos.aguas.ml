@@ -2,7 +2,7 @@
 title: WaterOps
 description: Uma seção para as ferramentas de nosso ecossistema ecomunicativo
 published: true
-date: 2019-11-30T01:21:22.566Z
+date: 2019-11-30T02:08:24.331Z
 tags: 
 ---
 
@@ -23,8 +23,11 @@ Um robô de conversas capaz de aprender com as águas e recursos hídricos - htt
 
 .
 ## Raspadores de notícias
-Raspador de notícias hídricas 01: https://porto.aguas.ml 
+Conheça o ÁguasBot Telegram e outros [raspadores de notícias (clique aqui)](https://ciclos.aguas.ml/plataforma/raspadores "Raspadores ÁguasML")!
+
+Raspador Porto ÁguasML: https://porto.aguas.ml 
 Raspador de notícias hídricas 02: https://noticias.aguas.ml
+
 
 .
 ## Pede Águas PAD
