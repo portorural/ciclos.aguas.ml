@@ -2,7 +2,7 @@
 title: WaterOps
 description: Uma seção para as ferramentas de nosso ecossistema ecomunicativo
 published: true
-date: 2019-11-30T03:49:38.016Z
+date: 2019-11-30T03:49:47.996Z
 tags: 
 ---
 
@@ -33,6 +33,8 @@ O post "<b>{title}</b>" foi publicado em {item_date} e pode ser visto originalme
 
 .
 ```
+
+.
 ## Pede Águas PAD
 
 Como usar o Pede Água PAD
