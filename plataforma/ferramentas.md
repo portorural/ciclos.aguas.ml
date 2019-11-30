@@ -2,7 +2,7 @@
 title: WaterOps
 description: Uma seção para as ferramentas de nosso ecossistema ecomunicativo
 published: true
-date: 2019-11-30T03:48:58.960Z
+date: 2019-11-30T03:49:38.016Z
 tags: 
 ---
 
@@ -21,7 +21,7 @@ Raspador de notícias hídricas 02: https://noticias.aguas.ml
 
 .
 ## Notícias ÁguasML
-Porto de notícias da plataforma Águas ML
+Portal de notícias da plataforma Águas ML
 https://noticias.aguas.ml
 
 ```text
