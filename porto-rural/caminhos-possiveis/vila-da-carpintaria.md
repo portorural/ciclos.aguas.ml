@@ -2,7 +2,7 @@
 title: Vila da Carpintaria na Porto Rural
 description: Esboço de projeto da nossa Vila da Carpintaria
 published: true
-date: 2019-11-30T00:54:32.945Z
+date: 2019-11-30T00:55:22.051Z
 tags: 
 ---
 
@@ -105,7 +105,7 @@ Erro é descumprir as instruções. Se errar terá as seguintes consequências:
 * Avise a secretaria no dia se você for para casa mais cedo. É importante para a segurança saber quantas crianças ainda estão no campo.
 
 .
-## A VILA DE CARPINTEIRO GARANTE:
+## MATERIAIS E GARANTIAS:
 
 * Madeira, paletes, vigas, pregos, luvas, capacetes de construção, água / limonada, lanches, sanitários e primeiros socorros.
 * E claro, muitas pessoas legais, um ótimo programa e a chance de experimentar uma semana inesquecível!
