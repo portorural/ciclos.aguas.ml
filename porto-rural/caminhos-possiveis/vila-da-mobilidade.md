@@ -2,7 +2,7 @@
 title: Vila Capoava da Mobilidade Rural
 description: Tecendo os caminhos para a mobilidade na Capoava
 published: true
-date: 2019-11-30T00:43:24.703Z
+date: 2019-11-30T00:46:09.925Z
 tags: 
 ---
 
@@ -10,7 +10,7 @@ tags:
 Além de uma estrada útil para pessoas, veículos e empresas, a Estrada Municipal que liga a cidade de Porto Feliz à Capoava pode ser base de caminhos que visam a conservação dos recursos naturais, criando diagnósticos e direcionamentos relacionados à perda laminar de solo pela água da chuva, conhecida como erosão de solo, evitando assoreamentos e outros danos aos nossos corpos hídricos, fortalecendo o patrimônio histórico, cultural e a biodiversidade.
 
 .
-## VISÃO GERAL
+# VISÃO GERAL
 
 
 Todos querem uma boa estrada rural, que não destrua nossos veículos e facilite o trabalho dos trabalhadores. Queremos uma estrada viva, em harmonia com a natureza.
@@ -32,7 +32,7 @@ Propomos que os atores envolvidos se organizem para a realização de um diagnó
 Marcação da estrada municipal, acesso da cidade à Fazenda Capoava, base de dados ESRI usando Ekylibre
 
 .
-## FUTURO DA VILA CAPOAVA DA MOBILIDADE RURAL
+# FUTURO DA VILA CAPOAVA DA MOBILIDADE RURAL
 
 
 Queremos fortalecer a cultura do diálogo entre o Poder Público, as empresas, as ONGs e os cidadãos a partir dos diálogos de manutenção desta estrada, abrindo os caminhos da Capoava. 
@@ -40,7 +40,7 @@ Queremos fortalecer a cultura do diálogo entre o Poder Público, as empresas, a
 Para isso propomos que a Mobilidade Rural na Fazenda Capoava de Porto Feliz seja um modelo compartilhado de produção, gestão e uso de um bem comum e patrimônio global na relação com as águas superficiais e as estradas rurais, assim como o uso racional de serviços e veículos movidos à combustíveis fósseis em ambientes rurais.
 
 .
-#### OBJETIVOS ESPECÍFICOS
+## OBJETIVOS ESPECÍFICOS
 
 
 Construídos com a colaboração dos técnicos da ONG SOS Águas, entre outros integrantes da Rede de Apoio da Porto Rural, elencamos 7 os objetivos específicos iniciais e prioritários em um ótimo esforço de adequação às leis e bons procedimentos na gestão dos socioambientais:
@@ -66,7 +66,7 @@ As pessoas ou entidades Patrocinadoras são muito bem vindas.
 Você pode fazer uma doação à Rede de Sustentação da Vila Capoava da Mobilidade Rural ou inscrever-se para organizar, realizar ou ajudar em alguma tarefa prática durante a implementação e manutenção das atividades.
 
 .
-### QUANTO À LOCALIZAÇÃO
+## QUANTO À LOCALIZAÇÃO
 
 
 Porto Feliz possui aproximadamente 840 quilômetros de estradas de terra sob responsabilidade da Prefeitura, que através da Secretaria de Obras investe nas adequações e infraestrutura dessas estradas, além da troca das estruturas das pontes de madeira por concreto, atendendo as mais diversas regiões da zona rural.
@@ -83,7 +83,7 @@ Em nossa compreensão dos dados disponíveis no site da prefeitura a cidade come
 * 	Conforme a Fundação SEADE, a frota de veículos de Porto Feliz vem crescendo em maior proporção que o crescimento populacional. A comunidade da Fazenda Capoava, formada por 91 famílias e visitantes, não dispõe de nenhum método de transposição viária que faça sua ligação com o centro da cidade, apenas os ônibus escolares em horários determinados apenas para estudantes, acalentando o uso de veículos individuais ou viagens a pé, quando a caminho para a compra de mantimentos ou cuidados médicos emergenciais.
 
 .
-### ORIENTAÇÕES PARA O PROJETO TÉCNICO
+# ORIENTAÇÕES PARA O PROJETO TÉCNICO
 
 
 Não encontramos em nossas pesquisas um Plano Diretor Municipal de Controle de Erosão Rural para a cidade de Porto Feliz, proposta que desde 2008 vem ganhando apoio e execuções por cidades em todo o país. 
@@ -124,7 +124,7 @@ Destacamos que após determinar no Artigo 1º que “O solo agrícola é patrim�
 
 
 .
-### SOBRE OS SOLOS RURAIS DE PORTO FELIZ
+## SOBRE OS SOLOS RURAIS DE PORTO FELIZ
 
 
 Informação de extremo interesse para projetos técnicos, de acordo com informações do Plano Diretor Ambiental de Porto Feliz, o solo do município se divide em 6 tipos:
