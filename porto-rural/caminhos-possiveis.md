@@ -2,7 +2,7 @@
 title: Escritórios de Projeto da Porto Rural
 description: Relatos de possibilidades na Porto Rural
 published: true
-date: 2019-11-29T23:45:24.123Z
+date: 2019-11-30T01:00:41.611Z
 tags: rural, portorural
 ---
 
@@ -13,42 +13,44 @@ Tudo o que podemos compartilhar sobre as ações na colônia da Fazenda Capoava,
 Uma lista de perspectivas e estudos criados a partir de conversas significativas da Porto Rural:
 
 
------
-
+.
 ## Volta das florestas
 
-Link: https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/mapeando-possibilidades-para-a-volta-das-florestas
+Link
+https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/mapeando-possibilidades-para-a-volta-das-florestas
 
-
------
+.
 ## Inspirando uma Smart Village
 
-Link: https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/inspiracoes-do-roteiro-da-smart-village
+Link
+https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/inspiracoes-do-roteiro-da-smart-village
 
 
------
-
+.
 ## Relatórios em campo com Android
 
-Link: https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/relatorios-em-campo-com-android
+Link
+https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/relatorios-em-campo-com-android
 
 
------
-
+.
 ## Saneamento medicinal
 
-Link: https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/saneamento-medicinal-na-capoava
+Link
+https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/saneamento-medicinal-na-capoava
 
 
------
-
+.
 ## Vila Capoava da Carpintaria
 
-Link: https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/vila-da-carpintaria
+Link
+https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/vila-da-carpintaria
 
 
------
+.
+## Vila da Mobilidade Rural
 
-## Vila da Mobilidade
+Link
+https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/vila-da-mobilidade
 
-Link: https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/vila-da-mobilidade
+.
