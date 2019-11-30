@@ -1,8 +1,8 @@
 ---
 title: Relatórios em campo com android
-description: Um guia para utilizar o ODK em campo com android
+description: Um guia do ODK em campo com android
 published: true
-date: 2019-11-30T00:28:59.672Z
+date: 2019-11-30T00:29:24.223Z
 tags: 
 ---
 
