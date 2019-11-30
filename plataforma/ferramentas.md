@@ -2,7 +2,7 @@
 title: WaterOps
 description: Uma seção para as ferramentas de nosso ecossistema ecomunicativo
 published: true
-date: 2019-11-30T03:46:28.732Z
+date: 2019-11-30T03:48:58.960Z
 tags: 
 ---
 
@@ -25,11 +25,9 @@ Porto de notícias da plataforma Águas ML
 https://noticias.aguas.ml
 
 ```text
-## Content citando a fonte
+## Template citando a fonte
 
 {content}
-
-
 
 O post "<b>{title}</b>" foi publicado em {item_date} e pode ser visto originalmente <a href="{permalink}" target="_blank">na fonte {feedtitle}</a>
 
