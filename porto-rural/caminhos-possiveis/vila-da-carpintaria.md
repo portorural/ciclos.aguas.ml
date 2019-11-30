@@ -2,7 +2,7 @@
 title: Vila da Carpintaria na Porto Rural
 description: Esboço de projeto da nossa Vila da Carpintaria
 published: true
-date: 2019-11-30T00:54:08.392Z
+date: 2019-11-30T00:54:32.945Z
 tags: 
 ---
 
@@ -119,6 +119,8 @@ Erro é descumprir as instruções. Se errar terá as seguintes consequências:
 Dica: coloque seu nome em sua ferramenta, bolsa e outras coisas.
 
 ---
+## Inspiraçâo
+
 Projeto traduzido e adaptado de: http://timmerdorpgroningen.nl/
 Imagens: https://www.facebook.com/timmerdorpgroningen 
 
