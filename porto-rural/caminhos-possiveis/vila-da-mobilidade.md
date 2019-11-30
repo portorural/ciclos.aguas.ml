@@ -2,7 +2,7 @@
 title: Vila Capoava da Mobilidade
 description: Tecendo os caminhos para a mobilidade na Capoava
 published: true
-date: 2019-11-30T00:37:48.572Z
+date: 2019-11-30T00:39:41.355Z
 tags: 
 ---
 
@@ -36,7 +36,9 @@ Marcação da estrada municipal, acesso da cidade à Fazenda Capoava, base de da
 ## FUTURO DA VILA CAPOAVA DA MOBILIDADE RURAL
 
 
-Queremos fortalecer a cultura do diálogo entre o Poder Público, as empresas, as ONGs e os cidadãos a partir dos diálogos de manutenção desta estrada, abrindo os caminhos da Capoava. Para isso propomos que a Mobilidade Rural na Fazenda Capoava de Porto Feliz seja um modelo compartilhado de produção, gestão e uso de um bem comum e patrimônio global na relação com as águas superficiais e as estradas rurais, assim como o uso racional de serviços e veículos movidos à combustíveis fósseis em ambientes rurais.
+Queremos fortalecer a cultura do diálogo entre o Poder Público, as empresas, as ONGs e os cidadãos a partir dos diálogos de manutenção desta estrada, abrindo os caminhos da Capoava. 
+
+Para isso propomos que a Mobilidade Rural na Fazenda Capoava de Porto Feliz seja um modelo compartilhado de produção, gestão e uso de um bem comum e patrimônio global na relação com as águas superficiais e as estradas rurais, assim como o uso racional de serviços e veículos movidos à combustíveis fósseis em ambientes rurais.
 
 .
 #### OBJETIVOS ESPECÍFICOS
