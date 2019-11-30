@@ -1,11 +1,16 @@
-<!-- TITLE: Vila Capoava da Mobilidade -->
-<!-- SUBTITLE: Tecendo os caminhos para a mobilidade na Capoava -->
+---
+title: Vila Capoava da Mobilidade
+description: Tecendo os caminhos para a mobilidade na Capoava
+published: true
+date: 2019-11-30T00:37:48.572Z
+tags: 
+---
 
 # Vila Capoava da Mobilidade Rural
 
 Além de uma estrada útil para pessoas, veículos e empresas, a Estrada Municipal que liga a cidade de Porto Feliz à Capoava pode ser base de caminhos que visam a conservação dos recursos naturais, criando diagnósticos e direcionamentos relacionados à perda laminar de solo pela água da chuva, conhecida como erosão de solo, evitando assoreamentos e outros danos aos nossos corpos hídricos, fortalecendo o patrimônio histórico, cultural e a biodiversidade.
 
-
+.
 ## VISÃO GERAL
 
 
@@ -19,21 +24,21 @@ Imagem aérea à 14.55km de altura, base de dados ESRI
 
 Conversamos com quem usa a estrada todo dia, com quem gere e com quem trabalha por horas a fio nela, além de reunir as pessoas mais ativas em nossa Rede de Apoio onde estamos compartilhando conhecimentos, habilidades, criatividade e tecnologias para assegurar que nossas motivações em interdependência na mobilidade rural se tornarão mais efetivas no desempenho da integração de nossa colônia à sociedade portofelicense. Queremos mais conversas!
 
-
-### MAIS DO QUE UMA ESTRADA ACESSÍVEL
+.
+## MAIS DO QUE UMA ESTRADA ACESSÍVEL
 
 
 Propomos que os atores envolvidos se organizem para a realização de um diagnóstico relativo à uso e processos erosivos da Estrada Municipal que leva à Capoava, bem como propor diretrizes e ações de mitigação com base na Lei Estadual nº 6.171/1988 (e suas alterações conforme LEI Nº 8.421, DE 23 DE NOVEMBRO DE 1993 e Lei n° 11.970, de 30 de junho de 2005) que dispõe sobre uso, conservação e preservação do solo agrícola no Estado de São Paulo.
 
 Marcação da estrada municipal, acesso da cidade à Fazenda Capoava, base de dados ESRI usando Ekylibre
 
-
-### FUTURO DA VILA CAPOAVA DA MOBILIDADE RURAL
+.
+## FUTURO DA VILA CAPOAVA DA MOBILIDADE RURAL
 
 
 Queremos fortalecer a cultura do diálogo entre o Poder Público, as empresas, as ONGs e os cidadãos a partir dos diálogos de manutenção desta estrada, abrindo os caminhos da Capoava. Para isso propomos que a Mobilidade Rural na Fazenda Capoava de Porto Feliz seja um modelo compartilhado de produção, gestão e uso de um bem comum e patrimônio global na relação com as águas superficiais e as estradas rurais, assim como o uso racional de serviços e veículos movidos à combustíveis fósseis em ambientes rurais.
 
-
+.
 #### OBJETIVOS ESPECÍFICOS
 
 
@@ -48,13 +53,18 @@ Construídos com a colaboração dos técnicos da ONG SOS Águas, entre outros i
 * Fomentar políticas municipais que minimizem os conflitos e as erosões existentes
 
 Todos os envolvidos poderão trabalhar por objetivos específicos estabelecidos por eles mesmos, desde que não causem danos à iniciativas da rede.
+
 Os participantes podem se encontrar regularmente e aprender mais sobre soluções técnicas, prototipação de produtos, cenários de uso consolidado, estudos sobre adoção de tecnologias, potenciais kits básicos, cases de aglomerado humano sustentável, bioconstrução e desenvolver suas próprias habilidades.
 
 Desenvoltura, habilidade, tecnologia, decisões rápidas e criatividade podem ser relatadas à coordenação e proporcionar um resultado inesquecível.
 
-Para tornar isso possível também é necessário apoio estrutural. O projeto envolve genialidade, mão de obra, softwares muitas vezes importados, novos produtos e pesquisas, mas também simplesmente dinheiro. As pessoas ou entidades Patrocinadoras são muito bem vindas. Você pode fazer uma doação à Rede de Sustentação da Vila Capoava da Mobilidade Rural ou inscrever-se para organizar, realizar ou ajudar em alguma tarefa prática durante a implementação e manutenção das atividades.
+Para tornar isso possível também é necessário apoio estrutural. O projeto envolve genialidade, mão de obra, softwares muitas vezes importados, novos produtos e pesquisas, mas também simplesmente dinheiro.
 
+As pessoas ou entidades Patrocinadoras são muito bem vindas. 
 
+Você pode fazer uma doação à Rede de Sustentação da Vila Capoava da Mobilidade Rural ou inscrever-se para organizar, realizar ou ajudar em alguma tarefa prática durante a implementação e manutenção das atividades.
+
+.
 ### QUANTO À LOCALIZAÇÃO
 
 
@@ -71,7 +81,7 @@ Em nossa compreensão dos dados disponíveis no site da prefeitura a cidade come
 *  A citada localização é também uma “Área de Especial Interesse Ambiental” por conta de suas APPs, tendendo à restrições onde não pode induzir ocupação urbana ou adensamento em macrozona crítica para o futuro do abastecimento da cidade, sendo necessário mais diálogos entre os envolvidos e orgãos competentes para discutir a situação dos núcleos rurais já existentes, conforme andamentos do Conselho Municipal de Defesa do Patrimônio Histórico, Cultural e Ambiental de Porto Feliz (COMUPHAC) e leituras sobre legislação pertinente, legislação municipal e Plano Diretor Municipal de Porto Feliz
 * 	Conforme a Fundação SEADE, a frota de veículos de Porto Feliz vem crescendo em maior proporção que o crescimento populacional. A comunidade da Fazenda Capoava, formada por 91 famílias e visitantes, não dispõe de nenhum método de transposição viária que faça sua ligação com o centro da cidade, apenas os ônibus escolares em horários determinados apenas para estudantes, acalentando o uso de veículos individuais ou viagens a pé, quando a caminho para a compra de mantimentos ou cuidados médicos emergenciais.
 
-
+.
 ### ORIENTAÇÕES PARA O PROJETO TÉCNICO
 
 
@@ -93,18 +103,19 @@ Outro item relevante quanto aos planos municipais ou diretores de erosão rural 
 
 Destacamos que após determinar no Artigo 1º que “O solo agrícola é patrimônio da humanidade, e por conseqüência, cabe aos responsáveis pelo seu uso a obrigatoriedade de conservá-lo”, a Lei Estadual nº 6.171 detalha:
 
-"Artigo 4.° - Todo aquele que explorar o solo agrícola fica obrigado a:
+`"Artigo 4.° - Todo aquele que explorar o solo agrícola fica obrigado a:
 l - zelar pelo aproveitamento adequado e pela conservação das águas em todas as suas formas;
 II - controlar a erosão do solo, em todas as suas formas;
 III - evitar processos de desertificação;
 IV - evitar assoreamento de cursos d'água e bacias de acumulação;
 V - zelar pelas dunas, taludes e escarpas naturais ou artificiais;
 VI - evitar a prática de queimadas, tolerando-as, somente, quando amparadas por norma regulamentar;
+
 VII - evitar o desmatamento das áreas impróprias para exploração agro-silvo-pastoril e promover a possível vegetação permanente nessas áreas, quando desmatadas;
 VIII - recuperar, manter e melhorar as características físicas, químicas e biológicas do solo agrícola;
 IX - adequar a locação, construção e manutenção de barragens, estradas, carreadores, caminhos, canais de irrigação e prados escoadouros aos princípios conservacionistas.
-
-
+`
+.
 ### SOBRE OS SOLOS RURAIS DE PORTO FELIZ
 
 
@@ -119,18 +130,22 @@ Informação de extremo interesse para projetos técnicos, de acordo com informa
 
 E especificamente falando do solo na Capoava, extraímos do Mapa Geomorfopedológico do Município de Porto Feliz
 
+.
+## Caracterização do solo
+
 **Colinas Amplas e Patamares Suavemente Convexos**
 
 * Declividade - 0 a 12%
 * Rochas - Diabásio (Sills e Diques)
 
+.
 **Solos**
 
 * Latossolos Vermelho Férrico - textura argilosa
 * Nitossolos Vermelhos - textura argilosa
 
-
-### COMPREENSÃO INICIAL
+.
+# COMPREENSÃO INICIAL
 
 
 Acreditamos no potencial de todos os envolvidos (Público, Privado, Terceiro Setor e Civis) em tratar com zelo e harmonia este tema oportuno e necessário
