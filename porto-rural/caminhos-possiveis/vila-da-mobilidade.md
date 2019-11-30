@@ -2,7 +2,7 @@
 title: Vila Capoava da Mobilidade Rural
 description: Tecendo os caminhos para a mobilidade na Capoava
 published: true
-date: 2019-11-30T00:47:47.218Z
+date: 2019-11-30T00:49:29.109Z
 tags: 
 ---
 
@@ -13,7 +13,7 @@ Além de uma estrada útil para pessoas, veículos e empresas, a Estrada Municip
 # VISÃO GERAL
 
 
-Todos querem uma boa estrada rural, que não destrua nossos veículos e facilite o trabalho dos trabalhadores. Queremos uma estrada viva, em harmonia com a natureza.
+Todos querem uma boa estrada rural, que não destrua nossos veículos e facilite o trabalho dos trabalhadores. Queremos uma estrada viva, integrada, em harmonia com a natureza.
 
 Queremos a utilização das informações e dos conhecimentos disponíveis de modo organizado e manipulado por intermédio de softwares específicos quando necessário, dados públicos sempre.
 
