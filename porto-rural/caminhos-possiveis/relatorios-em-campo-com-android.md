@@ -2,7 +2,7 @@
 title: Relatórios em campo com android
 description: Um guia do ODK em campo com android
 published: true
-date: 2019-11-30T00:30:38.621Z
+date: 2019-11-30T00:31:08.567Z
 tags: 
 ---
 
@@ -52,12 +52,12 @@ Faça o download de formulários quando tiver internet:
 1. Uma lista de todos os seus formulários de seus diferentes projetos será mostrada. Clique em Alternar todos (ou selecione os que deseja baixar) e clique em Obter selecionados.
 
 .
-### Coletando os dados
+## Coletando os dados
 1. Clique em preencher formulário em branco
 1. Selecione o formulário para o qual você gostaria de inserir dados
 1. Faça todas as perguntas (passando o dedo da direita para a esquerda)
 1. No final, clique em Salvar Formulário e Sair (certificando-se de que o formulário esteja marcado como 'finalizado')
 
 .
-### Envie suas respostas
+## Envie suas respostas
 Faça o envio de formulários com respostas quando tiver acesso à internet com 3g/4g ou wifi
