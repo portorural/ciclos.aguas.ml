@@ -2,7 +2,7 @@
 title: Dicas de uso do FreeDNS
 description: Dicas de uso com o FreeDNS
 published: true
-date: 2019-12-04T03:50:08.590Z
+date: 2019-12-04T03:55:43.215Z
 tags: plataforma, dns, free, pi
 ---
 
@@ -17,6 +17,8 @@ Faça com calma, pode haver erros, como a impossibilidade de registrar o domíni
 - Acesse https://freedns.afraid.org/signup/
 - Preencha os campos com seu nome, ID, senha e email
 
+# Portas no roteador
+Se estiver criando coisas, confirme sempre que as portas 80 e 443 estão liberadas em seu roteador
 
 # Senha HASH no FreeDNS
 Faça login
