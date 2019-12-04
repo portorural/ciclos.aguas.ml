@@ -2,7 +2,7 @@
 title: Seja dono dos seus arquivos na nuvem
 description: Cire sua própria nuvem na Internet
 published: true
-date: 2019-12-04T04:09:11.938Z
+date: 2019-12-04T04:13:55.062Z
 tags: pi, nextcloud
 ---
 
@@ -28,3 +28,15 @@ Link do tutorial das 04 formas possíveis de instalação
 https://pant.github.io/nextcloudpi-test-docs/en_How-to-install-NextCloudPi.html
 
 Utilizando o RPI Berryboot você pode instalá-lo diretamente em um USB ou HD externo, eliminando o cartão SD das operações recorrentes do sistema. lembre-se que SDs são sensíveis e com alto potencial de problemas.
+
+## Links de interesse
+
+Site oficial
+https://ownyourbits.com/nextcloudpi/
+
+GitHub do projeto
+https://github.com/nextcloud/nextcloudpi
+
+Para gravar a image no SD ou HD da instalação use o Etcher
+Site: https://www.balena.io/etcher/
+Github: https://github.com/balena-io/etcher
