@@ -2,12 +2,12 @@
 title: Dicas de uso do FreeDNS
 description: Dicas de uso com o FreeDNS
 published: true
-date: 2019-12-04T04:50:56.501Z
+date: 2019-12-04T04:53:43.292Z
 tags: plataforma, dns, free, pi
 ---
 
 # Usando o FreeDNS
-Em nosso caso foi necessário o uso do FreeDNS para  [a instalação de um NextCloud no RaspberryPi] (https://ciclos.aguas.ml/plataforma/nextcloudpi "NextCloudPI"), NextcloudPI
+Em nosso caso foi necessário o uso do FreeDNS para [a instalação de um NextCloud no RaspberryPi] (/plataforma/nextcloudpi), o NextcloudPI
 
 A seguir, algumas anotações que com certeza serão úteis
 
