@@ -2,7 +2,7 @@
 title: Dicas de uso do FreeDNS
 description: Dicas de uso com o FreeDNS
 published: true
-date: 2019-12-04T03:47:38.678Z
+date: 2019-12-04T03:50:08.590Z
 tags: plataforma, dns, free, pi
 ---
 
@@ -23,5 +23,8 @@ Faça login
 
 - Acesse `Dynamic DNS >` o link direto pode ser https://freedns.afraid.org/dynamic/
 - Ao lado do seu domínio na tabela de opções, haverá um link chamado Direct Link
-- Com o botão direito copicole este link: `https://freedns.afraid.org/dynamic/update.php?XXXXXX`
-- Use somente o que estiver após ponto de interrogação, é este seu hash
+- Com o botão direito copicole este link, ele se parecerá com este:
+
+> https://freedns.afraid.org/dynamic/update.php?`XXXXXXXXXX`
+
+- Use somente o que estiver após o ponto de interrogação, é este seu hash
