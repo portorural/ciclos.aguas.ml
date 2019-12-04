@@ -1,5 +1,10 @@
-<!-- TITLE: Como configuramos o Etherpad da plataforma ÁguasML -->
-<!-- SUBTITLE: Algumas informações relevantes sobre nossa instalação do Etherpad no Pede Água Pad -->
+---
+title: Como configuramos o Etherpad da plataforma ÁguasML
+description: Algumas informações relevantes sobre nossa instalação do Etherpad no Pede Água Pad
+published: true
+date: 2019-12-04T04:45:23.089Z
+tags: 
+---
 
 # Anotações úteis para o Etherpad
 
@@ -72,27 +77,28 @@ https://framagit.org/colibris/etherpad-skin-colibris-outilslibres
 
 # Lançamento teste durante install
 
+```text
 cd /opt/etherpad-lite/bin
 ./run.sh --root
+```
 
 
 
 
 # Para atualizar o Etherpad
+```text
 cd /opt/etherpad-lite
 git pull origin
+```
 
-
-
-
+.
 ## Comandos úteis
 
 **Reiniciar serviço**
-
+```text
 sudo systemctl restart etherpad
-
-
-
+```
+.
 ## Erros conhecidos
 
 Não é possível administrar/ver os pads pelo admin
