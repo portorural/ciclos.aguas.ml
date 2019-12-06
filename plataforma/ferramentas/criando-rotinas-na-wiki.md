@@ -2,7 +2,7 @@
 title: Criando Rotinas na Wiki ÁguasML
 description: Links e anotações importantes para cria Rotinas na Wiki ÁguasML
 published: true
-date: 2019-12-06T00:06:08.517Z
+date: 2019-12-06T00:06:59.128Z
 tags: 
 ---
 
@@ -14,6 +14,13 @@ Dicas para replicar uma instalação do WIKIJS 1.0 ou 2.0
 [Usando o wikijs  2.0 e o Github](https://docs.requarks.io/en/storage/git)
 
 [Criando usuário de banco de dados com o postgresql](https://medium.com/coding-blocks/creating-user-database-and-adding-access-on-postgresql-8bfcd2f4a91e)
+
+```text
+sudo -u postgres psql
+postgres=# create database mydb;
+postgres=# create user myuser with encrypted password 'mypass';
+postgres=# grant all privileges on database mydb to myuser;
+```
 
 [O sistema sincroniza com o git a cada 5 minutos, não há como mudar.](https://github.com/Requarks/wiki/issues/627)
 
