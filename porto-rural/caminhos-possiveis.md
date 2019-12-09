@@ -2,7 +2,7 @@
 title: Escritórios de Projeto da Porto Rural
 description: Relatos de possibilidades na Porto Rural
 published: true
-date: 2019-12-09T21:32:39.789Z
+date: 2019-12-09T21:33:32.486Z
 tags: rural, portorural
 ---
 
@@ -16,7 +16,7 @@ Uma lista de perspectivas e estudos criados a partir de conversas significativas
 .
 ## Volta das florestas
 
-[Projeto para a volta das Florestas](https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/mapeando-possibilidades-para-a-volta-das-florestas)
+Mapeando possibilidades para [a Volta das Florestas](https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/mapeando-possibilidades-para-a-volta-das-florestas)
 
 .
 ## Valorizando as Economias
