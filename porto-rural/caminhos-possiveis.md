@@ -2,8 +2,8 @@
 title: Escritórios de Projeto da Porto Rural
 description: Relatos de possibilidades na Porto Rural
 published: true
-date: 2019-12-09T21:33:32.486Z
-tags: rural, portorural
+date: 2020-01-03T09:17:00.060Z
+tags: rural, porto rural, vivências, projetos
 ---
 
 # Perspectivas e estudos abertos
