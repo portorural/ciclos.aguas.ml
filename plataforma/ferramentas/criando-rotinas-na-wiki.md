@@ -2,8 +2,8 @@
 title: Criando Rotinas na Wiki ÁguasML
 description: Links e anotações importantes para cria Rotinas na Wiki ÁguasML
 published: true
-date: 2019-12-06T00:06:59.128Z
-tags: 
+date: 2020-01-03T09:04:36.323Z
+tags: nginx
 ---
 
 # Dicas e links importantes
