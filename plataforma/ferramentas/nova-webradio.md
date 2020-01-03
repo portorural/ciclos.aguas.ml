@@ -2,8 +2,8 @@
 title: Nova Web Rádio
 description: Uma nova web rádio
 published: true
-date: 2019-11-29T19:01:05.477Z
-tags: 
+date: 2020-01-03T09:13:23.298Z
+tags: plataforma, ferramentas, rádio, digital, biluga, tudo para sua casa
 ---
 
 # Novidades da Rádio Bilu.ga
