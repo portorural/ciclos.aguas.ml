@@ -1,5 +1,10 @@
-<!-- TITLE: Saneamento Medicinal Na Capoava -->
-<!-- SUBTITLE: Um conjunto de perspectivas para o saneamento medicinal na Capoava -->
+---
+title: Saneamento Medicinal Na Capoava
+description: Um conjunto de perspectivas para o saneamento medicinal na Capoava
+published: true
+date: 2020-01-03T09:24:30.902Z
+tags: porto rural, saneamento, medicinal
+---
 
 # Possibilidades em saneamento medicinal
 A Capoava é uma comunidade rural localizada no município de Porto Feliz-SP, entre a região de Sorocaba e de Piracicaba. A área consiste numa ex-colônia de trabalhadores e conta com 95 estruturas físicas tais como escola, escritórios, cinema, capela, campo de futebol, 83 casas dos trabalhadores entre outras edificações, algumas preservadas e outras não. As áreas sociais são cercadas por plantações de cana-de-açúcar e mais recentemente eucaliptos.
