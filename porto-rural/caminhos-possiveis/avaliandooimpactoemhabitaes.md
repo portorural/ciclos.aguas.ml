@@ -1,5 +1,10 @@
-<!-- TITLE: Impacto Social no Setor Habitacional -->
-<!-- SUBTITLE: Desdobramentos de um seminário na FGV -->
+---
+title: Impacto Social no Setor Habitacional
+description: Desdobramentos de um seminário na FGV
+published: true
+date: 2020-01-03T09:11:30.827Z
+tags: porto rural, seminário, habitação
+---
 
 # Inspirações
 
