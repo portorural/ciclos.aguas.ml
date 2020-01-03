@@ -1,5 +1,10 @@
-<!-- TITLE: Como usar o Pede Água PAD -->
-<!-- SUBTITLE: Cocriando em tempo real com o PedeAgua Pad -->
+---
+title: Como usar o Pede Água PAD
+description: Cocriando em tempo real com o PedeAgua Pad
+published: true
+date: 2020-01-03T09:09:09.238Z
+tags: águas, plataforma, pad, ferramentas, cocriar
+---
 
 # Cocriando em tempo real
 
