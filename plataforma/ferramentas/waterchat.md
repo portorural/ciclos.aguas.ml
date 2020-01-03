@@ -1,5 +1,10 @@
-<!-- TITLE: WaterOps e o chat hídrico -->
-<!-- SUBTITLE: Documentação para a manutenção ativa do Chat ÁguasML -->
+---
+title: WaterOps e o chat hídrico
+description: Documentação para a manutenção ativa do Chat ÁguasML
+published: true
+date: 2020-01-03T09:11:02.660Z
+tags: águas, plataforma, ferramentas, chat, rocketchat, vps
+---
 
 # Rotina para atualizar o Chat ÁguasML
 
