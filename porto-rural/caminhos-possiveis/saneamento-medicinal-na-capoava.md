@@ -2,7 +2,7 @@
 title: Saneamento Medicinal Na Capoava
 description: Um conjunto de perspectivas para o saneamento medicinal na Capoava
 published: true
-date: 2020-01-09T01:46:11.851Z
+date: 2020-01-09T01:47:00.623Z
 tags: porto rural, saneamento, medicinal
 ---
 
@@ -18,7 +18,7 @@ Residem na colônia aproximadamente 350 pessoas. A área social é cercada por p
 
 Um hábito atual, as pessoas vivem privadas de sol em seu dia a dia.
 
-Segunda pesquisas da Dra Helena Ribeiro, da Faculdade de Saúde Pública da USP, nos dias atuais é alta a vulnerabilidade e suceptilidade humana global à deficiência em vitamina D.
+Segunda pesquisas da Dra Helena Ribeiro, da Faculdade de Saúde Pública da USP, nos dias atuais é alta a vulnerabilidade e susceptilidade humana global à deficiência em vitamina D.
 
 Isso altera as relações entre nosso organismo, a pele e a radiação ultravioleta B, podendo causar 75 doenças crônicas segundo a base de dados Scopus.
 
