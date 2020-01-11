@@ -2,7 +2,7 @@
 title: Configurando modens comuns
 description: Como configurar modens que estão sobrando pelas casas do Brasil
 published: true
-date: 2020-01-11T04:20:09.252Z
+date: 2020-01-11T04:22:38.798Z
 tags: plataforma, modem, configurar, internet
 ---
 
@@ -27,7 +27,10 @@ A seguir algumas instruções gerais e por operadora. Não são regras, variam d
 Então que seja útil para suas inspirações.
 
 ```
-Coloque o chip no modem e conecte-o no computador pela entrada USB;
+Coloque o chip no modem
+Ligue na tomada e conecte-o no computador pela USB;
+No navegador, o endereço mais comum é 192.168.0.1 
+
 Selecione o idioma Português.
 Essa opção pode aparecer quando o instalador for iniciado;
 Abra o programa e clique em Configurações;
