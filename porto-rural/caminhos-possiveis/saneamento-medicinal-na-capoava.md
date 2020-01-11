@@ -2,7 +2,7 @@
 title: Saneamento Medicinal Na Capoava
 description: Um conjunto de perspectivas para o saneamento medicinal na Capoava
 published: true
-date: 2020-01-09T01:47:00.623Z
+date: 2020-01-11T04:26:29.634Z
 tags: porto rural, saneamento, medicinal
 ---
 
@@ -15,7 +15,10 @@ Residem na colônia aproximadamente 350 pessoas. A área social é cercada por p
 
 .
 ## Dados a considerar
+Dados importantes e que podem ser úteis na elucidação de contextos
 
+.
+### Vitamina D
 Um hábito atual, as pessoas vivem privadas de sol em seu dia a dia.
 
 Segunda pesquisas da Dra Helena Ribeiro, da Faculdade de Saúde Pública da USP, nos dias atuais é alta a vulnerabilidade e susceptilidade humana global à deficiência em vitamina D.
