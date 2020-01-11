@@ -2,7 +2,7 @@
 title: Configurando modens comuns
 description: Como configurar modens que estão sobrando pelas casas do Brasil
 published: true
-date: 2020-01-11T04:18:08.693Z
+date: 2020-01-11T04:18:52.973Z
 tags: plataforma, modem, configurar, internet
 ---
 
@@ -36,7 +36,7 @@ Procure onde editar sua Conexão e Adicione uma nova
 Agora, você precisará preencher os dados do APN. Veja as mais comuns:
 
 .
-### Claro
+## Claro
 
 ```
 Nome da conexão: CLARO;
@@ -60,7 +60,7 @@ Modo de autenticação: Marque a opção PAP
 Obs.: Marque a opção “Obter o endereço do servidor PDP automaticamente”, marque também “Obter o endereço dos servidores DNS automaticamente”.Defina esta conexão como padrão. Se houver o campo “Tipo de PDP” marque a opção IP.
 
 
-### Vivo
+## Vivo
 ```
 Nome do perfil, digite VIVO INTERNET
 APN, digite zap.vivo.com.br. Edite os detalhes para Autenticação:
@@ -88,7 +88,7 @@ Modo de autenticação: Marque a opção PAP
 Obs.: Marque a opção “Obter o endereço do servidor PDP automaticamente”, marque também “Obter o endereço dos servidores DNS automaticamente”.Defina esta conexão como padrão. Se houver o campo “Tipo de PDP” marque a opção IP.
 
 .
-### Oi 3G
+## Oi 3G
 ```
 Nome: Oi 3G
 Número de discagem: *99***1#
@@ -100,7 +100,7 @@ Modo de autenticação: Marque a opção PAP
 Obs.: Marque a opção “Obter o endereço do servidor PDP automaticamente”, marque também “Obter o endereço dos servidores DNS automaticamente”.Defina esta conexão como padrão. Se houver o campo “Tipo de PDP” marque a opção IP.
 
 .
-### Tim 3G
+## Tim 3G
 ```
 Nome: Tim 3G
 Número de discagem: *99#
