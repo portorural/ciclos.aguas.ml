@@ -2,7 +2,7 @@
 title: Configurando modens comuns
 description: Como configurar modens que estão sobrando pelas casas do Brasil
 published: true
-date: 2020-01-11T04:18:52.973Z
+date: 2020-01-11T04:20:09.252Z
 tags: plataforma, modem, configurar, internet
 ---
 
@@ -14,10 +14,12 @@ Com visas a metareciclagem, é interessante o potencial que os modens antigos te
 
 Em muitos casos é necessário reconfigurá-los. Como se tratam de redes móveis, é preciso configurar APN de cada operadora, no modem.
 
-Veja como fazer com os principais serviços no Brasil:
+
 
 # Padrão e operadoras
+Veja como fazer com os principais serviços no Brasil
 
+.
 ## Manejo Básico do modem
 
 A seguir algumas instruções gerais e por operadora. Não são regras, variam dado a quantidade e diversidade de aparelhos pelo mundo.
