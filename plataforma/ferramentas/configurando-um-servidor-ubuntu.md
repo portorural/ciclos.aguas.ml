@@ -2,7 +2,7 @@
 title: Configurando Um Servidor Ubuntu
 description: Um resumo prático para configurar um servidor Ubuntu
 published: true
-date: 2019-11-29T22:15:27.766Z
+date: 2020-06-16T00:24:54.466Z
 tags: 
 ---
 
@@ -241,3 +241,7 @@ deb http://security.ubuntu.com/ubuntu xenial-security universe
 deb http://security.ubuntu.com/ubuntu xenial-security multiverse
 #deb-src http://security.ubuntu.com/ubuntu xenial-security multiverse
 ```
+
+## Source Ubuntu bionic
+
+Link: https://gist.github.com/h0bbel/4b28ede18d65c3527b11b12fa36aa8d1
