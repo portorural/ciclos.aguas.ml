@@ -2,8 +2,9 @@
 title: Como configuramos o Etherpad da plataforma ÁguasML
 description: Algumas informações relevantes sobre nossa instalação do Etherpad no Pede Água Pad
 published: true
-date: 2020-01-03T09:08:40.705Z
+date: 2020-06-27T12:15:55.800Z
 tags: águas, plataforma, pad, ferramentas, nginx, nodejs, etherpad, dicas
+editor: markdown
 ---
 
 # Anotações úteis para o Etherpad
@@ -91,13 +92,65 @@ cd /opt/etherpad-lite
 git pull origin
 ```
 
+
+.
+## Rollback para a versão 1.6.6
+```
+git checkout .
+```
+``` 
+git checkout tags/1.6.6
+```
+``` 
+rm -rf ./src/node_modules
+```
+``` 
+rm -rf ./node_modules
+```
+```
+rm package-lock.json
+```
+```
+rm src/package-lock.json
+```
+``` 
+./bin/run.sh
+```
+
+
 .
 ## Comandos úteis
+
+**Configurar serviço na inicialização**
+
+``` 
+./bin/installDeps.sh
+```
+
+
+**Instalar dependências**
+
+``` 
+./bin/installDeps.sh
+```
+
+
+**Verificar versão de node, nodejs e npm**
+``` 
+node -v && nodejs -v && npm -v
+```
+
 
 **Reiniciar serviço**
 ```text
 sudo systemctl restart etherpad
 ```
+
+**Exemplo de instalação de plugins**
+```
+npm install ep_adminpads
+```
+
 .
 ## Erros conhecidos
 
