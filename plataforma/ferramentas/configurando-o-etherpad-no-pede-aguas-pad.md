@@ -2,7 +2,7 @@
 title: Como configuramos o Etherpad da plataforma ÁguasML
 description: Algumas informações relevantes sobre nossa instalação do Etherpad no Pede Água Pad
 published: true
-date: 2020-06-27T12:15:55.800Z
+date: 2020-06-27T12:21:06.702Z
 tags: águas, plataforma, pad, ferramentas, nginx, nodejs, etherpad, dicas
 editor: markdown
 ---
@@ -124,16 +124,36 @@ rm src/package-lock.json
 **Configurar serviço na inicialização**
 
 ``` 
-./bin/installDeps.sh
+sudo nano /etc/systemd/system/etherpad.service
 ```
 
 
-**Instalar dependências**
+**Instalar dependências node do etherpad**
 
 ``` 
 ./bin/installDeps.sh
 ```
 
+Inspirar no programa a seguir (alterar `/pasta_do_app` para a pasta onde você instalou o etherpad )
+
+```
+[Unit]
+Description=Etherpad Collaborative Editor
+
+[Service]
+Type=simple
+User=etherpad
+Group=etherpad
+WorkingDirectory=/pasta_do_app
+ExecStart=/pasta_do_app/bin/run.sh
+User=etherpad
+Environment=NODE_ENV=production
+Restart=always # use mysql plus a complete settings.json to avoid Service hold-$
+
+[Install]
+WantedBy=multi-user.target
+
+```
 
 **Verificar versão de node, nodejs e npm**
 ``` 
