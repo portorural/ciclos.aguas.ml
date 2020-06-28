@@ -2,7 +2,7 @@
 title: Como configuramos o Etherpad da plataforma ÁguasML
 description: Algumas informações relevantes sobre nossa instalação do Etherpad no Pede Água Pad
 published: true
-date: 2020-06-28T06:15:48.062Z
+date: 2020-06-28T07:02:59.782Z
 tags: águas, plataforma, pad, ferramentas, nginx, nodejs, etherpad, dicas
 editor: markdown
 ---
@@ -81,7 +81,7 @@ https://framagit.org/colibris/etherpad-skin-colibris-outilslibres
 
 
 
-# Lançamento teste durante install
+## Lançamento teste durante install
 
 ```text
 cd /opt/etherpad-lite/bin
@@ -90,13 +90,12 @@ cd /opt/etherpad-lite/bin
 
 
 
-
+.
 # Para atualizar o Etherpad
 ```text
 cd /opt/etherpad-lite
 git pull origin
 ```
-
 
 .
 ## Rollback para a versão 1.6.6
@@ -124,7 +123,7 @@ rm src/package-lock.json
 
 
 .
-## Comandos úteis
+# Comandos úteis
 
 **Configurar serviço na inicialização**
 
@@ -133,11 +132,7 @@ sudo nano /etc/systemd/system/etherpad.service
 ```
 
 
-**Instalar dependências node do etherpad**
-
-``` 
-./bin/installDeps.sh
-```
+**Adicionar serviço no boot**
 
 Inspirar no programa a seguir (alterar `/pasta_do_app` para a pasta onde você instalou o etherpad )
 
@@ -166,14 +161,26 @@ Após as alterações reinicie o daemon
 sudo systemctl daemon-reload
 ```
 
+```
+sudo systemctl enable etherpad
+```
+
 **Verificar versão de node, nodejs e npm**
 ``` 
 node -v && nodejs -v && npm -v
 ```
 
 
-**Reiniciar serviço**
+**Instalar dependências node do etherpad**
+
+``` 
+./bin/installDeps.sh
+```
+
+**Iniciar, parar e reiniciar serviço**
 ```text
+sudo systemctl start etherpad
+sudo systemctl stop etherpad
 sudo systemctl restart etherpad
 ```
 
