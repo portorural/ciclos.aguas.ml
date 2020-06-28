@@ -2,7 +2,7 @@
 title: Como configuramos o Etherpad da plataforma ÁguasML
 description: Algumas informações relevantes sobre nossa instalação do Etherpad no Pede Água Pad
 published: true
-date: 2020-06-27T13:00:58.668Z
+date: 2020-06-28T06:06:29.619Z
 tags: águas, plataforma, pad, ferramentas, nginx, nodejs, etherpad, dicas
 editor: markdown
 ---
@@ -158,6 +158,12 @@ Restart=always # use mysql plus a complete settings.json to avoid Service hold-$
 [Install]
 WantedBy=multi-user.target
 
+```
+
+Após as alterações reinicie o daemon
+
+```
+sudo systemctl daemon-reload
 ```
 
 **Verificar versão de node, nodejs e npm**
