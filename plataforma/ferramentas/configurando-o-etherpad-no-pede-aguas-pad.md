@@ -2,7 +2,7 @@
 title: Como configuramos o Etherpad da plataforma ÁguasML
 description: Algumas informações relevantes sobre nossa instalação do Etherpad  v1.6.6 no Pede Água Pad
 published: true
-date: 2020-06-28T07:05:17.629Z
+date: 2020-06-28T07:12:30.916Z
 tags: águas, plataforma, pad, ferramentas, nginx, nodejs, etherpad, dicas
 editor: markdown
 ---
@@ -65,18 +65,21 @@ git clone --branch master https://github.com/muxator/etherpad-lite.git && cd eth
 
 ## Instalação no /opt que deu certo para os franceses e ajudou aqui
 
-http://reseaux85.fr/index.php?title=Etherpad_-_Edition_collaborative
+Link: http://reseaux85.fr/index.php?title=Etherpad_-_Edition_collaborative
+
+**Importante**
+```
+node -v && nodejs -v && npm -v
+```
 
 
-
-
+.
 ## Skin maneira
 
-https://framagit.org/colibris/etherpad-skin-colibris-outilslibres
+Link: https://framagit.org/colibris/etherpad-skin-colibris-outilslibres
 
 
-
-
+.
 ## Lançamento teste durante install
 
 ```text
@@ -84,36 +87,28 @@ cd /opt/etherpad-lite/bin
 ./run.sh --root
 ```
 
-
-
 .
 # Para atualizar o Etherpad
+Pesquise de acordo com a forma que instalou e documentação das alterações realizadas, mas talvez o fluxo abaixo ajude:
+
 ```text
 cd /opt/etherpad-lite
+sudo systemctl stop etherpad
 git pull origin
+./bin/run.sh
 ```
 
 .
 ## Rollback para a versão 1.6.6
+Caso precise fazer rollback par a versão 1.6.6 ou qualquer outro release
+
 ```
 git checkout .
-```
-``` 
 git checkout tags/1.6.6
-```
-``` 
 rm -rf ./src/node_modules
-```
-``` 
 rm -rf ./node_modules
-```
-```
 rm package-lock.json
-```
-```
 rm src/package-lock.json
-```
-``` 
 ./bin/run.sh
 ```
 
