@@ -2,7 +2,7 @@
 title: Configurando Um Servidor Ubuntu
 description: Um resumo prático para configurar um servidor Ubuntu
 published: true
-date: 2020-06-28T22:04:14.653Z
+date: 2020-06-28T22:06:39.260Z
 tags: 
 editor: markdown
 ---
@@ -113,6 +113,7 @@ journalctl --vacuum-size=100M
 Para poder saber detalhes de onde estão outros arquivos, busque suas pastas mais usadas e utilize o comando `ncdu`
 
 ```text
+cd /
 sudo apt install ncdu
 ```
 
