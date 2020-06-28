@@ -2,7 +2,7 @@
 title: Livros abertos ao Público
 description: Livros abertos ao Público com o Bookstack
 published: true
-date: 2020-06-28T06:30:15.069Z
+date: 2020-06-28T06:31:33.230Z
 tags: bookstack, biblioteca
 editor: markdown
 ---
@@ -17,7 +17,7 @@ Sofware: Bookstack (https://github.com/BookStackApp/BookStack/releases)
 Versão: v0.29.3
 
 .
-## Dicas de manutenção
+## Dicas de instalação e manutenção
 A documentação básica do Bokstack, em inglês, é muito boa.
 
 Como instalar: https://www.bookstackapp.com/docs/admin/installation/
@@ -31,3 +31,8 @@ Para quem instalar com o script, não execute o `php artisan` como diz o manual.
 ```
  git pull origin release && composer install
 ```
+
+.
+### Comandos de administração via linha de comando
+Acesse a lista de comandos: https://www.bookstackapp.com/docs/admin/commands/
+
