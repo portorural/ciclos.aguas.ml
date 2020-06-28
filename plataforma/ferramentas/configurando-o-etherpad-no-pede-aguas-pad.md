@@ -1,13 +1,11 @@
 ---
 title: Como configuramos o Etherpad da plataforma ÁguasML
-description: Algumas informações relevantes sobre nossa instalação do Etherpad no Pede Água Pad
+description: Algumas informações relevantes sobre nossa instalação do Etherpad  v1.6.6 no Pede Água Pad
 published: true
-date: 2020-06-28T07:02:59.782Z
+date: 2020-06-28T07:05:17.629Z
 tags: águas, plataforma, pad, ferramentas, nginx, nodejs, etherpad, dicas
 editor: markdown
 ---
-
-# Anotações úteis para o Etherpad
 
 Mantemos 2 versões em uso. Veja nosso Pad antes de prosseguir:
 
@@ -19,11 +17,9 @@ Mantemos 2 versões em uso. Veja nosso Pad antes de prosseguir:
 
 <img src="/uploads/imagens-do-pad/print-pad-pedeagua-org.png" width="550" /> {.center}
 
+# Anotações úteis para o Etherpad
 
-
-## Leia todos os issues possíveis no git principal
-
-Quase tudo já foi discutido, principalmente em inglês. Nele você encontra também mais detalhes sobre a instalação
+Leia todos os issues possíveis no git principal. Quase tudo já foi discutido, principalmente em inglês. Nele você encontra também mais detalhes sobre a instalação
 
 
 https://github.com/ether/etherpad-lite/wiki
