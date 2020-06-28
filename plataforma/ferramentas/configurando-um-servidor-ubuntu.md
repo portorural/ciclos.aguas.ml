@@ -2,7 +2,7 @@
 title: Configurando Um Servidor Ubuntu
 description: Um resumo prático para configurar um servidor Ubuntu
 published: true
-date: 2020-06-28T21:56:58.404Z
+date: 2020-06-28T21:58:31.276Z
 tags: 
 editor: markdown
 ---
