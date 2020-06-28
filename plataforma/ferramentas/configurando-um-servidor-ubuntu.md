@@ -2,14 +2,17 @@
 title: Configurando Um Servidor Ubuntu
 description: Um resumo prático para configurar um servidor Ubuntu
 published: true
-date: 2020-06-16T00:28:02.668Z
+date: 2020-06-28T21:56:58.404Z
 tags: 
+editor: markdown
 ---
 
 Alguns passos comuns em muitas instalações de um servidor Ubuntu, nem sempre igual em todas as máquinas
 
 # Configurando o básico
-Instale ferramentas que serão úteis durante o processo
+Primeiro, acesse sua máquina com os os dados SSH adequados.
+A seguir algumas dicas de instalação de ferramentas que serão úteis durante o processo.
+
 
 ```text
 sudo apt-get install -y vim socat bash-completion apt-transport-https build-essential mc unp zip unzip sudo curl nano wget git build-essential libssl-dev openssh-server
@@ -97,6 +100,21 @@ sudo su - biluga
 
 Realizar os próximos passos com o(a) novo(a) usuário(a) criado(a). Guarde bem a senha que você utilizou.
 
+
+.
+## Limpando o HD
+Você precisa analisar seu disco e limpar seus arquivos para liberar espaço no HD. Começaremos pelo journal e logs
+
+```text
+df -h
+journalctl --disk-usage
+journalctl --vacuum-size=100M
+```
+Para poder saber detalhes de onde estão outros arquivos, busque suas pastas mais usadas e utilize o comando `ncdu`
+
+```text
+sudo apt install ncdu
+```
 
 .
 ## Alterando a hora
