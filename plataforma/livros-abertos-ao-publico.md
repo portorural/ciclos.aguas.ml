@@ -2,7 +2,7 @@
 title: Livros abertos ao Público
 description: Livros abertos ao Público com o Bookstack
 published: true
-date: 2020-06-28T06:31:33.230Z
+date: 2020-06-28T06:33:03.877Z
 tags: bookstack, biblioteca
 editor: markdown
 ---
@@ -16,7 +16,10 @@ URL: https://livros.aguas.ml/
 Sofware: Bookstack (https://github.com/BookStackApp/BookStack/releases)
 Versão: v0.29.3
 
-.
+### Comunidade Github
+Comunidade ativa e issues muito bem registrados
+Link: https://github.com/BookStackApp/BookStack
+
 ## Dicas de instalação e manutenção
 A documentação básica do Bokstack, em inglês, é muito boa.
 
