@@ -2,7 +2,7 @@
 title: Configurando Um Servidor Ubuntu
 description: Um resumo prático para configurar um servidor Ubuntu
 published: true
-date: 2020-06-28T21:58:31.276Z
+date: 2020-06-28T22:04:14.653Z
 tags: 
 editor: markdown
 ---
@@ -103,7 +103,7 @@ Realizar os próximos passos com o(a) novo(a) usuário(a) criado(a). Guarde bem 
 
 .
 ## Limpando o HD
-Você precisa analisar seu disco e limpar seus arquivos para liberar espaço no HD. Começaremos pelo journal e logs
+Você precisa analisar seu disco e limpar seus arquivos para liberar espaço no HD. Começaremos pelo `journal` e `logs`
 
 ```text
 df -h
@@ -115,6 +115,17 @@ Para poder saber detalhes de onde estão outros arquivos, busque suas pastas mai
 ```text
 sudo apt install ncdu
 ```
+
+.
+## Limpando o MongoDB
+Você quer limpar os logs do `mongo` para liberar espaço no HD. Começaremos pelo `journal`
+
+```text
+service mongodb stop
+rm -rf /var/lib/mongodb/journal/*
+service mongodb start
+```
+
 
 .
 ## Alterando a hora
