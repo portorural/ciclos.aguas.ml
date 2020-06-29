@@ -2,14 +2,15 @@
 title: Seja dono dos seus arquivos na nuvem
 description: Cire sua própria nuvem na Internet
 published: true
-date: 2020-06-29T01:41:57.911Z
+date: 2020-06-29T01:42:29.951Z
 tags: pi, nextcloud
 editor: markdown
 ---
 
 # Os nossos dados na internet
-Com este conjunto de tecnologias e otimizações coletivas dos códigos, você não precisa saber programar para configurar o NextCloud em seu RaspberryPi
+Com este conjunto de tecnologias e otimizações coletivas dos códigos, você não precisa saber programar para configurar o NextCloud, em um servidor ou em seu RaspberryPi
 
+.
 ## Conheça o ambiente Dados ÁguasML
 URL: https://dados.aguas.ml/
 Sofware: Nextcloud (https://github.com/nextcloud)
