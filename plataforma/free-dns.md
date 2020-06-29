@@ -2,8 +2,9 @@
 title: Dicas de uso do FreeDNS
 description: Dicas de uso com o FreeDNS
 published: true
-date: 2020-01-03T09:15:13.667Z
+date: 2020-06-29T03:58:21.446Z
 tags: plataforma, dns, free, ferramentas, raspberrypi
+editor: markdown
 ---
 
 # Usando o FreeDNS
