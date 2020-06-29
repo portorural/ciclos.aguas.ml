@@ -1,8 +1,8 @@
 ---
 title: Rádio Digital
-description: Uma nova web rádio
+description: Uma rádio com código livre na internet
 published: true
-date: 2020-06-29T04:04:46.222Z
+date: 2020-06-29T04:07:02.756Z
 tags: plataforma, ferramentas, nginx, vps, rádio, digital, biluga, tudo para sua casa, libretime, ubuntu
 editor: markdown
 ---
