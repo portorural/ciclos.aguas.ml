@@ -1,9 +1,10 @@
 ---
-title: Relatórios em campo com android
-description: Um guia do ODK em campo com android
+title: Relatórios em campo com Android
+description: Um guia do ODK em campo com Android
 published: true
-date: 2020-01-03T09:24:08.097Z
+date: 2020-06-29T04:32:44.220Z
 tags: plataforma, porto rural, ferramentas, digital, android, relatórios, kobo
+editor: markdown
 ---
 
 Guia de uso do Kobo, inspirado no uso com a ONG Caminho das Águas
