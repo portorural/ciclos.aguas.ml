@@ -2,7 +2,7 @@
 title: Escritórios de Projeto da Porto Rural
 description: Relatos de possibilidades na Porto Rural
 published: true
-date: 2020-06-29T04:24:58.284Z
+date: 2020-06-29T04:30:43.039Z
 tags: rural, porto rural, vivências, projetos
 editor: markdown
 ---
@@ -13,6 +13,14 @@ Tudo o que podemos compartilhar sobre as ações na colônia da Fazenda Capoava,
 
 Uma lista de perspectivas e estudos criados a partir de conversas significativas da Porto Rural:
 
+
+.
+> Compromisso Eleições 2020
+{.is-success}
+
+Projeto para as eleições municipais, ropondo que candidaturas para Prefeituras e Câmara de Vereadores assumam 7 compromissos com as Águas
+
+Link: https://brasil.aguas.ml/compromisso-eleicoes2020
 
 .
 > Volta das florestas
