@@ -2,7 +2,7 @@
 title: Seja dono dos seus arquivos na nuvem
 description: Cire sua própria nuvem na Internet
 published: true
-date: 2020-06-29T01:51:10.216Z
+date: 2020-06-29T04:00:12.254Z
 tags: pi, nextcloud
 editor: markdown
 ---
