@@ -2,7 +2,7 @@
 title: Como configuramos o Etherpad da plataforma ÁguasML
 description: Algumas informações relevantes sobre nossa instalação do Etherpad  v1.6.6 no Pede Água Pad
 published: true
-date: 2020-06-29T01:55:25.482Z
+date: 2020-06-29T01:57:33.776Z
 tags: águas, plataforma, pad, ferramentas, nginx, nodejs, etherpad, dicas
 editor: markdown
 ---
@@ -23,7 +23,8 @@ Link: https://pad.aguas.ml
 
 <img src="/uploads/imagens-do-pad/print-pad-pedeagua-org.png" width="550" /> {.center}
 
-# Anotações úteis para o Etherpad
+.
+## Anotações úteis para o Etherpad
 
 Leia todos os issues possíveis no git principal. Quase tudo já foi discutido, principalmente em inglês. Nele você encontra também mais detalhes sobre a instalação
 
@@ -47,10 +48,7 @@ sudo apt-get install -y nodejs
 git clone --branch master https://github.com/ether/etherpad-lite.git && cd etherpad-lite && bin/run.sh
 ```
 
-
-
-
-
+.
 ## Link mais atualizado que funcionou para a gente
 
 https://github.com/muxator/etherpad-lite
@@ -60,15 +58,14 @@ https://github.com/muxator/etherpad-lite.git
 Este git funcionou para o que desejávamos, novo tema e mais funções. Então tudou rodou bem depois que fizemos a instalação dele:
 
 
-
-
+.
 ```text
 curl -sL https://deb.nodesource.com/setup_9.x | sudo -E bash -
 sudo apt-get install -y nodejs
 git clone --branch master https://github.com/muxator/etherpad-lite.git && cd etherpad-lite && bin/run.sh
 ```
 
-
+.
 ## Instalação no /opt que deu certo para os franceses e ajudou aqui
 
 Link: http://reseaux85.fr/index.php?title=Etherpad_-_Edition_collaborative
@@ -92,7 +89,6 @@ Link: https://framagit.org/colibris/etherpad-skin-colibris-outilslibres
 cd /opt/etherpad-lite/bin
 ./run.sh --root
 ```
-
 .
 # Para atualizar o Etherpad
 Pesquise de acordo com a forma que instalou e documentação das alterações realizadas, mas talvez o fluxo abaixo ajude:
@@ -117,7 +113,6 @@ rm package-lock.json
 rm src/package-lock.json
 ./bin/run.sh
 ```
-
 
 .
 # Comandos úteis
