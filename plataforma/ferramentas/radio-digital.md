@@ -1,9 +1,10 @@
 ---
-title: Nova Web Rádio
+title: Rádio Digital
 description: Uma nova web rádio
 published: true
-date: 2020-01-03T09:13:59.709Z
+date: 2020-06-29T04:04:46.222Z
 tags: plataforma, ferramentas, nginx, vps, rádio, digital, biluga, tudo para sua casa, libretime, ubuntu
+editor: markdown
 ---
 
 # Novidades da Rádio Bilu.ga
