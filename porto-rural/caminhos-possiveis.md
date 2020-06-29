@@ -2,7 +2,7 @@
 title: Escritórios de Projeto da Porto Rural
 description: Relatos de possibilidades na Porto Rural
 published: true
-date: 2020-06-29T04:31:06.342Z
+date: 2020-06-29T04:34:03.306Z
 tags: rural, porto rural, vivências, projetos
 editor: markdown
 ---
@@ -52,7 +52,7 @@ Uma lista de referências pertinentes para inspirações no [roteiro de uma Smar
 {.is-success}
 
 
-Inspirado no uso com a ONG Caminho das Águas, veja o [Guia de Uso do Kobo](https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/relatorios-em-campo-com-android)
+Inspirado no uso com a ONG Caminho das Águas, veja o [Guia de Uso do Kobo](https://ciclos.aguas.ml/plataforma/ferramentas/relatorios-android)
 
 
 .
