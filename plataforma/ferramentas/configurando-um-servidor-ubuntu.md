@@ -2,7 +2,7 @@
 title: Configurando Um Servidor Ubuntu
 description: Um resumo prático para configurar um servidor Ubuntu
 published: true
-date: 2020-06-28T22:06:39.260Z
+date: 2020-06-29T10:50:45.922Z
 tags: 
 editor: markdown
 ---
@@ -166,7 +166,10 @@ altere as permissões destas pastas
 sudo chown -R www-data:www-data /var/www/seudominio.org/public_html
 ```
 
-Simples
+Simples. Ou use:
+```text
+sudo chown -R $(whoami).$(whoami) /opt/etherpad
+```
 
 .
 ## Permissões dos arquivos
