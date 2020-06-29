@@ -2,7 +2,7 @@
 title: Configurando Um Servidor Ubuntu
 description: Um resumo prático para configurar um servidor Ubuntu
 published: true
-date: 2020-06-29T10:50:45.922Z
+date: 2020-06-29T10:51:25.800Z
 tags: 
 editor: markdown
 ---
@@ -168,7 +168,7 @@ sudo chown -R www-data:www-data /var/www/seudominio.org/public_html
 
 Simples. Ou use:
 ```text
-sudo chown -R $(whoami).$(whoami) /opt/etherpad
+sudo chown -R $(whoami).$(whoami) /sua/pasta
 ```
 
 .
