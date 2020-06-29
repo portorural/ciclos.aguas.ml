@@ -2,7 +2,7 @@
 title: Seja dono dos seus arquivos na nuvem
 description: Cire sua própria nuvem na Internet
 published: true
-date: 2020-06-29T01:48:34.293Z
+date: 2020-06-29T01:48:57.572Z
 tags: pi, nextcloud
 editor: markdown
 ---
@@ -14,7 +14,7 @@ Você não precisa saber programar para configurar o NextCloud, em um servidor o
 # Conheça o ambiente Dados ÁguasML
 URL: https://dados.aguas.ml/
 Sofware: Nextcloud (https://github.com/nextcloud)
-Versão: Dados ÁguasML 18.0.6
+Versão: Netxcloud 18.0.6
 
 .
 # Dicas para instalar o NextCloudPI
