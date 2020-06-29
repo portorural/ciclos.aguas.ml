@@ -2,8 +2,9 @@
 title: Escritórios de Projeto da Porto Rural
 description: Relatos de possibilidades na Porto Rural
 published: true
-date: 2020-01-03T09:17:00.060Z
+date: 2020-06-29T04:24:58.284Z
 tags: rural, porto rural, vivências, projetos
+editor: markdown
 ---
 
 # Perspectivas e estudos abertos
@@ -14,12 +15,16 @@ Uma lista de perspectivas e estudos criados a partir de conversas significativas
 
 
 .
-## Volta das florestas
+> Volta das florestas
+{.is-success}
+
 
 Mapeando possibilidades para [a Volta das Florestas](https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/mapeando-possibilidades-para-a-volta-das-florestas)
 
 .
-## Valorizando as Economias
+> Valorizando as Economias
+{.is-success}
+
 Programas de incentivo ao desenvolvimento local de potencialidades econômicas
 
 [Bases para Programas de Desenvolvimento Econômico local](https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/valorizando-as-economias)
@@ -27,32 +32,42 @@ Programas de incentivo ao desenvolvimento local de potencialidades econômicas
 [Assis Dengue Experience](https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/assis-experience)
 
 .
-## Inspirando uma Smart Village
+> Inspirando uma Smart Village
+{.is-success}
+
 
 Uma lista de referências pertinentes para inspirações no [roteiro de uma Smart Village](https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/inspiracoes-do-roteiro-da-smart-village)
 
 
 .
-## Relatórios em campo com Android
+> Relatórios em campo com Android
+{.is-success}
+
 
 Inspirado no uso com a ONG Caminho das Águas, veja o [Guia de Uso do Kobo](https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/relatorios-em-campo-com-android)
 
 
 .
-## Saneamento medicinal
+> Saneamento medicinal
+{.is-success}
+
 
 Possibilidades em [Saneamento Medicinal](https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/saneamento-medicinal-na-capoava)
 
 
 .
-## Vila Capoava da Carpintaria
+> Vila Capoava da Carpintaria
+{.is-success}
+
 
 A ideia de uma [Vila da Carpintaria](https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/vila-da-carpintaria) parece simples: madeiras, uma moeda social e muitas crianças.
 
 
 
 .
-## Vila da Mobilidade Rural
+> Vila da Mobilidade Rural
+{.is-success}
+
 
 Uma estrada útil para pessoas, veículos e empresas e que pode ser base de caminhos que visam a conservação dos recursos naturais.
 
