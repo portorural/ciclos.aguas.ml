@@ -2,7 +2,7 @@
 title: Usando o ISPConfig 
 description: Como usamos o ISPConfig em situações específicas
 published: true
-date: 2020-07-14T20:26:42.835Z
+date: 2020-07-14T20:31:53.125Z
 tags: software, ubuntu, gestão, gnu
 editor: markdown
 ---
@@ -26,12 +26,15 @@ Seguem algumas anotações úteis no dia a dia
 ### Para atualizar
 Esperamos que você não use o usuário *root* costumeiramente, então utilize o `sudo`
 
+Digite `yes` para *Reconfigure Services* 
+
 ```
 sudo ispconfig_update.sh
 ```
 
 .
 ### Para reinstalar o php do ISPConfig
+Digite `yes` para *Reconfigure Services* 
 
 ```
 cd /tmp
@@ -41,7 +44,7 @@ cd ispconfig3_install/install
 php -q update.php
 ```
 
-Após isso, verifique todas as suas entradas do php no GUI do ISPConfig, nas `Configurações de Servidor`
+Após isso, verifique todas as suas entradas do php no ambiente visual do ISPConfig, nas `Configurações de Servidor`
 
 
 .
