@@ -2,7 +2,7 @@
 title: ChatOps com o Mattermost
 description: Recriando o chat.aguas.ml em 2020
 published: true
-date: 2020-07-19T01:30:09.149Z
+date: 2020-07-19T02:10:54.109Z
 tags: águas, plataforma, chat, ubuntu, mattermost
 editor: markdown
 ---
@@ -24,4 +24,8 @@ A seguir, uma lista com possibilidades de acesso ao chat
 - Programas para computadores Windows, MAC e Linux: https://mattermost.com/download/
 
 .
-Sobre a instalação
+## Sobre a instalação
+Para instalar escolha um guia em https://docs.mattermost.com/guides/administrator.html#installing-mattermost
+
+.
+### Dicas úteis
