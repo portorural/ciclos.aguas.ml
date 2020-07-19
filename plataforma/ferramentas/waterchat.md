@@ -2,12 +2,12 @@
 title: ChatOps com o Mattermost
 description: Recriando o chat.aguas.ml em 2020
 published: true
-date: 2020-07-19T02:10:54.109Z
+date: 2020-07-19T02:11:27.606Z
 tags: águas, plataforma, chat, ubuntu, mattermost
 editor: markdown
 ---
 
-# Usando o Mattermos em ChatOps
+# ChatOps usando o Mattermost
 O https://chat.aguas.ml conta com com aplicativo para celulares, notebooks e desktops, podendo também ser utilizado via navegadores, muito útil caso queiramos sair dos servidores das grandes empresas de internet.
 
 Com adoção, se a dinâmica e as pessoas curtirem, podemos usar com tranquilidade chats privados, grupos livres, etc. Ainda conta com uma gama interessante de integrações com outros aplicativos e sistemas.
