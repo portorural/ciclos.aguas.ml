@@ -2,8 +2,9 @@
 title: WaterOps e o chat hídrico
 description: Documentação para a manutenção ativa do Chat ÁguasML
 published: true
-date: 2020-01-03T09:11:02.660Z
-tags: águas, plataforma, ferramentas, chat, rocketchat, vps
+date: 2020-07-19T00:57:38.320Z
+tags: águas, plataforma, ferramentas, chat, vps, rocket
+editor: markdown
 ---
 
 # Rotina para atualizar o Chat ÁguasML
