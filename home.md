@@ -2,12 +2,12 @@
 title: Wiki das ÁguasML
 description: Apresentando os Ciclos das ÁguasML
 published: true
-date: 2020-08-16T08:17:34.584Z
+date: 2020-08-16T08:18:45.044Z
 tags: cyorgs, plataforma, portorural, waterops
 editor: markdown
 ---
 
-# Uma plataforma tecnológica para organizações associativas cibernéticas: Escritório da Resiliência Hídrica
+## Uma plataforma tecnológica para organizações associativas cibernéticas: Escritório da Resiliência Hídrica
 
 Os direitos da natureza são indispensáveis para a harmonia nos espaços de atuação e desenvolvimento da vida, onde o uso e a ocupação do solo impactam diretamente na disponibilidade e qualidade de recursos fundamentais como a água e outros bens comuns.
 
@@ -15,7 +15,7 @@ Com a observação de iniciativas transnacionais, governamentais, laboratórios 
 
 São elementos onde a Internet e os paradigmas do serviço total incitam plataformas digitais para novos produtos e serviços, adequadas à realidade dos jogos sociais contemporâneos.
 
-Com bases e referenciais em governança eletrônica para as águas, os resultados das explorações resultam na descoberta das [organizações associativas cibernéticas (cyorgs)](/natureza/cyorgs) e as características fundamentais dos Escritórios da Resiliência Hídrica.
+Com bases e referenciais em governança eletrônica para as águas, os resultados das explorações resultam na descoberta das [organizações associativas cibernéticas (cyorgs)](/natureza/cyorgs) e as características fundamentais dos [Escritórios da Resiliência Hídrica](/natureza/resiliencia-hidrica).
 
 Amparados por espaços antropológicos, de interação e implementações estratégicas de inovação em sustentabilidade, os produtos constroém a plataforma ÁguasML – Bem Comum em Mídia Livre, implementada [digitalmente com código aberto via portais digitais](/plataforma/digitais) de notícias, ambientes de aprendizagem, automatizações e aplicativos para coleta e distribuição de dados.
 
