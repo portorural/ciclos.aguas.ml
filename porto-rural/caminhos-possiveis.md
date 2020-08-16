@@ -2,16 +2,16 @@
 title: Escritórios de Projeto da Porto Rural
 description: Relatos de possibilidades na Porto Rural
 published: true
-date: 2020-08-16T22:43:18.571Z
+date: 2020-08-16T22:57:30.489Z
 tags: rural, porto rural, vivências, projetos
 editor: markdown
 ---
 
 # Perspectivas e estudos abertos
 
-Tudo o que podemos compartilhar sobre as ações na colônia da Fazenda Capoava, Porto Feliz/SP. 
+Tudo o que podemos compartilhar sobre as ações da Porto Rural, com foco entorno da casa 421 da colônia da Fazenda Capoava, Porto Feliz/SP. 
 
-Uma lista de perspectivas e estudos criados a partir de conversas significativas da Porto Rural:
+Assim entendemos como uma lista de perspectivas e estudos criados a partir de conversas significativas da Porto Rural.
 
 
 .
