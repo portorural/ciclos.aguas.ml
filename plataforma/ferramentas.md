@@ -1,9 +1,9 @@
 ---
-title: Ferramentas WaterOps
-description: As ferramentas de nosso ecossistema ecomunicativo
+title: Water Resilient Operations, WaterOps
+description: As tentativas de nosso ecossistema comunicativo
 published: true
-date: 2020-08-16T22:50:50.355Z
-tags: 
+date: 2020-08-16T22:53:56.784Z
+tags: ferramentas, waterops, ecossistema, comunicação
 editor: markdown
 ---
 
