@@ -2,12 +2,12 @@
 title: Wiki das ÁguasML
 description: Apresentando os Ciclos das ÁguasML
 published: true
-date: 2020-08-16T08:18:45.044Z
+date: 2020-08-16T08:20:19.171Z
 tags: cyorgs, plataforma, portorural, waterops
 editor: markdown
 ---
 
-## Uma plataforma tecnológica para organizações associativas cibernéticas: Escritório da Resiliência Hídrica
+## Uma plataforma
 
 Os direitos da natureza são indispensáveis para a harmonia nos espaços de atuação e desenvolvimento da vida, onde o uso e a ocupação do solo impactam diretamente na disponibilidade e qualidade de recursos fundamentais como a água e outros bens comuns.
 
@@ -22,6 +22,8 @@ Amparados por espaços antropológicos, de interação e implementações estrat
 Apontam também alguns dos componentes das plataformas hidrotecnológicas nos [Escritórios da Resiliência Hídrica](/natureza/resiliencia-hidrica), assim como os conteúdos, as experiências e as características de tecnologias resilientes em situações de escassez hídrica e vulnerabilidade de direitos.
 
 Estes escritórios dão suporte a [alternativas de aprendizagem e instrumentos de gestão dos bens comuns hídricos](/porto-rural/caminhos-possiveis), orientando as organizações cibernéticas no uso de Tecnologias de Informação e Comunicação para a sobrevivência compartilhada.
+
+## Muitos serviços
 
 > Para ver nossos serviços digitais mais estáveis, acesse: https://brasil.aguas.ml/servicos
 {.is-success}
