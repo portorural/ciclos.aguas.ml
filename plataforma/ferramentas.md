@@ -2,8 +2,9 @@
 title: Ferramentas WaterOps
 description: As ferramentas de nosso ecossistema ecomunicativo
 published: true
-date: 2019-11-30T19:47:16.317Z
+date: 2020-08-16T22:50:50.355Z
 tags: 
+editor: markdown
 ---
 
 Equipe WaterResilient Operations (WaterOps)
@@ -20,6 +21,12 @@ Descubra como fizemos o [Portal de Notícias](https://ciclos.aguas.ml/plataforma
 .
 ## Raspadores de notícias
 Conheça o ÁguasBot Telegram e outros [raspadores de notícias (clique aqui)](https://ciclos.aguas.ml/plataforma/raspadores "Raspadores ÁguasML")!
+
+
+.
+## Pad Águas 
+
+Produção de textos colaborativos com o [Pad Águas (acesse)](https://pad.aguas.ml")
 
 
 .
