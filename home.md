@@ -2,7 +2,7 @@
 title: Wiki das ÁguasML
 description: Apresentando os Ciclos das ÁguasML
 published: true
-date: 2020-08-16T08:09:38.894Z
+date: 2020-08-16T08:16:25.802Z
 tags: cyorgs, plataforma, portorural, waterops
 editor: markdown
 ---
@@ -23,19 +23,14 @@ Apontam também alguns dos componentes das plataformas hidrotecnológicas nos [E
 
 Estes escritórios dão suporte a [alternativas de aprendizagem e instrumentos de gestão dos bens comuns hídricos](/pt-br/porto-rural/caminhos-possiveis), orientando as organizações cibernéticas no uso de Tecnologias de Informação e Comunicação para a sobrevivência compartilhada.
 
+> Para ver nossos serviços digitais mais estáveis, acesse: https://brasil.aguas.ml/servicos
+{.is-success}
 
-
-As águas e suas plataformas 
-
-Este ambiente colaborativo é parte integrante da plataforma ÁguasML, uma iniciativa em Ciência Aberta
+Este ambiente colaborativo é parte integrante da plataforma ÁguasML, uma [iniciativa em Ciência Aberta](pt-br/objetivos)
 
 Pretendemos apresentar projetos e idéias bem sucedidas, em qualquer lugar do mundo, para inspirar ações de planejamento, design e desenvolvimento de organizações associativas cibernéticas
 
 Podemos atuar, assim, em povoados, cidades e comunidades, os aglomerados que chamaremos tecnicamente, em alguns lugares, de enxames.
 
-> Para ler nossos artigos e textos de opinião acesse: https://brasil.aguas.ml
-{.is-success}
 
-> Para saber um pouco mais sobre esta wiki: https://ciclos.aguas.ml/aguasml
-{.is-success}
 
