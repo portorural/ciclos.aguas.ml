@@ -2,7 +2,7 @@
 title: Escritórios de Projeto da Porto Rural
 description: Relatos de possibilidades na Porto Rural
 published: true
-date: 2020-08-16T21:29:30.477Z
+date: 2020-08-16T22:42:54.394Z
 tags: rural, porto rural, vivências, projetos
 editor: markdown
 ---
@@ -23,7 +23,7 @@ Em tempos de pandemia global o ideal seria que não fosse mais necessário alert
 Projeto para as eleições municipais, propondo que candidaturas para Prefeituras e Câmara de Vereadores assumam 7 compromissos com as águas
 
 Link: https://brasil.aguas.ml/compromisso-2020
-
+Pad: https://pad.aguas.ml/p/ProgramA%C3%A7%C3%A3o_2020
 .
 > Volta das florestas
 {.is-success}
