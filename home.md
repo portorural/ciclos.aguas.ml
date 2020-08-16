@@ -2,7 +2,7 @@
 title: Wiki das ÁguasML
 description: Apresentando os Ciclos das ÁguasML
 published: true
-date: 2020-06-29T02:08:45.766Z
+date: 2020-08-16T07:32:46.104Z
 tags: cyorgs, plataforma, portorural, waterops
 editor: markdown
 ---
@@ -18,4 +18,6 @@ Podemos atuar, assim, em povoados, cidades e comunidades, os aglomerados que cha
 > Para ler nossos artigos e textos de opinião acesse: https://brasil.aguas.ml
 {.is-success}
 
+> Para saber um pouco mais sobre esta wiki: https://ciclos.aguas.ml/aguasml
+{.is-success}
 
