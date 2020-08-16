@@ -2,7 +2,7 @@
 title: Escritórios de Projeto da Porto Rural
 description: Relatos de possibilidades na Porto Rural
 published: true
-date: 2020-08-16T21:27:55.943Z
+date: 2020-08-16T21:28:34.508Z
 tags: rural, porto rural, vivências, projetos
 editor: markdown
 ---
@@ -17,6 +17,8 @@ Uma lista de perspectivas e estudos criados a partir de conversas significativas
 .
 > Compromisso Eleições 2020
 {.is-success}
+
+Em tempos de pandemia global o ideal seria que não fosse mais necessário alertas sobre a qualidade e disponibilidade das águas, dos cuidados com a água na gestão dos recursos hídricos e a importância deste bem comum essencial
 
 Projeto para as eleições municipais, propondo que candidaturas para Prefeituras e Câmara de Vereadores assumam 7 compromissos com as águas
 
