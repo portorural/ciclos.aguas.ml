@@ -2,7 +2,7 @@
 title: Escritórios de Projeto da Porto Rural
 description: Relatos de possibilidades na Porto Rural
 published: true
-date: 2020-08-16T22:42:54.394Z
+date: 2020-08-16T22:43:18.571Z
 tags: rural, porto rural, vivências, projetos
 editor: markdown
 ---
@@ -29,7 +29,7 @@ Pad: https://pad.aguas.ml/p/ProgramA%C3%A7%C3%A3o_2020
 {.is-success}
 
 
-Mapeando possibilidades para [a Volta das Florestas](https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/mapeando-possibilidades-para-a-volta-das-florestas)
+Mapeando possibilidades para a [Volta das Florestas](https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/mapeando-possibilidades-para-a-volta-das-florestas)
 
 .
 > Valorizando as Economias
