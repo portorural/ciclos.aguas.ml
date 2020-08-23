@@ -2,7 +2,7 @@
 title: Escritórios de Projeto da Porto Rural
 description: Relatos de possibilidades na Porto Rural
 published: true
-date: 2020-08-23T22:34:37.011Z
+date: 2020-08-23T22:35:47.397Z
 tags: rural, porto rural, vivências, projetos
 editor: markdown
 ---
@@ -87,7 +87,7 @@ Uma estrada útil para pessoas, veículos e empresas e que pode ser base de cami
 > SOPA 2018
 {.is-info}
 
-Uma estrada útil para pessoas, veículos e empresas e que pode ser base de caminhos que visam a conservação dos recursos naturais.
+O objetivo dessa proposta é apresentar a videodocumentação do 7o. (Re)Encontro da Rede São Paulo de Memória e Museologia Social (REMMUS-SP) que ocorreu em junho de 2018 na Fazenda Capoava, município de Porto Feliz, São Paulo.
 
 [Inscrição feita ao SOPA 2018](https://ciclos.aguas.ml/porto-rural/sopa-chile)
 
