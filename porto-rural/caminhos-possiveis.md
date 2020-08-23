@@ -2,7 +2,7 @@
 title: Escritórios de Projeto da Porto Rural
 description: Relatos de possibilidades na Porto Rural
 published: true
-date: 2020-08-16T22:57:30.489Z
+date: 2020-08-23T22:34:37.011Z
 tags: rural, porto rural, vivências, projetos
 editor: markdown
 ---
@@ -82,5 +82,13 @@ A ideia de uma [Vila da Carpintaria](https://ciclos.aguas.ml/porto-rural/caminho
 Uma estrada útil para pessoas, veículos e empresas e que pode ser base de caminhos que visam a conservação dos recursos naturais.
 
 [Conheça a Vila da Mobilidade Rural](https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/vila-da-mobilidade)
+
+.
+> SOPA 2018
+{.is-info}
+
+Uma estrada útil para pessoas, veículos e empresas e que pode ser base de caminhos que visam a conservação dos recursos naturais.
+
+[Inscrição feita ao SOPA 2018](https://ciclos.aguas.ml/porto-rural/sopa-chile)
 
 .
