@@ -2,7 +2,7 @@
 title: ChatOps com o Mattermost
 description: Recriando o chat.aguas.ml em 2020
 published: true
-date: 2020-09-30T21:24:18.157Z
+date: 2020-09-30T21:26:13.669Z
 tags: águas, plataforma, chat, ubuntu, mattermost
 editor: markdown
 ---
@@ -36,6 +36,8 @@ A cada 3 meses é preciso renovar o SSL, caso receba erros na renovação autom�
 Para tanto, atualize o sistema, instale ou atualize o git, baixe o let´s encrypt mais recente do github, pare o nginx, instale ou atualize o let´s encrypt e rode-o. Tentamos renovar somente, com erros. Até descobrirmos que se você usar o comando de instalação, ele identificará que já existe um certificado e vai renovâ-lo para você.
 
 ```text
+sudo apt-get update
+
 sudo apt-get install git
 
 git clone https://github.com/letsencrypt/letsencrypt
