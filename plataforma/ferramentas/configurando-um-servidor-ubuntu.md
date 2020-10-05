@@ -2,7 +2,7 @@
 title: Configurando Um Servidor Ubuntu
 description: Um resumo prático para configurar um servidor Ubuntu
 published: true
-date: 2020-06-29T10:51:25.800Z
+date: 2020-10-05T02:44:34.598Z
 tags: 
 editor: markdown
 ---
@@ -279,3 +279,15 @@ deb http://security.ubuntu.com/ubuntu xenial-security multiverse
 ## Source Ubuntu 18.04 Bionic
 
 Link: https://gist.github.com/h0bbel/4b28ede18d65c3527b11b12fa36aa8d1
+
+.
+## Instalando SSL no admin
+
+Instalação alternativa, veja se funciona para você
+
+Link Perfect Server: https://www.howtoforge.com/tutorial/perfect-server-ubuntu-18.04-with-apache-php-myqsl-pureftpd-bind-postfix-doveot-and-ispconfig/
+Link securing ISPConfig: https://www.howtoforge.com/tutorial/securing-ispconfig-3-with-a-free-lets-encrypt-ssl-certificate/
+
+Reinicie e verifique no navegador
+
+.
