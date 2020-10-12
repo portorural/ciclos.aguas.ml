@@ -2,7 +2,7 @@
 title: Configurando Um Servidor Ubuntu
 description: Um resumo prático para configurar um servidor Ubuntu
 published: true
-date: 2020-10-05T02:44:34.598Z
+date: 2020-10-12T15:17:55.417Z
 tags: 
 editor: markdown
 ---
@@ -222,6 +222,16 @@ IP.AQUI.XXX.XXX  www.mysite.se mysite.se test.mysite.se
 
 Reinicie seu servidor.
 
+
+.
+## Programas úteis de monitoramento
+
+Instale e utilize programas para algumas atividades de manutenção cotidianas
+
+```text
+htop
+ncdu
+```
 
 .
 # Referências
