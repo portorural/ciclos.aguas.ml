@@ -2,14 +2,14 @@
 title: Anotações do Thinkpad X201i
 description: Algumas dicas fundamentais para funcionamento do Arch Linux no X201i dedicado à plataforma Águas ML
 published: true
-date: 2020-11-11T07:38:24.659Z
+date: 2020-11-11T07:40:54.812Z
 tags: thinkpad, x201i
 editor: markdown
 dateCreated: 2020-11-11T07:29:34.678Z
 ---
 
 # Arch no Thinkpad X201i
-Anotações para o notebook dedicado à plataforma Águas ML
+Anotações para o notebook dedicado à plataforma Águas ML, focado principalmente no controle do fan (ventoinha)
 
 .
 ## Lembretes úteis
@@ -87,7 +87,9 @@ hwmon /sys/devices/virtual/thermal/thermal_zone0/hwmon2/temp2_input
 ```
 
 .
-## Infos do x201i
+## Infos essenciais do x201i e thinkfan
+Página oficial do thinkfan
+https://github.com/vmatare/thinkfan
 
 Página oficial da wiki arch
 https://wiki.archlinux.org/index.php/Lenovo_ThinkPad_X201
