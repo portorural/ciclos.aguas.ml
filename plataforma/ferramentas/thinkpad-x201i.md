@@ -2,7 +2,7 @@
 title: Anotações do Thinkpad X201i
 description: Algumas dicas fundamentais para funcionamento do Arch Linux no X201i dedicado à plataforma Águas ML
 published: true
-date: 2020-11-11T07:32:19.388Z
+date: 2020-11-11T07:38:24.659Z
 tags: thinkpad, x201i
 editor: markdown
 dateCreated: 2020-11-11T07:29:34.678Z
@@ -50,17 +50,13 @@ sed -i 's|DAEMON_ARGS="-q"|DAEMON_ARGS="-q -b 1 -s 15"|' /etc/default/thinkfan
 find /sys/devices -type f -name "temp*_input"
 ```
 
-### Habilite o serviço no boot
-```
-systemctl enable thinkfan
-exit
-```
-
 ### Habilite no boot e depois verifique o serviço
 ```
 systemctl enable thinkfan
 systemctl status thinkfan.service
 ```
+
+Reboota agora e veja o status novamente
 
 .
 ## Thinkfan.conf para o x201/x201i
