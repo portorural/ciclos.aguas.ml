@@ -2,7 +2,7 @@
 title: Anotações do Thinkpad X201i
 description: Algumas dicas fundamentais para funcionamento do Arch Linux no X201i dedicado à plataforma Águas ML
 published: true
-date: 2020-11-11T07:29:34.678Z
+date: 2020-11-11T07:32:19.388Z
 tags: thinkpad, x201i
 editor: markdown
 dateCreated: 2020-11-11T07:29:34.678Z
@@ -21,14 +21,12 @@ sudo thinkfan -n
 ```
 
 
-.
 ### Instalando
 
+```
 sudo pacman -S thinkfan
+```
 
-apt install thinkfan
-
-.
 ### Configure o módulo kernel
 Se preferir, acesse a pasta e edit com vi ou nano
 
