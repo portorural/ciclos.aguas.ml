@@ -2,9 +2,10 @@
 title: Configurando um servidor Ubuntu
 description: Um resumo prático para configurar um servidor Ubuntu
 published: true
-date: 2020-10-25T17:17:11.909Z
+date: 2021-02-03T20:02:39.564Z
 tags: plataforma, ubuntu, servidor
 editor: markdown
+dateCreated: 2019-11-29T17:23:17.187Z
 ---
 
 Alguns passos comuns em muitas instalações de um servidor Ubuntu, nem sempre igual em todas as máquinas
@@ -13,6 +14,13 @@ Alguns passos comuns em muitas instalações de um servidor Ubuntu, nem sempre i
 Primeiro, acesse sua máquina com os os dados SSH adequados.
 A seguir algumas dicas de instalação de ferramentas que serão úteis durante o processo.
 
+## Instalando o Ubuntu 18.04
+
+- [Para instalar rapidamente Ubuntu 18.04 LEMP](https://www.digitalocean.com/community/tutorials/how-to-install-linux-nginx-mysql-php-lemp-stack-ubuntu-18-04)
+
+.
+## Atualizando pacotes básicos necessários
+Indicamos uma série de pacotes essenciais após a criação de sua instância Ubuntu
 
 ```text
 sudo apt-get install -y vim socat bash-completion apt-transport-https build-essential mc unp zip unzip sudo curl nano wget git build-essential libssl-dev openssh-server
@@ -87,6 +95,12 @@ Reinicie e verifique no navegador
 
 # Dicas de ações comuns
 Itens que são úteis durante este trabalho
+
+.
+## Novos sites em um servidor NGinx
+Este modelo de websites pode ser útil se você usou o Nginx para seu servidor 
+
+- [Modelo nginx de websites](https://linuxize.com/post/how-to-install-wordpress-with-nginx-on-ubuntu-18-04/)
 
 .
 ## Criando novo usuário
