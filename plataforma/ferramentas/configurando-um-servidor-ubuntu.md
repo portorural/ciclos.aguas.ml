@@ -1,8 +1,8 @@
 ---
-title: Configurando um servidor Ubuntu
-description: Um resumo prático para configurar um servidor Ubuntu
+title: Configurando um servidor hídrico com Ubuntu
+description: Um resumo prático para configurar um servidor Ubuntu, contendo dicas 
 published: true
-date: 2021-02-03T20:02:39.564Z
+date: 2021-02-03T20:03:09.019Z
 tags: plataforma, ubuntu, servidor
 editor: markdown
 dateCreated: 2019-11-29T17:23:17.187Z
