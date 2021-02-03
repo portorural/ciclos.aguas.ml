@@ -2,7 +2,7 @@
 title: Configurando um servidor hídrico com Ubuntu
 description: Um resumo prático para configurar um servidor Ubuntu, contendo dicas 
 published: true
-date: 2021-02-03T20:03:09.019Z
+date: 2021-02-03T20:08:16.573Z
 tags: plataforma, ubuntu, servidor
 editor: markdown
 dateCreated: 2019-11-29T17:23:17.187Z
@@ -10,13 +10,23 @@ dateCreated: 2019-11-29T17:23:17.187Z
 
 Alguns passos comuns em muitas instalações de um servidor Ubuntu, nem sempre igual em todas as máquinas
 
+## Instalando o Ubuntu 18.04
+Sempre que puder acompanhe as novidades no [site oficial do Ubuntu](https://ubuntu.com/download)
+
+A DigitalOcean tem um guia bacana para instalar rapidamente [ Ubuntu 18.04 LEMP](https://www.digitalocean.com/community/tutorials/how-to-install-linux-nginx-mysql-php-lemp-stack-ubuntu-18-04), caso você ainda tenha dúvidas do que estamos falando.
+
+Aqui sugerimos utilizar a versão 18.04 para sua plataforma. Consulte seu fornecedor para saber detalhes sobre a distro que eles oferecem para você.
+
+Quase sempre o processo de instalação do Ubuntu em si é automatizado, cabe à você personalizar o sistema para seu uso.
+
+Boa sorte!
+
+
 # Configurando o básico
 Primeiro, acesse sua máquina com os os dados SSH adequados.
 A seguir algumas dicas de instalação de ferramentas que serão úteis durante o processo.
 
-## Instalando o Ubuntu 18.04
 
-- [Para instalar rapidamente Ubuntu 18.04 LEMP](https://www.digitalocean.com/community/tutorials/how-to-install-linux-nginx-mysql-php-lemp-stack-ubuntu-18-04)
 
 .
 ## Atualizando pacotes básicos necessários
