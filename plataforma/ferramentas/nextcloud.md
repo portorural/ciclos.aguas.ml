@@ -2,28 +2,30 @@
 title: Seja dono dos seus arquivos na nuvem
 description: Cire sua própria nuvem na Internet
 published: true
-date: 2020-06-29T04:00:12.254Z
+date: 2021-02-22T23:37:07.000Z
 tags: pi, nextcloud
 editor: markdown
+dateCreated: 2019-12-04T04:09:11.938Z
 ---
 
 Com este conjunto de tecnologias e otimizações coletivas dos códigos.
 Você não precisa saber programar para configurar o NextCloud, em um servidor ou em seu RaspberryPi
 
-.
-# Conheça o ambiente Dados ÁguasML
+> **Dados ÁguasML**
+Versão: Nextcloud **20.0.7**
 URL: https://dados.aguas.ml/
 Em uso: https://permacultura.download
-Sofware: Nextcloud (https://github.com/nextcloud)
-Versão: Netxcloud 18.0.6
+{.is-success}
 
 
 .
-# Dicas para instalar o NextCloudPI
+# Dicas para instalação
 
-
+**Sofware**: Nextcloud (https://github.com/nextcloud)
 Tente seguir apenas um tutorial até o final, recomece se for preciso
 
+.
+# Para instalar o NextCloudPI
 Link para download da image para gravar no SD do sistema
 https://ownyourbits.com/downloads/
 
