@@ -1,9 +1,9 @@
 ---
-title: Seja dono dos seus arquivos na nuvem
-description: Cire sua própria nuvem na Internet
+title: Abastecendo os arquivos na nuvem Permacultura.Download
+description: Nossa própria nuvem na Internet
 published: true
-date: 2021-02-22T23:37:07.000Z
-tags: pi, nextcloud
+date: 2021-02-22T23:38:42.521Z
+tags: pi, nextcloud, permacultura
 editor: markdown
 dateCreated: 2019-12-04T04:09:11.938Z
 ---
@@ -14,7 +14,7 @@ Você não precisa saber programar para configurar o NextCloud, em um servidor o
 > **Dados ÁguasML**
 Versão: Nextcloud **20.0.7**
 URL: https://dados.aguas.ml/
-Em uso: https://permacultura.download
+Em uso público: https://permacultura.download
 {.is-success}
 
 
