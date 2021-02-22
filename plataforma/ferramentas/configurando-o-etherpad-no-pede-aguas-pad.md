@@ -2,7 +2,7 @@
 title: Como configuramos o Etherpad da plataforma ÁguasML
 description: Algumas informações relevantes sobre nossa instalação do Etherpad  v1.6.6 no Pede Água Pad
 published: true
-date: 2021-02-22T20:46:19.083Z
+date: 2021-02-22T20:56:28.275Z
 tags: águas, plataforma, pad, ferramentas, nginx, nodejs, etherpad, dicas
 editor: markdown
 dateCreated: 2019-11-29T17:23:12.516Z
@@ -26,7 +26,39 @@ Desativada em **22/02/2021**
 {.is-warning}
 
 .
-## Anotações úteis para o Etherpad
+# Para instalar o Etherpad
+Acompanhe, SEMPRE, o software no github
+https://github.com/ether/etherpad-lite/blob/master/README.md
+
+.
+# Para atualizar o Etherpad
+Pesquise de acordo com a forma que instalou e documentação das alterações realizadas, mas talvez o fluxo abaixo ajude:
+
+```text
+cd /opt/etherpad-lite
+sudo systemctl stop etherpad
+git stash push --include-untracked
+git pull origin
+./bin/run.sh
+```
+```text
+su - etherpad -s /bin/bash
+cd etherpad-lite
+git pull origin
+bin/run.sh
+exit
+```
+
+.
+## Lançamento teste durante install
+
+```text
+cd /opt/etherpad-lite/bin
+./run.sh --root
+```
+
+.
+# Anotações úteis para o Etherpad anterior 1.6.6
 
 Leia todos os issues possíveis no git principal. Quase tudo já foi discutido, principalmente em inglês. Nele você encontra também mais detalhes sobre a instalação
 
@@ -51,7 +83,7 @@ git clone --branch master https://github.com/ether/etherpad-lite.git && cd ether
 ```
 
 .
-## Link mais atualizado que funcionou para a gente
+## Link mais atualizado da 1.6.6 que funcionou para a gente
 
 https://github.com/muxator/etherpad-lite
 
@@ -68,7 +100,7 @@ git clone --branch master https://github.com/muxator/etherpad-lite.git && cd eth
 ```
 
 .
-## Instalação no /opt que deu certo para os franceses e ajudou aqui
+## Dicas de instalação no /opt que deu certo para os franceses e ajudou aqui
 
 Link: http://reseaux85.fr/index.php?title=Etherpad_-_Edition_collaborative
 
@@ -77,31 +109,11 @@ Link: http://reseaux85.fr/index.php?title=Etherpad_-_Edition_collaborative
 node -v && nodejs -v && npm -v
 ```
 
-
 .
 ## Skin maneira
 
 Link: https://framagit.org/colibris/etherpad-skin-colibris-outilslibres
 
-
-.
-## Lançamento teste durante install
-
-```text
-cd /opt/etherpad-lite/bin
-./run.sh --root
-```
-.
-# Para atualizar o Etherpad
-Pesquise de acordo com a forma que instalou e documentação das alterações realizadas, mas talvez o fluxo abaixo ajude:
-
-```text
-cd /opt/etherpad-lite
-sudo systemctl stop etherpad
-git stash push --include-untracked
-git pull origin
-./bin/run.sh
-```
 
 .
 ## Rollback para a versão 1.6.6
@@ -187,4 +199,8 @@ npm install ep_adminpads
 .
 ## Erros conhecidos
 
-Não é possível administrar/ver os pads pelo admin
+Não é possível administrar/ver os pads pelo admin até a v1.8.6
+
+.
+### Problemas apenas com MySQL e utf8mb4
+**Solução:** https://github.com/ether/etherpad-lite/issues/3959
