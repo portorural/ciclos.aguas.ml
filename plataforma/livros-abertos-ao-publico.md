@@ -2,7 +2,7 @@
 title: Livros abertos ao Público
 description: Livros abertos ao Público com o Bookstack
 published: true
-date: 2020-11-16T06:26:40.051Z
+date: 2021-02-22T23:53:26.406Z
 tags: bookstack, biblioteca
 editor: markdown
 dateCreated: 2020-06-28T06:29:05.188Z
@@ -12,10 +12,16 @@ São muitas as formas, tradicionais ou alternativas, de tornar acessível ao pú
 
 Aqui para a necessidade de publicar livros acessíveis na INternet nós utilizamos o Bookstack, software muito útil em documentações
 
+> **Versão ativa**
+Bookstack versão **v0.30.4**
+Link: https://livros.aguas.ml/
+{.is-success}
+
+.
 # Conheça o ambiente Livros ÁguasML
-URL: https://livros.aguas.ml/
-Sofware: Bookstack (https://github.com/BookStackApp/BookStack/releases)
-Versão: ~~v0.29.3~~ v0.30.4
+
+Sofware: Bookstack
+URL: https://github.com/BookStackApp/BookStack/releases
 
 .
 ### Comunidade Github
