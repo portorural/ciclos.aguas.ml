@@ -2,7 +2,7 @@
 title: Usando o RSS Bridge
 description: Uma perspectiva do uso atual do RSS na plataforma Águas ML
 published: true
-date: 2021-02-22T23:08:05.232Z
+date: 2021-02-22T23:09:01.757Z
 tags: rss, bridge, open source
 editor: markdown
 dateCreated: 2021-02-22T23:02:57.027Z
@@ -28,6 +28,8 @@ RSS-Bridge é um projeto PHP capaz de gerar feeds RSS e Atom para sites que não
 
 
 RSS-Bridge não é um leitor de feed ou agregador de feed, mas uma ferramenta para gerar feeds que são consumidos por leitores e agregadores de feed.
+
+Acompanhe, SEMPRE, o software no github: https://github.com/RSS-Bridge/rss-bridge
 
 .
 
