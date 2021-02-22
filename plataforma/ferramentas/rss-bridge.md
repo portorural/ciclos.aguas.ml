@@ -2,7 +2,7 @@
 title: Usando o RSS Bridge
 description: Uma perspectiva do uso atual do RSS na plataforma Águas ML
 published: true
-date: 2021-02-22T23:11:10.338Z
+date: 2021-02-22T23:11:21.057Z
 tags: rss, bridge, open source
 editor: markdown
 dateCreated: 2021-02-22T23:02:57.027Z
@@ -34,7 +34,7 @@ Acompanhe, SEMPRE, o software no github: https://github.com/RSS-Bridge/rss-bridg
 .
 
 ## Tipos de saída
-Após selecionar o software que usaremos como agregador ou replicador, nós utilizamos o RSS Bridge para extrair informações que de algum modo não acontecem facilmente e que agora podemos alimentar nossos bancos de dados.
+Após selecionar o software que usaremos como agregador ou replicador, nós utilizamos o RSS Bridge para extrair informações que de algum modo não acontecem facilmente e que agora podem alimentar nossos bancos de dados.
 
 Podemos obter informações nos seguintes formatos:
 
