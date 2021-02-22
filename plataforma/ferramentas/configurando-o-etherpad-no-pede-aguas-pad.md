@@ -2,7 +2,7 @@
 title: Como configuramos o Etherpad da plataforma ÁguasML
 description: Algumas informações relevantes sobre nossa instalação do Etherpad  v1.6.6 no Pede Água Pad
 published: true
-date: 2021-02-22T20:57:19.495Z
+date: 2021-02-22T21:03:35.095Z
 tags: águas, plataforma, pad, ferramentas, nginx, nodejs, etherpad, dicas
 editor: markdown
 dateCreated: 2019-11-29T17:23:12.516Z
@@ -204,3 +204,7 @@ Não é possível administrar/ver os pads pelo admin até a v1.8.6
 .
 ### Problemas apenas com MySQL e utf8mb4
 **Solução:** https://github.com/ether/etherpad-lite/issues/3959
+
+.
+### Se você executar o MySQL, mude seu banco de dados para usar MyISAM em vez de InnoDB
+**Solução:** https://github.com/ether/etherpad-lite/wiki/Converting-from-InnoDB-to-MyISAM
