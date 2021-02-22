@@ -2,7 +2,7 @@
 title: Usando o RSS Bridge
 description: Uma perspectiva do uso atual do RSS na plataforma Águas ML
 published: true
-date: 2021-02-22T23:09:15.358Z
+date: 2021-02-22T23:09:59.140Z
 tags: rss, bridge, open source
 editor: markdown
 dateCreated: 2021-02-22T23:02:57.027Z
@@ -23,6 +23,8 @@ RSS é um formato de distribuição de informações em tempo real pela internet
 
 .
 ### O que é o RSS Bridge?
+*Bridge*, traduzindo o inglês sgnifica Ponto.
+
 RSS-Bridge é um projeto PHP capaz de gerar feeds RSS e Atom para sites que não os possuem. 
 
 RSS-Bridge não é um leitor de feed ou agregador de feed, mas uma ferramenta para gerar feeds que são consumidos por leitores e agregadores de feed.
