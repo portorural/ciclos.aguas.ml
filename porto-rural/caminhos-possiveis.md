@@ -2,9 +2,10 @@
 title: Escritórios de Projeto da Porto Rural
 description: Relatos de possibilidades na Porto Rural
 published: true
-date: 2020-08-23T22:35:47.397Z
+date: 2021-02-24T02:37:35.008Z
 tags: rural, porto rural, vivências, projetos
 editor: markdown
+dateCreated: 2019-11-29T17:22:58.555Z
 ---
 
 # Perspectivas e estudos abertos
@@ -24,6 +25,14 @@ Projeto para as eleições municipais, propondo que candidaturas para Prefeitura
 
 Link: https://brasil.aguas.ml/compromisso-2020
 Pad: https://pad.aguas.ml/p/ProgramA%C3%A7%C3%A3o_2020
+
+.
+> Roteiro de Outorgas
+{.is-success}
+
+
+Primeiro item, construindo um check-list para outorga [Outorga de poços tubulares em São Paulo](https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/outorgas-poços-tubulares)
+
 .
 > Volta das florestas
 {.is-success}
