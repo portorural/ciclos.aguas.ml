@@ -2,15 +2,16 @@
 title: Water Resilient Operations, WaterOps
 description: As tentativas de nosso ecossistema comunicativo
 published: true
-date: 2020-08-16T22:53:56.784Z
+date: 2021-05-26T02:32:05.965Z
 tags: ferramentas, waterops, ecossistema, comunicação
 editor: markdown
+dateCreated: 2019-11-29T17:22:48.563Z
 ---
 
 Equipe WaterResilient Operations (WaterOps)
 
 
-# Lista de ferramentas
+# Conectando pessoas, tecnologias e a Natureza
 Útil todos os dias na execução de nossas atividades
 
 .
