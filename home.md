@@ -2,12 +2,13 @@
 title: Wiki das ÁguasML
 description: Apresentando os Ciclos das ÁguasML
 published: true
-date: 2020-08-16T08:20:19.171Z
+date: 2021-05-26T01:32:32.539Z
 tags: cyorgs, plataforma, portorural, waterops
 editor: markdown
+dateCreated: 2020-06-29T02:08:45.766Z
 ---
 
-## Uma plataforma
+## Uma plataforma cibernética
 
 Os direitos da natureza são indispensáveis para a harmonia nos espaços de atuação e desenvolvimento da vida, onde o uso e a ocupação do solo impactam diretamente na disponibilidade e qualidade de recursos fundamentais como a água e outros bens comuns.
 
