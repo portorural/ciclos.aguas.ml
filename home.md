@@ -2,7 +2,7 @@
 title: Wiki das ÁguasML
 description: Apresentando os Ciclos das ÁguasML
 published: true
-date: 2021-05-26T01:32:32.539Z
+date: 2021-05-27T03:36:41.828Z
 tags: cyorgs, plataforma, portorural, waterops
 editor: markdown
 dateCreated: 2020-06-29T02:08:45.766Z
@@ -18,18 +18,18 @@ São elementos onde a Internet e os paradigmas do serviço total incitam platafo
 
 Com bases e referenciais em governança eletrônica para as águas, os resultados das explorações resultam na descoberta das [organizações associativas cibernéticas (cyorgs)](/natureza/cyorgs) e as características fundamentais dos [Escritórios da Resiliência Hídrica](/natureza/resiliencia-hidrica).
 
-Amparados por espaços antropológicos, de interação e implementações estratégicas de inovação em sustentabilidade, os produtos constroém a plataforma ÁguasML – Bem Comum em Mídia Livre, implementada [digitalmente com código aberto via portais digitais](/plataforma/digitais) de notícias, ambientes de aprendizagem, automatizações e aplicativos para coleta e distribuição de dados.
+Amparados por espaços antropológicos, de interação e implementações estratégicas de inovação em sustentabilidade, os produtos constroém a plataforma ÁguasML – Bem Comum em Mídia Livre, implementada digitalmente com código aberto via [serviços digitais](/plataforma/digitais) de notícias, ambientes de aprendizagem, automatizações e aplicativos para coleta e distribuição de dados sobre as águas.
 
 Apontam também alguns dos componentes das plataformas hidrotecnológicas nos [Escritórios da Resiliência Hídrica](/natureza/resiliencia-hidrica), assim como os conteúdos, as experiências e as características de tecnologias resilientes em situações de escassez hídrica e vulnerabilidade de direitos.
 
-Estes escritórios dão suporte a [alternativas de aprendizagem e instrumentos de gestão dos bens comuns hídricos](/porto-rural/caminhos-possiveis), orientando as organizações cibernéticas no uso de Tecnologias de Informação e Comunicação para a sobrevivência compartilhada.
+Estes escritórios dão suporte a [alternativas de aprendizagem](/porto-rural/caminhos-possiveis) e instrumentos de gestão dos bens comuns hídricos, orientando as organizações cibernéticas no uso de Tecnologias de Informação e Comunicação para a sobrevivência compartilhada.
 
 ## Muitos serviços
 
 > Para ver nossos serviços digitais mais estáveis, acesse: https://brasil.aguas.ml/servicos
 {.is-success}
 
-Este ambiente colaborativo é parte integrante da plataforma ÁguasML, uma [iniciativa em Ciência Aberta](/objetivos)
+Este ambiente colaborativo é parte integrante da plataforma ÁguasML, uma iniciativa em [Ciência Aberta](/objetivos)
 
 Pretendemos apresentar projetos e idéias bem sucedidas, em qualquer lugar do mundo, para inspirar ações de planejamento, design e desenvolvimento de organizações associativas cibernéticas
 
