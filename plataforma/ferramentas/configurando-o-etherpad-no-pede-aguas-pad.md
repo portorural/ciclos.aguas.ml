@@ -2,7 +2,7 @@
 title: Como configuramos o Etherpad da plataforma ÁguasML
 description: Algumas informações relevantes sobre nossa instalação do Etherpad  v1.6.6 no Pede Água Pad
 published: true
-date: 2021-08-06T03:19:58.505Z
+date: 2021-08-06T03:27:08.370Z
 tags: águas, plataforma, pad, ferramentas, nginx, nodejs, etherpad, dicas
 editor: markdown
 dateCreated: 2019-11-29T17:23:12.516Z
@@ -53,11 +53,31 @@ exit
 ```
 
 .
-## Lançamento teste durante install
+## Atualizando da 1.8.9 para 1.8.14
+Em nosso update da versão 1.8.9 para a 1.8.14 foi necessário a atualização do node e do das dependências
 
-```text
-cd /opt/etherpad-lite/bin
-./run.sh --root
+**Atualizando o Node**
+
+```
+sudo apt-get purge nodejs
+curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash - 
+sudo apt-get install -y nodejs 
+```
+
+**Atualizar NodeJS**
+Se você usa o **npm** veja como atualizar no Ubuntu
+
+```
+sudo npm cache clean -f
+sudo npm install -g n
+sudo n 12.22.4
+```
+
+
+**Atualizando dependências**
+
+```
+src/bin/installDeps.sh
 ```
 
 .
@@ -113,6 +133,14 @@ node -v && nodejs -v && npm -v
 ```
 
 .
+## Lançamento teste durante install
+
+```text
+cd /opt/etherpad-lite/bin
+./run.sh --root
+```
+
+.
 ## Skin maneira
 
 Link: https://framagit.org/colibris/etherpad-skin-colibris-outilslibres
@@ -134,15 +162,6 @@ rm src/package-lock.json
 
 .
 # Comandos úteis
-
-**Atualizar NodeJS**
-Use o **npm** para atualizar o node no Ubuntu
-
-```
-sudo npm cache clean -f
-sudo npm install -g n
-sudo n 12.22.4
-```
 
 **Configurar serviço na inicialização**
 
