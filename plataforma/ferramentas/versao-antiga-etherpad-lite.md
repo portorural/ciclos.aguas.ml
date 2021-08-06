@@ -2,13 +2,15 @@
 title: Anotações de versões anteriores do EtherpadLite
 description: Anotações de updatea até a versão 1.6.6
 published: true
-date: 2021-08-06T03:33:09.773Z
+date: 2021-08-06T03:35:02.587Z
 tags: pad, nodejs, etherpad, ubuntu, etherpad-lite
 editor: markdown
 dateCreated: 2021-08-06T03:33:09.773Z
 ---
 
 # Anotações úteis para o Etherpad anterior 1.6.6
+
+**Versão mais atual**: https://ciclos.aguas.ml/pt-br/plataforma/ferramentas/configurando-o-etherpad-no-pede-aguas-pad
 
 Leia todos os issues possíveis no git principal. Quase tudo já foi discutido, principalmente em inglês. Nele você encontra também mais detalhes sobre a instalação
 
