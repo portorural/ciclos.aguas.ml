@@ -2,7 +2,7 @@
 title: Como configuramos o Etherpad da plataforma ÁguasML
 description: Algumas informações relevantes sobre nossa instalação do Etherpad  v1.6.6 no Pede Água Pad
 published: true
-date: 2021-08-06T02:04:48.343Z
+date: 2021-08-06T03:19:58.505Z
 tags: águas, plataforma, pad, ferramentas, nginx, nodejs, etherpad, dicas
 editor: markdown
 dateCreated: 2019-11-29T17:23:12.516Z
@@ -12,7 +12,7 @@ Veja nosso pad se desejar:
 
 
 > **Versão ativa**
-Etherpad versão **v.1.8.9**
+Etherpad versão **v.1.8.14**
 Link: https://pad.aguas.ml
 {.is-success}
 
@@ -22,7 +22,7 @@ Link: https://pad.aguas.ml
 </p>
 
 
-> **Versão desativada**
+> **Versão relevante desativada**
 Etherpad versão **v.1.6.6** 
 Link: ~~https://pad.pedeagua.org~~
 Desativada em **22/02/2021**
