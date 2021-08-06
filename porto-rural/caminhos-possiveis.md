@@ -2,7 +2,7 @@
 title: Escritórios de Projeto da Porto Rural
 description: Relatos de possibilidades na Porto Rural
 published: true
-date: 2021-02-24T02:37:35.008Z
+date: 2021-08-06T04:23:53.691Z
 tags: rural, porto rural, vivências, projetos
 editor: markdown
 dateCreated: 2019-11-29T17:22:58.555Z
@@ -16,14 +16,14 @@ Assim entendemos como uma lista de perspectivas e estudos criados a partir de co
 
 
 .
-> ProgramAção Águas 2020
+> Agenda das Águas
 {.is-success}
 
 Em tempos de pandemia global o ideal seria que não fosse mais necessário alertas sobre a qualidade e disponibilidade das águas, dos cuidados com a água na gestão dos recursos hídricos e a importância deste bem comum essencial
 
 Projeto para as eleições municipais, propondo que candidaturas para Prefeituras e Câmara de Vereadores assumam 7 compromissos com as águas
 
-Link: https://brasil.aguas.ml/compromisso-2020
+Link: https://agenda.aguas.ml
 Pad: https://pad.aguas.ml/p/ProgramA%C3%A7%C3%A3o_2020
 
 .
