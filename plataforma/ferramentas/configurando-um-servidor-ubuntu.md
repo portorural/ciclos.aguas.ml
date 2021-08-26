@@ -2,7 +2,7 @@
 title: Configurando um servidor hídrico com Ubuntu
 description: Um resumo prático para configurar um servidor Ubuntu, contendo dicas 
 published: true
-date: 2021-02-03T20:08:16.573Z
+date: 2021-08-26T17:45:28.374Z
 tags: plataforma, ubuntu, servidor
 editor: markdown
 dateCreated: 2019-11-29T17:23:17.187Z
@@ -10,12 +10,12 @@ dateCreated: 2019-11-29T17:23:17.187Z
 
 Alguns passos comuns em muitas instalações de um servidor Ubuntu, nem sempre igual em todas as máquinas
 
-## Instalando o Ubuntu 18.04
+## Instalando o Ubuntu para seu trabalho na nuvem
 Sempre que puder acompanhe as novidades no [site oficial do Ubuntu](https://ubuntu.com/download)
 
 A DigitalOcean tem um guia bacana para instalar rapidamente [ Ubuntu 18.04 LEMP](https://www.digitalocean.com/community/tutorials/how-to-install-linux-nginx-mysql-php-lemp-stack-ubuntu-18-04), caso você ainda tenha dúvidas do que estamos falando.
 
-Aqui sugerimos utilizar a versão 18.04 para sua plataforma. Consulte seu fornecedor para saber detalhes sobre a distro que eles oferecem para você.
+Aqui sugerimos utilizar a versão 18.04 para sua plataforma, mas você pode pesquisar por tutoriais da versão 20.04 estável também. Consulte seu fornecedor para saber detalhes sobre a distro que eles oferecem para você.
 
 Quase sempre o processo de instalação do Ubuntu em si é automatizado, cabe à você personalizar o sistema para seu uso.
 
@@ -26,14 +26,20 @@ Boa sorte!
 Primeiro, acesse sua máquina com os os dados SSH adequados.
 A seguir algumas dicas de instalação de ferramentas que serão úteis durante o processo.
 
+Antes de tudo, sincronize e atualize.
 
+```
+sudo apt update
+sudo apt upgrade
+dpkg-reconfigure tzdata
+```
 
 .
 ## Atualizando pacotes básicos necessários
 Indicamos uma série de pacotes essenciais após a criação de sua instância Ubuntu
 
-```text
-sudo apt-get install -y vim socat bash-completion apt-transport-https build-essential mc unp zip unzip sudo curl nano wget git build-essential libssl-dev openssh-server
+```
+sudo apt-get install -y vim socat bash-completion apt-transport-https mc unp zip unzip sudo curl nano wget git build-essential libssl-dev openssh-server
 ```
 
 Acreditamos que foi tudo tranquilo
