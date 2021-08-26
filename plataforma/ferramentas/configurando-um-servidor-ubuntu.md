@@ -2,7 +2,7 @@
 title: Configurando um servidor hídrico com Ubuntu
 description: Um resumo prático para configurar um servidor Ubuntu, contendo dicas 
 published: true
-date: 2021-08-26T17:45:28.374Z
+date: 2021-08-26T17:47:13.769Z
 tags: plataforma, ubuntu, servidor
 editor: markdown
 dateCreated: 2019-11-29T17:23:17.187Z
@@ -43,6 +43,11 @@ sudo apt-get install -y vim socat bash-completion apt-transport-https mc unp zip
 ```
 
 Acreditamos que foi tudo tranquilo
+
+.
+
+# Dicas de ações comuns
+A partir de agora temos anotações de itens que são úteis durante este trabalho. Não acreditamos  que você precisa seguir estas instruções para ter a configuração básica terminada.
 
 .
 ## Atualize os repositórios
@@ -109,10 +114,6 @@ Reinicie e verifique no navegador
 
 .
 
-# Dicas de ações comuns
-Itens que são úteis durante este trabalho
-
-.
 ## Novos sites em um servidor NGinx
 Este modelo de websites pode ser útil se você usou o Nginx para seu servidor 
 
