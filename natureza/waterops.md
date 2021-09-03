@@ -2,7 +2,7 @@
 title: Water Resilient Operations Brazil, WaterOps BR
 description: As tentativas de nosso ecossistema comunicativo
 published: true
-date: 2021-09-03T06:31:47.708Z
+date: 2021-09-03T06:32:20.537Z
 tags: ferramentas, waterops, ecossistema, comunicação
 editor: markdown
 dateCreated: 2019-11-29T17:22:48.563Z
@@ -16,7 +16,7 @@ Equipe WaterResilient Operations (WaterOps)
 
 
 ### 12 Factores
-Os [12 fatores de desenvolvimento](https://ciclos.aguas.ml/pt-br/plataforma/ferramentas/12factors) para aplicações orquestradas com boas práticas
+Os [12 fatores de desenvolvimento](https://ciclos.aguas.ml/plataforma/ferramentas/12factors) para aplicações orquestradas com boas práticas
 
 ### Notícias ÁguasML
 Descubra como fizemos o [Portal de Notícias](https://ciclos.aguas.ml/plataforma/raspadores/noticias-aguasml "Portal de Notícias ÁguasML") da plataforma Águas ML
