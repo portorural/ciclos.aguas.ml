@@ -1,8 +1,8 @@
 ---
-title: Water Resilient Operations, WaterOps
+title: Water Resilient Operations Brazil, WaterOps BR
 description: As tentativas de nosso ecossistema comunicativo
 published: true
-date: 2021-09-03T06:30:50.652Z
+date: 2021-09-03T06:31:09.622Z
 tags: ferramentas, waterops, ecossistema, comunicação
 editor: markdown
 dateCreated: 2019-11-29T17:22:48.563Z
