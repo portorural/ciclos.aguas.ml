@@ -2,7 +2,7 @@
 title: Water Resilient Operations, WaterOps
 description: As tentativas de nosso ecossistema comunicativo
 published: true
-date: 2021-05-26T02:32:05.965Z
+date: 2021-09-03T06:30:50.652Z
 tags: ferramentas, waterops, ecossistema, comunicação
 editor: markdown
 dateCreated: 2019-11-29T17:22:48.563Z
@@ -14,36 +14,28 @@ Equipe WaterResilient Operations (WaterOps)
 # Conectando pessoas, tecnologias e a Natureza
 Útil todos os dias na execução de nossas atividades
 
-.
-## Notícias ÁguasML
+
+### 12 Factores
+Os [12 fatores de desenvolvimento](/pt-br/plataforma/ferramentas/12factors) para aplicações orquestradas com boas práticas
+
+### Notícias ÁguasML
 Descubra como fizemos o [Portal de Notícias](https://ciclos.aguas.ml/plataforma/raspadores/noticias-aguasml "Portal de Notícias ÁguasML") da plataforma Águas ML
 
-
-.
-## Raspadores de notícias
+### Raspadores de notícias
 Conheça o ÁguasBot Telegram e outros [raspadores de notícias (clique aqui)](https://ciclos.aguas.ml/plataforma/raspadores "Raspadores ÁguasML")!
 
-
-.
-## Pad Águas 
+### Pad Águas 
 
 Produção de textos colaborativos com o [Pad Águas (acesse)](https://pad.aguas.ml")
 
-
-.
-## Pede Águas PAD
+### Pede Águas PAD
 
 Produção de textos colaborativos com o [Pede Água PAD (clique aqui)](https://ciclos.aguas.ml/plataforma/ferramentas/pedeaguapad "Águas PAD ÁguasML")
 
-
-.
-## Chat Águas ML
-
+### Chat Águas ML
 Apresentação e rotinas para rodar o [Chat ÁguasML (clique aqui)](https://ciclos.aguas.ml/plataforma/ferramentas/waterchat "Chat Águas ML")
 
-
-.
-## ÁguasBot 1.0
+### ÁguasBot 1.0
 
 Um robô de conversas capaz de aprender com as águas e recursos hídricos, o [ÁguasBot 1.0 (saiba mais)](https://ciclos.aguas.ml/plataforma/ferramentas/aguas-bot-1-0 "Chat Águas ML")
 
