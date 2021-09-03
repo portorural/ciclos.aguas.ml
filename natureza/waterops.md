@@ -2,7 +2,7 @@
 title: Water Resilient Operations Brazil, WaterOps BR
 description: Bird´s Waters Activism  e as tentativas de nosso ecossistema comunicativo
 published: true
-date: 2021-09-03T06:40:04.394Z
+date: 2021-09-03T06:40:52.663Z
 tags: ferramentas, waterops, ecossistema, comunicação
 editor: markdown
 dateCreated: 2019-11-29T17:22:48.563Z
@@ -29,7 +29,7 @@ Apresentação e rotinas para rodar o [Chat ÁguasML (clique aqui)](https://cicl
 ### ÁguasBot 1.0
 Um robô de conversas capaz de aprender com as conversas sobre as águas e recursos hídricos, o [ÁguasBot 1.0 (saiba mais)](https://ciclos.aguas.ml/plataforma/ferramentas/aguas-bot-1-0 "Chat Águas ML")
 
-### 12 Factores
+### 12 Fatores
 Boas práticas com os [12 fatores de desenvolvimento](https://ciclos.aguas.ml/plataforma/ferramentas/12factors) para aplicações orquestradas em Docker ou qualquer outra utilidade contemporânea
 
 .
