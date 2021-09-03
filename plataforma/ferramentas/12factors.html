@@ -1,0 +1,54 @@
+<!--
+title: Anotando reflexões sobre os 12 Fatores
+description: Os 12 fatores de desenvolvimento para aplicações orquestradas com boas práticas
+published: true
+date: 2021-09-03T06:27:40.321Z
+tags: plataforma, 12factors, docker
+editor: ckeditor
+dateCreated: 2021-09-03T06:27:40.321Z
+-->
+
+<p>Clonado do site principal</p>
+<p>Link:<a href="https://12factor.net/pt_br/"> https://12factor.net/pt_br/</a></p>
+<p>&nbsp;</p>
+<h1>Introdução</h1>
+<p>Na era moderna, software é comumente entregue como um serviço: denominados <i>web apps</i>, ou <i>software-como-serviço</i>. A aplicação doze-fatores é uma metodologia para construir softwares-como-serviço que:</p>
+<ul>
+  <li>Usam formatos <strong>declarativos</strong> para automatizar a configuração inicial, minimizar tempo e custo para novos desenvolvedores participarem do projeto;</li>
+  <li>Tem um <strong>contrato claro</strong> com o sistema operacional que o suporta, oferecendo <strong>portabilidade máxima</strong> entre ambientes que o executem;</li>
+  <li>São adequados para <strong>implantação</strong> em modernas <strong>plataformas em nuvem</strong>, evitando a necessidade por servidores e administração do sistema;</li>
+  <li><strong>Minimizam a divergência</strong> entre desenvolvimento e produção, permitindo a <strong>implantação contínua</strong> para máxima agilidade;</li>
+  <li>E podem <strong>escalar</strong> sem significativas mudanças em ferramentas, arquiteturas, ou práticas de desenvolvimento.</li>
+</ul>
+<p>A metodologia doze-fatores pode ser aplicada a aplicações escritas em qualquer linguagem de programação, e que utilizem qualquer combinação de serviços de suportes (banco de dados, filas, cache de memória, etc).</p>
+<h1>Experiência</h1>
+<p>Os contribuidores deste documento estão diretamente envolvidos no desenvolvimento e implantação de centenas de aplicações, e indiretamente testemunhando o desenvolvimento, operação e escalada de centenas de milhares de aplicações através de seu trabalho na plataforma <a href="http://www.heroku.com/">Heroku</a>.</p>
+<p>Este documento sintetiza toda nossa experiência e observação em uma variedade de aplicações que operam como software-como-serviço. Isto é a triangulação de práticas ideais ao desenvolvimento de software, com uma atenção particular a respeito das dinâmicas de crescimento orgânico de uma aplicação ao longo do tempo, a dinâmica de colaboração entre desenvolvedores trabalhando em uma base de código, e evitando os <a href="http://blog.heroku.com/archives/2011/6/28/the_new_heroku_4_erosion_resistance_explicit_contracts/">custos de erosão de software</a></p>
+<p>Nossa motivação é aumentar a consciência de alguns problemas sistêmicos que temos visto no desenvolvimento de aplicações modernas, prover um vocabulário comum para discussão destes, e oferecer um amplo conjunto de soluções conceituais para esses problemas com a terminologia que os acompanha. O formato é inspirado nos livros de Martin Fowler <a href="http://books.google.com/books/about/Patterns_of_enterprise_application_archi.html?id=FyWZt5DdvFkC"><i>Padrões de Arquitetura de Aplicações Enterprise</i></a> e <a href="http://books.google.com/books/about/Refactoring.html?id=1MsETFPD3I0C"><i>Refatorando</i></a>.</p>
+<h1>Quem deve ler este documento?</h1>
+<p>Qualquer desenvolvedor que esta construindo aplicações que rodam como serviço. Engenheiros de Operações que implantam ou administram tais aplicações.</p>
+<h1>Os Doze Fatores</h1>
+<h2><a href="https://12factor.net/pt_br/codebase">I. Base de Código</a></h2>
+<h3>Uma base de código com rastreamento utilizando controle de revisão, muitos deploys</h3>
+<h2><a href="https://12factor.net/pt_br/dependencies">II. Dependências</a></h2>
+<h3>Declare e isole as dependências</h3>
+<h2><a href="https://12factor.net/pt_br/config">III. Configurações</a></h2>
+<h3>Armazene as configurações no ambiente</h3>
+<h2><a href="https://12factor.net/pt_br/backing-services">IV. Serviços de Apoio</a></h2>
+<h3>Trate os serviços de apoio, como recursos ligados</h3>
+<h2><a href="https://12factor.net/pt_br/build-release-run">V. Construa, lance, execute</a></h2>
+<h3>Separe estritamente os builds e execute em estágios</h3>
+<h2><a href="https://12factor.net/pt_br/processes">VI. Processos</a></h2>
+<h3>Execute a aplicação como um ou mais processos que não armazenam estado</h3>
+<h2><a href="https://12factor.net/pt_br/port-binding">VII. Vínculo de porta</a></h2>
+<h3>Exporte serviços por ligação de porta</h3>
+<h2><a href="https://12factor.net/pt_br/concurrency">VIII. Concorrência</a></h2>
+<h3>Dimensione por um modelo de processo</h3>
+<h2><a href="https://12factor.net/pt_br/disposability">IX. Descartabilidade</a></h2>
+<h3>Maximizar a robustez com inicialização e desligamento rápido</h3>
+<h2><a href="https://12factor.net/pt_br/dev-prod-parity">X. Dev/prod semelhantes</a></h2>
+<h3>Mantenha o desenvolvimento, teste, produção o mais semelhante possível</h3>
+<h2><a href="https://12factor.net/pt_br/logs">XI. Logs</a></h2>
+<h3>Trate logs como fluxo de eventos</h3>
+<h2><a href="https://12factor.net/pt_br/admin-processes">XII. Processos de Admin</a></h2>
+<h3>Executar tarefas de administração/gerenciamento como processos pontuais</h3>
