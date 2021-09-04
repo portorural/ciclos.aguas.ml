@@ -2,7 +2,7 @@
 title: Water Resilient Operations Brazil, WaterOps BR
 description: Bird´s Waters Activism  e as tentativas de nosso ecossistema comunicativo
 published: true
-date: 2021-09-03T06:40:52.663Z
+date: 2021-09-04T04:18:04.678Z
 tags: ferramentas, waterops, ecossistema, comunicação
 editor: markdown
 dateCreated: 2019-11-29T17:22:48.563Z
@@ -35,5 +35,5 @@ Boas práticas com os [12 fatores de desenvolvimento](https://ciclos.aguas.ml/pl
 .
 ## Ecossistema virtual
 
-Todas as ferramentas digitais disponíveis à comunidade Águas Brasil Bem Comum em Mídia Livre estão na página de [Ferramentas Digitais](/pt-br/plataforma/digitais)
+Todas as ferramentas digitais disponíveis à comunidade Águas Brasil Bem Comum em Mídia Livre estão na página de [Ferramentas Digitais](https://ciclos.aguas.ml/plataforma/digitais)
 
