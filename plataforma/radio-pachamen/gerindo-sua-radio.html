@@ -1,0 +1,24 @@
+<!--
+title: Gerindo sua estação de rádio
+description: 
+published: true
+date: 2021-10-03T08:20:37.677Z
+tags: rádio, pachamen, azuracast
+editor: ckeditor
+dateCreated: 2021-10-03T08:20:37.677Z
+-->
+
+<p>Gerenciando sua estação na Rádio PACHAMEN e perfil de estação</p>
+<p>Cada "Estação" na Rádio PACHAMEN é uma entidade separada com sua própria mídia, listas de reprodução, DJs, pontos de montagem, relés remotos e estatísticas.&nbsp;</p>
+<p>Nós podemos criar qualquer número de estações na Rádio PACHAMEN, limitado apenas pelo total de recursos disponíveis no servidor; por exemplo, por padrão, apenas as portas das primeiras 50 estações são ativas.&nbsp;</p>
+<p>Cada estação tem uma página principal de "Perfil" que oferece uma visão geral do status de reprodução da estação no momento, o status de seu AutoDJ e do software de transmissão principal, além de uma lista de todos os seus pontos de montagem e relés remotos disponíveis.&nbsp;</p>
+<p>&nbsp;</p>
+<p style="text-align:center;">Imagem da tela de perfil</p>
+<figure class="image"><img src="/plataforma/tela-perfil-radiopachamen.png"></figure>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Se um usuário tiver as permissões apropriadas, ele também verá opções adicionais de gerenciamento na barra lateral esquerda da página Gerenciamento de estação. AutoDJ (back-end) x software de transmissão (front-end)&nbsp;</p>
+<p>Cada estação tem dois componentes essenciais que estão sempre funcionando e que geram um sinal transmitido para a estação: O AutoDJ (também conhecido ocasionalmente como "Broadcasting Backend") é um software (no caso do AzuraCast, Liquidsoap) que compila mídia de várias fontes, diferentes listas de reprodução e entrada ao vivo, e reúne essa entrada em um único fluxo de saída composto, que ele então transcodifica em qualquer número de vários formatos. Os ouvintes não se conectam diretamente ao AutoDJ para ouvir a estação, pois ele é otimizado para produzir a transmissão em vez de servi-la a um público maior.&nbsp;</p>
+<p>O Broadcasting Software (ou "Broadcasting Frontend") é o software leve (Icecast ou SHOUTcast), cuja principal função é pegar o sinal criado pelo AutoDJ e transmiti-lo para potencialmente centenas ou milhares de ouvintes. Este software é otimizado especificamente para suportar muitas conexões de entrada simultâneas com muito pouco impacto no desempenho do sistema.&nbsp;</p>
+<p>Parte da função da Rádio PACHAMEN é garantir que ambos os processos sejam configurados corretamente, iniciados automaticamente e mantidos em execução nos bastidores.&nbsp;</p>
+<p>Ao iniciar sua estação na Rádio PACHAMEN, você não precisa iniciar diretamente qualquer um desses serviços para qualquer estação e (com exceção de algumas alterações específicas, que requerem uma breve reinicialização) não precisa modificá-los diretamente para alterações de configuração na Rádio PACHAMEN para fazer efeito.</p>
