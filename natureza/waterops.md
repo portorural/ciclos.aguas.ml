@@ -2,7 +2,7 @@
 title: Water Resilient Operations Brazil, WaterOps BR
 description: Bird´s Waters Activism  e as tentativas de nosso ecossistema comunicativo
 published: true
-date: 2021-10-03T07:53:56.298Z
+date: 2021-10-03T07:58:07.261Z
 tags: ferramentas, waterops, ecossistema, comunicação
 editor: markdown
 dateCreated: 2019-11-29T17:22:48.563Z
@@ -17,9 +17,9 @@ Water Resilient Operations Brazil (WaterOps BR)
 
 .
 ### Rádio PACHAMEN
-here we are testing a lot of ideas in consortium with (ttps://pacha.men) doing some projects of Porto Rural and something more
+here we are testing a lot of ideas in consortium with (https://pacha.men) doing some projects of Porto Rural and something more
 
-Veja nosso guia de uso de uma estação na [Rádio PACHAMEN]
+Veja nosso guia de uso de uma estação na [Rádio PACHAMEN](https://ciclos.aguas.ml/plataforma/radio-pachamen "R")
 
 .
 
