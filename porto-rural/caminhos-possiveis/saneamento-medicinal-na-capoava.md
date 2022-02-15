@@ -2,8 +2,10 @@
 title: Saneamento Medicinal Na Capoava
 description: Um conjunto de perspectivas para o saneamento medicinal na Capoava
 published: true
-date: 2020-01-11T04:26:29.634Z
+date: 2022-02-15T18:17:45.684Z
 tags: porto rural, saneamento, medicinal
+editor: markdown
+dateCreated: 2019-11-29T17:24:04.468Z
 ---
 
 # Possibilidades em saneamento medicinal
@@ -37,6 +39,5 @@ http://www.vivacidade.com.br/gv_pontos_turisticos_interno.php?id_turistico=899
 http://www.osemanario.com.br/blog/index.php/2012/11/fazenda-capoava-resguarda-construcoes-do-seculo-xix/
 
 
-Link para citar
-http://www.abphe.org.br/revista/index.php/rabphe/article/view/132
-
+Link para procurar
+~~http://www.abphe.org.br/revista/index.php/rabphe/article/view/132~~
