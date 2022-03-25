@@ -2,7 +2,7 @@
 title: Ciclos Águas Bem Comum em Mídia Livre
 description: Apresentando os Ciclos das ÁguasML
 published: true
-date: 2021-08-27T18:04:12.522Z
+date: 2022-03-25T22:23:57.759Z
 tags: águas, cyorgs, plataforma, portorural, waterops, mídia livre
 editor: markdown
 dateCreated: 2020-06-29T02:08:45.766Z
@@ -26,7 +26,7 @@ Estes escritórios dão suporte a [alternativas de aprendizagem](/porto-rural/ca
 
 ## Muitos serviços
 
-> Para ver nossos serviços digitais mais estáveis, acesse: https://brasil.aguas.ml/servicos
+> Para ver nossos serviços digitais mais estáveis, acesse: https://nice.aguas.win
 {.is-success}
 
 Este ambiente colaborativo é parte integrante da plataforma ÁguasML, uma iniciativa em [Ciência Aberta](/objetivos)
