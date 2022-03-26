@@ -2,7 +2,7 @@
 title: Livros abertos ao Público
 description: Livros abertos ao Público com o Bookstack
 published: true
-date: 2021-02-23T00:47:37.119Z
+date: 2022-03-26T14:03:14.230Z
 tags: bookstack, biblioteca
 editor: markdown
 dateCreated: 2020-06-28T06:29:05.188Z
