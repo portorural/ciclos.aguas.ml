@@ -2,21 +2,13 @@
 title: Ciclos Águas Bem Comum em Mídia Livre
 description: Apresentando os Ciclos das ÁguasML
 published: true
-date: 2022-03-26T00:46:23.824Z
+date: 2022-03-26T14:39:32.531Z
 tags: águas, cyorgs, plataforma, portorural, waterops, mídia livre
 editor: markdown
 dateCreated: 2020-06-29T02:08:45.766Z
 ---
 
-# Welcome to Waters Free Media!
-
-We can work together, develop our abilities to live in harmony with the Waters and Nature.
-
-We collaborate with the development of free technologies and digital security in organizations, movements and social groups in Brazil Latin America, in order to generate processes of sovereignty and technological autonomy.
-
-
-.
-## Seja feliz nas Águas Mídia Livre
+# Seja feliz nas Águas Mídia Livre
 
 Nós podemos trabalhar em conjunto, desenvolver nossas capacidades para viver em harmonia com as Águas e a Natureza.
 
@@ -35,6 +27,15 @@ Este ambiente colaborativo é parte integrante da plataforma ÁguasML, uma inici
 Pretendemos apresentar projetos e idéias bem sucedidas, em qualquer lugar do mundo, para inspirar ações de planejamento, design e desenvolvimento de organizações associativas cibernéticas
 
 Podemos atuar, assim, em povoados, cidades e comunidades, os aglomerados que chamaremos tecnicamente, em alguns lugares, de enxames.
+
+# Welcome to Waters Free Media!
+
+We can work together, develop our abilities to live in harmony with the Waters and Nature.
+
+We collaborate with the development of free technologies and digital security in organizations, movements and social groups in Brazil Latin America, in order to generate processes of sovereignty and technological autonomy.
+
+[English version](
+.
 
 
 
