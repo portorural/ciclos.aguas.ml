@@ -2,7 +2,7 @@
 title: Ciclos Águas Bem Comum em Mídia Livre
 description: Apresentando os Ciclos das ÁguasML
 published: true
-date: 2022-03-26T14:51:48.337Z
+date: 2022-03-26T14:55:57.593Z
 tags: águas, cyorgs, plataforma, portorural, waterops, mídia livre
 editor: markdown
 dateCreated: 2020-06-29T02:08:45.766Z
@@ -17,7 +17,7 @@ Colaboramos com o desenvolvimento de tecnologias livres e segurança digital em 
 Esta plataforma faz conexões e distribui conteúdo gratuito para concretizar essa visão. Aqui você vai encontrar uma biblioteca de recursos vivos, pessoas, seres e organizações que trabalham por um mundo hídrico saudável.
 
 .
-## Muitos serviços
+## Muitos serviços digitais
 
 > Para ver nossos serviços digitais mais estáveis, visite [nossas ferramentas digitais](/plataforma/digitais)
 {.is-success}
