@@ -1,8 +1,8 @@
 ---
 title: About Ciclos ÁguasML
-description: WaterOps BR working for harmony with waters and Nature
+description: WaterOps BR working for harmony with waters for Nature
 published: true
-date: 2022-03-26T14:39:55.489Z
+date: 2022-03-26T14:45:49.224Z
 tags: water, plataform
 editor: markdown
 dateCreated: 2022-03-26T14:39:55.489Z
