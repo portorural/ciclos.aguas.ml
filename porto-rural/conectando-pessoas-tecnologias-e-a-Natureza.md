@@ -2,7 +2,7 @@
 title: Conectando pessoas, tecnologias e a Natureza
 description: 
 published: true
-date: 2022-07-01T18:09:26.079Z
+date: 2022-07-01T18:09:58.191Z
 tags: plataforma, ferramentas, ecossistema, código aberto
 editor: markdown
 dateCreated: 2022-03-25T23:49:54.883Z
@@ -27,7 +27,7 @@ Veja nosso guia de uso de uma estação na [Rádio PACHAMEN](https://ciclos.agua
 #### Maya em WaterOps
 Uma plataforma que oferece provisionamento autogerenciado para Organizações da Sociedade Civil (OSC). Os usuários poderão configurar facilmente uma instância, para que possam manter o controle sobre os dados inseridos nesses aplicativos.
 
-Usando [Stackspin em nosso beta](/pt-br/plataforma/ferramentas/stackspin) porque ele é:
+Usando [Stackspin em nosso beta](/plataforma/ferramentas/stackspin) porque ele é:
 
     Código aberto
     Atualização automática
