@@ -2,7 +2,7 @@
 title: Configurando um servidor hídrico com Ubuntu
 description: Um resumo prático para configurar um servidor Ubuntu, contendo dicas 
 published: true
-date: 2022-07-20T01:50:57.569Z
+date: 2022-07-20T16:17:06.079Z
 tags: plataforma, ubuntu, servidor
 editor: markdown
 dateCreated: 2019-11-29T17:23:17.187Z
@@ -39,8 +39,10 @@ dpkg-reconfigure tzdata
 Indicamos uma série de pacotes essenciais após a criação de sua instância Ubuntu
 
 ```
-sudo apt-get install -y software-properties-common vim socat bash-completion apt-transport-https mc unp zip unzip sudo curl nano wget git build-essential libssl-dev openssh-server
+sudo apt-get install -y software-properties-common vim socat bash-completion apt-transport-https mc unp zip unzip sudo curl nano wget git build-essential libssl-dev openssh-server gnupg2 ca-certificates lsb-release ubuntu-keyring
 ```
+
+
 
 Acreditamos que foi tudo tranquilo
 
