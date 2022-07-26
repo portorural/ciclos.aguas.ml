@@ -2,7 +2,7 @@
 title: Configurando um servidor hídrico com Ubuntu
 description: Um resumo prático para configurar um servidor Ubuntu, contendo dicas 
 published: true
-date: 2022-07-21T21:43:35.815Z
+date: 2022-07-26T21:47:55.432Z
 tags: plataforma, ubuntu, servidor
 editor: markdown
 dateCreated: 2019-11-29T17:23:17.187Z
@@ -176,7 +176,9 @@ Super simples.
 
 .
 ## Instalar PHP
-Se for preciso, você saberá
+Se for preciso, você saberá.
+
+Este é o padrão do Ubuntu
 
 ```text
 sudo apt-get install php
@@ -184,6 +186,33 @@ sudo apt-get install php-{bcmath,bz2,intl,gd,mbstring,mysql,zip,fpm}
 ```
 
 Instalará a versão mais estável, confirme os repositórios.
+
+E aqui você encontra a melhor forma, capaz de gerenciar várias versões rodando ao mesmo tempo.
+Instale o repositório
+
+```text
+sudo apt install software-properties-common
+sudo add-apt-repository ppa:ondrej/php
+
+```
+
+```text
+## Apache
+
+PHP 7.4
+sudo apt install php7.4
+
+PHP 8.0
+sudo apt install php8.0
+
+## Nginx
+
+PHP 7.4
+sudo apt install php7.4-fpm
+
+PHP 8.0
+sudo apt install php8.0-fpm
+```
 
 .
 ## Permissões de uso
