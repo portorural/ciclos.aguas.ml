@@ -2,7 +2,7 @@
 title: WaterOps BR - Water Resilient Operations Brazil
 description: Bird´s Waters Activism  e as tentativas de nosso ecossistema comunicativo
 published: true
-date: 2022-08-01T23:31:15.307Z
+date: 2022-08-01T23:33:02.434Z
 tags: ferramentas, waterops, ecossistema, comunicação, staff
 editor: markdown
 dateCreated: 2019-11-29T17:22:48.563Z
@@ -13,9 +13,9 @@ dateCreated: 2019-11-29T17:22:48.563Z
 
 
 ## Tabs {.tabset}
-### Cooperaç WaterOps
+### Cooperação WaterOps
 
-Se você quiser se inscrever para uma Conta WaterOps, basta abrir nosso [formulário de inscrição](https://nice.aguas.win/signup) e nos fornecer:
+Se você quiser cooperar e se inscrever para uma **conta WaterOps**, basta abrir nosso [formulário de inscrição](https://nice.aguas.win/signup) e nos fornecer:
 
 -   Seu nome de contato
 -   Seu endereço de e-mail (para que possamos entrar em contato com você com detalhes de login)
