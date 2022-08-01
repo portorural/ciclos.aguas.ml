@@ -2,14 +2,14 @@
 title: Conectando pessoas, tecnologias e a Natureza
 description: 
 published: true
-date: 2022-07-01T18:09:58.191Z
+date: 2022-08-01T17:52:44.006Z
 tags: plataforma, ferramentas, ecossistema, código aberto
 editor: markdown
 dateCreated: 2022-03-25T23:49:54.883Z
 ---
 
 # Conectando pessoas, tecnologias e a Natureza
-Útil todos os dias na execução de nossas atividades
+**OBJETIVO:** Stack útil todos os dias na execução de nossas atividades
 
 
 .
