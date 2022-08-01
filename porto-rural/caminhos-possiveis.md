@@ -2,7 +2,7 @@
 title: Projetos do Escritório Permacultural da Resiliência na Porto Rural
 description: Relatos de possibilidades na Porto Rural
 published: true
-date: 2022-08-01T18:21:26.498Z
+date: 2022-08-01T23:22:00.307Z
 tags: rural, porto rural, vivências, projetos
 editor: markdown
 dateCreated: 2019-11-29T17:22:58.555Z
@@ -22,6 +22,11 @@ Assim entendemos como uma lista de perspectivas e estudos criados a partir de co
 <br>Link: https://agenda.aguas.ml
 Pad: https://pad.aguas.ml/p/ProgramA%C3%A7%C3%A3o_2020
 {.is-success}
+
+> **Permacultura.Download**
+Desde 2003 aninhando e distribuindo sistemas mitóticos de Abundância em [www.Permacultura.Download](https://permacultura.download)
+{.is-success}
+
 
 > **Roteiro de Outorgas**
 Início dos trabalhos, construindo um check-list para outorga [Outorga de poços tubulares em São Paulo](https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/outorgas-poços-tubulares) com base na palestras da Msc Juliene Rodrigues.
