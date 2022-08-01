@@ -2,7 +2,7 @@
 title: Projetos do Escritório Permacultural da Resiliência na Porto Rural
 description: Relatos de possibilidades na Porto Rural
 published: true
-date: 2022-08-01T18:12:58.360Z
+date: 2022-08-01T18:19:32.063Z
 tags: rural, porto rural, vivências, projetos
 editor: markdown
 dateCreated: 2019-11-29T17:22:58.555Z
@@ -50,7 +50,7 @@ Possibilidades em [Saneamento Medicinal](https://ciclos.aguas.ml/porto-rural/cam
 {.is-success}
 
 > **Albergues Brasil**
-iniciativa de um grupo focado em aproximar pessoas instituições que trabalham com ações diretas em   [Assistência Social e Direitos Humanos](https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/albergues-brasil)
+Iniciativa focada em aproximar pessoas e instituições que trabalham com ações diretas em   [Assistência Social e Direitos Humanos](https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/albergues-brasil)
 {.is-success}
 
 > **Vila Capoava da Carpintaria**
