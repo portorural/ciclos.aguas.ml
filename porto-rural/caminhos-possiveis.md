@@ -1,8 +1,8 @@
 ---
-title: Escritórios de Projeto da Porto Rural
+title: Projetos do Escritório Permacultural da Resiliência na Porto Rural
 description: Relatos de possibilidades na Porto Rural
 published: true
-date: 2021-08-06T04:23:53.691Z
+date: 2022-08-01T17:38:47.335Z
 tags: rural, porto rural, vivências, projetos
 editor: markdown
 dateCreated: 2019-11-29T17:22:58.555Z
