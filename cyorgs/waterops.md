@@ -2,14 +2,13 @@
 title: WaterOps BR - Water Resilient Operations Brazil
 description: Bird´s Waters Activism  e as tentativas de nosso ecossistema comunicativo
 published: true
-date: 2022-08-01T23:34:08.106Z
+date: 2022-08-01T23:34:52.598Z
 tags: ferramentas, waterops, ecossistema, comunicação, staff
 editor: markdown
 dateCreated: 2019-11-29T17:22:48.563Z
 ---
 
 ## Faça parte da Water Resilient Operations
-
 
 
 ## Tabs {.tabset}
