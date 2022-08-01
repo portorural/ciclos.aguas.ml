@@ -2,7 +2,7 @@
 title: Projetos do Escritório Permacultural da Resiliência na Porto Rural
 description: Relatos de possibilidades na Porto Rural
 published: true
-date: 2022-08-01T18:19:32.063Z
+date: 2022-08-01T18:21:26.498Z
 tags: rural, porto rural, vivências, projetos
 editor: markdown
 dateCreated: 2019-11-29T17:22:58.555Z
@@ -33,6 +33,7 @@ Mapeando possibilidades para a [Volta das Florestas](https://ciclos.aguas.ml/por
 
 > **Valorizando as Economias**
 Programas de incentivo ao desenvolvimento local de potencialidades econômicas
+[Banco Social da Comunidade de Aprendizagem das Águas - Banco CAPIN](https://bancocapin.ga)
 [Bases para Programas de Desenvolvimento Econômico local](https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/valorizando-as-economias)
 [Assis Dengue Experience](https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/assis-experience)
 {.is-success}
