@@ -2,7 +2,7 @@
 title: Ciclos Águas Bem Comum em Mídia Livre
 description: Apresentando os Ciclos das ÁguasML
 published: true
-date: 2022-08-01T17:50:47.003Z
+date: 2022-08-01T17:56:57.220Z
 tags: águas, cyorgs, plataforma, portorural, waterops, mídia livre
 editor: markdown
 dateCreated: 2020-06-29T02:08:45.766Z
@@ -45,8 +45,9 @@ We can work together, develop our abilities to live in harmony with the Waters a
 
 We collaborate with the development of free technologies and digital security in organizations, movements and social groups in Brazil Latin America, in order to generate processes of sovereignty and technological autonomy.
 
-[English version](https://ciclos.aguas.ml/en/about)
-.
+> We try to maintain something useful, [in english. Click here.](https://ciclos.aguas.ml/en/about)
+{.is-success}
+
 
 
 
