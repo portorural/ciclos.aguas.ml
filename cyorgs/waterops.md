@@ -2,7 +2,7 @@
 title: WaterOps BR - Water Resilient Operations Brazil
 description: Bird´s Waters Activism  e as tentativas de nosso ecossistema comunicativo
 published: true
-date: 2022-08-01T23:33:02.434Z
+date: 2022-08-01T23:34:08.106Z
 tags: ferramentas, waterops, ecossistema, comunicação, staff
 editor: markdown
 dateCreated: 2019-11-29T17:22:48.563Z
@@ -23,7 +23,7 @@ Se você quiser cooperar e se inscrever para uma **conta WaterOps**, basta abrir
 -   Como você ouviu falar sobre nós e o que lhe interessa na ÁguasML
 -   Sua chave SSH pública, se quiser se conectar à algum ambiente mais seguro
 
-### Servidores e serviços disponíveis
+### Objetivos dos serviços disponíveis
 
 Esta plataforma fornece suporte a [alternativas de aprendizagem](https://wiki.aguas.ml/index.php?title=Alternativas_de_aprendizagem&action=edit&redlink=1 "Alternativas de aprendizagem (página inexistente)") e [instrumentos de gestão](https://wiki.aguas.ml/index.php?title=Instrumentos_de_gest%C3%A3o&action=edit&redlink=1 "Instrumentos de gestão (página inexistente)") para fortalecimentos de defesa dos Direitos de todo e qualquer [bem comum](https://wiki.aguas.ml/index.php?title=Bem_Comum&action=edit&redlink=1 "Bem Comum (página inexistente)"), orientando as [organizações cibernéticas](https://wiki.aguas.ml/index.php/CyOrgs "CyOrgs") no uso de [Tecnologias da Informação e Comunicação](https://wiki.aguas.ml/index.php/Tecnologias_da_Informa%C3%A7%C3%A3o_e_Comunica%C3%A7%C3%A3o "Tecnologias da Informação e Comunicação") para a sobrevivência compartilhada entre seres humanos e a [Natureza](https://wiki.aguas.ml/index.php?title=Natureza&action=edit&redlink=1 "Natureza (página inexistente)").
 
