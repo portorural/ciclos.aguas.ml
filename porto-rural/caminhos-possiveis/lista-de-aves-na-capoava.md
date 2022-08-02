@@ -2,16 +2,16 @@
 title: Lista de aves da Fazenda Capoava
 description: Aves, pássaros e passarinhos observados na Fazenda Capoava
 published: true
-date: 2022-08-02T23:09:22.840Z
+date: 2022-08-02T23:11:04.221Z
 tags: aves, lista, birdwatching, capoava, pássaros
 editor: markdown
 dateCreated: 2022-08-02T23:09:22.840Z
 ---
 
 # Iniciando
-Aves, pássaros e passarinhos observados na Fazenda Capoava
+Aves, pássaros e passarinhos observados na Fazenda Capoava. A identificicação dos seres pode incluir links, caso sejam encontrados na Internet.
 
-Primeiros registros desta lista, uma dúvida sobre colibris
+Primeiros registros desta lista, temos uma dúvida sobre colibris
 
 .
 #### Anu-branco
