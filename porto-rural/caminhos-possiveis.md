@@ -2,7 +2,7 @@
 title: Projetos do Escritório Permacultural da Resiliência na Porto Rural
 description: Relatos de possibilidades na Porto Rural
 published: true
-date: 2022-08-02T23:19:30.401Z
+date: 2022-08-02T23:27:26.129Z
 tags: rural, porto rural, vivências, projetos
 editor: markdown
 dateCreated: 2019-11-29T17:22:58.555Z
@@ -14,6 +14,18 @@ Tudo o que podemos compartilhar sobre as ações da Porto Rural, com foco entorn
 
 Assim entendemos como uma lista de perspectivas e estudos criados a partir de conversas significativas da Porto Rural.
 
+### Legenda das cores
+> **Ativo**
+{.is-success}
+
+> ***Stand by***
+{.is-warning}
+
+> **Registro permanente**
+{.is-info}
+
+.
+## Lista de projetos e estudos abertos
 
 .
 > **Agenda das Águas**
@@ -46,8 +58,12 @@ Uma lista de referências pertinentes para inspirações no [roteiro de uma Smar
 Início da listagem de identificação de [aves, pássaros e passarinhos observados na Fazenda Capoava](/porto-rural/caminhos-possiveis/lista-de-aves-na-capoava).
 {.is-success}
 
-> **Roteiro de Outorgas**
-Início dos trabalhos, construindo um check-list para outorga [Outorga de poços tubulares em São Paulo](https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/outorgas-poços-tubulares) com base na palestras da Msc Juliene Rodrigues.
+> **Residência sociobiodiversaPerformances artísticas**
+Atuamos na recepção de performances artísticas, para que mantenham a espontaneidade, com algum suporte. Veja mais sobre a [Residência Sociobiodiversa na Porto Rural](https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/residencia-sociobiodiversa).
+{.is-success}
+
+> **Performances e manifestações artísticas**
+Recepcionamos pessoas que queiram vibrar suas performances e habilidades artísticas híbridas, incentivando diversas linguagens de [performances e manifestações artísticas na Porto Rural](https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/artes).
 {.is-success}
 
 > **Relatórios em campo com Android**
@@ -61,6 +77,10 @@ Possibilidades em [Saneamento Medicinal](https://ciclos.aguas.ml/porto-rural/cam
 > **Albergues Brasil**
 Iniciativa focada em aproximar pessoas e instituições que trabalham com ações diretas em   [Assistência Social e Direitos Humanos](https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/albergues-brasil)
 {.is-success}
+
+> **Roteiro de Outorgas**
+Início dos trabalhos, construindo um check-list para outorga [Outorga de poços tubulares em São Paulo](https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/outorgas-poços-tubulares) com base na palestras da Msc Juliene Rodrigues.
+{.is-warning}
 
 > **Vila Capoava da Carpintaria**
 A ideia de uma [Vila da Carpintaria](https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/vila-da-carpintaria) parece simples: madeiras, uma moeda social e muitas crianças.
