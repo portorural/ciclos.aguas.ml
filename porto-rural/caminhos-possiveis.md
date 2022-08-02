@@ -2,7 +2,7 @@
 title: Projetos do Escritório Permacultural da Resiliência na Porto Rural
 description: Relatos de possibilidades na Porto Rural
 published: true
-date: 2022-08-01T23:22:00.307Z
+date: 2022-08-02T23:19:30.401Z
 tags: rural, porto rural, vivências, projetos
 editor: markdown
 dateCreated: 2019-11-29T17:22:58.555Z
@@ -27,11 +27,6 @@ Pad: https://pad.aguas.ml/p/ProgramA%C3%A7%C3%A3o_2020
 Desde 2003 aninhando e distribuindo sistemas mitóticos de Abundância em [www.Permacultura.Download](https://permacultura.download)
 {.is-success}
 
-
-> **Roteiro de Outorgas**
-Início dos trabalhos, construindo um check-list para outorga [Outorga de poços tubulares em São Paulo](https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/outorgas-poços-tubulares) com base na palestras da Msc Juliene Rodrigues.
-{.is-success}
-
 > **Volta das florestas**
 Mapeando possibilidades para a [Volta das Florestas](https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/mapeando-possibilidades-para-a-volta-das-florestas)
 {.is-success}
@@ -45,6 +40,14 @@ Programas de incentivo ao desenvolvimento local de potencialidades econômicas
 
 > **Inspirando uma Smart Village**
 Uma lista de referências pertinentes para inspirações no [roteiro de uma Smart Village](https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/inspiracoes-do-roteiro-da-smart-village)
+{.is-success}
+
+> **Birdwatching Capoava**
+Início da listagem de identificação de [aves, pássaros e passarinhos observados na Fazenda Capoava](/porto-rural/caminhos-possiveis/lista-de-aves-na-capoava).
+{.is-success}
+
+> **Roteiro de Outorgas**
+Início dos trabalhos, construindo um check-list para outorga [Outorga de poços tubulares em São Paulo](https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/outorgas-poços-tubulares) com base na palestras da Msc Juliene Rodrigues.
 {.is-success}
 
 > **Relatórios em campo com Android**
