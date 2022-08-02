@@ -2,7 +2,7 @@
 title: Projetos do Escritório Permacultural da Resiliência na Porto Rural
 description: Relatos de possibilidades na Porto Rural
 published: true
-date: 2022-08-02T23:27:26.129Z
+date: 2022-08-02T23:34:17.217Z
 tags: rural, porto rural, vivências, projetos
 editor: markdown
 dateCreated: 2019-11-29T17:22:58.555Z
@@ -15,13 +15,13 @@ Tudo o que podemos compartilhar sobre as ações da Porto Rural, com foco entorn
 Assim entendemos como uma lista de perspectivas e estudos criados a partir de conversas significativas da Porto Rural.
 
 ### Legenda das cores
-> **Ativo**
+> Projeto **ativo**
 {.is-success}
 
-> ***Stand by***
+> Projeto em ***Stand by***
 {.is-warning}
 
-> **Registro permanente**
+> Algum **registro** permanente do projeto
 {.is-info}
 
 .
