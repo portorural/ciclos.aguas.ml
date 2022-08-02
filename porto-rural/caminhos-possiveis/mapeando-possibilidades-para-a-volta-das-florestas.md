@@ -2,7 +2,7 @@
 title: Mapeando Possibilidades Para A Volta Das Florestas
 description: Anotações do estudo de Mapas de Possibilidades Para A Volta Das Florestas
 published: true
-date: 2022-08-02T23:01:27.059Z
+date: 2022-08-02T23:02:48.613Z
 tags: 
 editor: markdown
 dateCreated: 2019-11-29T17:23:52.761Z
@@ -126,4 +126,4 @@ http://quantoefloresta.escolhas.org/
 
 Em Agosto de 2022 iniciamos a seguinte lista:
 
-[[Aves, pássaros e passarinhos observados na Fazenda Capoava]]
+[Aves, pássaros e passarinhos observados na Fazenda Capoava](/porto-rural/caminhos-possiveis/lista-de-aves-na-capoava)
