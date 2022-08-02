@@ -2,8 +2,10 @@
 title: Mapeando Possibilidades Para A Volta Das Florestas
 description: Anotações do estudo de Mapas de Possibilidades Para A Volta Das Florestas
 published: true
-date: 2019-11-29T23:43:34.228Z
+date: 2022-08-02T23:01:05.822Z
 tags: 
+editor: markdown
+dateCreated: 2019-11-29T17:23:52.761Z
 ---
 
 # Restauração da Paisagem Florestal
@@ -121,3 +123,7 @@ Beneficia principalmente a sociedade. Pode ser financiado através de receitas d
 
 Como precificar trabalho de restauração híbrida
 http://quantoefloresta.escolhas.org/
+
+Em Agosto de 2022 iniciamos a seguinte lista:
+
+[[Aves, pássaros e passarinhos observados na Fazenda Capoava]]
