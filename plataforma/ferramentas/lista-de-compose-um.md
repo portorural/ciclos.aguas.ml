@@ -1,9 +1,9 @@
 ---
 title: Lista de docker-compose para plataformas digitais hídricas
-description: 
+description: Anotações importantes para estudo de docker e Data Science
 published: true
-date: 2022-08-05T23:22:14.173Z
-tags: software, docker, código aberto, lista
+date: 2022-08-05T23:54:08.120Z
+tags: software, docker, código aberto, lista, data, science
 editor: markdown
 dateCreated: 2022-08-05T23:22:14.173Z
 ---
