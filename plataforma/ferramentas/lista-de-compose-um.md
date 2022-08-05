@@ -2,7 +2,7 @@
 title: Lista de docker-compose para plataformas digitais hídricas
 description: Anotações importantes para estudo de docker e Data Science
 published: true
-date: 2022-08-05T23:54:08.120Z
+date: 2022-08-05T23:54:43.660Z
 tags: software, docker, código aberto, lista, data, science
 editor: markdown
 dateCreated: 2022-08-05T23:22:14.173Z
@@ -55,4 +55,7 @@ services:
       - neo4j
 ```
 
-Fonte e outros exemplos: https://github.com/Btibert3/docker-recipes/ 
+Fontes e exemplos:
+
+- https://rocker-project.org/
+- https://github.com/Btibert3/docker-recipes/ 
