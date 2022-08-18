@@ -2,7 +2,7 @@
 title: Saneamento Medicinal Na Capoava
 description: Um conjunto de perspectivas para o saneamento medicinal na Capoava
 published: true
-date: 2022-08-18T18:23:05.638Z
+date: 2022-08-18T18:23:23.072Z
 tags: porto rural, saneamento, medicinal
 editor: markdown
 dateCreated: 2019-11-29T17:24:04.468Z
