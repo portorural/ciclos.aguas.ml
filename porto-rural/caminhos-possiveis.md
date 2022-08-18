@@ -2,7 +2,7 @@
 title: Projetos do Escritório Permacultural da Resiliência na Porto Rural
 description: Relatos de possibilidades na Porto Rural
 published: true
-date: 2022-08-02T23:34:17.217Z
+date: 2022-08-18T18:08:55.068Z
 tags: rural, porto rural, vivências, projetos
 editor: markdown
 dateCreated: 2019-11-29T17:22:58.555Z
@@ -42,6 +42,11 @@ Desde 2003 aninhando e distribuindo sistemas mitóticos de Abundância em [www.P
 > **Volta das florestas**
 Mapeando possibilidades para a [Volta das Florestas](https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/mapeando-possibilidades-para-a-volta-das-florestas)
 {.is-success}
+
+> **Vocabulário para Emergência Humanitária**
+Este vocabulário é desenvolvido pela Etica.AI + HXL-CPLP, com scripts de automação de domínio público para lexicografia prática em tópicos selecionados. Nossos objetivos são **compilação** de traduções existentes (como Wikidata) e **preparação** para novas iniciativas de tradução de terminologias do **mundo hídrico**. [Lexicographī sine fīnibus](https://github.com/EticaAI/lexicographi-sine-finibus)
+{.is-success}
+
 
 > **Valorizando as Economias**
 Programas de incentivo ao desenvolvimento local de potencialidades econômicas
