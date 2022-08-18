@@ -2,7 +2,7 @@
 title: Uma alternativa em Docker para Mediawiki 1.26
 description: Registro de operações
 published: true
-date: 2022-08-18T17:02:25.753Z
+date: 2022-08-18T17:04:29.486Z
 tags: wiki, docker, compose, mediawiki, mysql
 editor: markdown
 dateCreated: 2022-08-18T17:01:20.488Z
@@ -62,11 +62,11 @@ services:
       - suarede
 ````
 
-Após a configuração inicial, baixe LocalSettings.php para o mesmo diretório que usou para executar este yaml e adicione a linha a seguir no volume do mwiki. Use compose para reiniciar o serviço mediawiki#
+Após a configuração inicial, baixe LocalSettings.php para o mesmo diretório que usou para executar este yaml e adicione a linha a seguir no volume do mwiki.
 
       - ./LocalSettings.php:/var/www/html/LocalSettings.php
 
-
+Use compose para reiniciar o serviço mwiki
 
 ### Fontes
 
