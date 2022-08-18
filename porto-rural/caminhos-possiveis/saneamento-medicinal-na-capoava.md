@@ -2,7 +2,7 @@
 title: Saneamento Medicinal Na Capoava
 description: Um conjunto de perspectivas para o saneamento medicinal na Capoava
 published: true
-date: 2022-08-18T18:23:23.072Z
+date: 2022-08-18T18:23:44.269Z
 tags: porto rural, saneamento, medicinal
 editor: markdown
 dateCreated: 2019-11-29T17:24:04.468Z
@@ -22,7 +22,7 @@ Dados importantes e que podem ser úteis na elucidação de contextos
 .
 ### Vermifiltro
 
-Ver mais sobre [Vermifiltro]
+Ver mais sobre [[Vermifiltro]]
 
 .
 ### Vitamina D
