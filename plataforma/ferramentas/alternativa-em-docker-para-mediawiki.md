@@ -2,7 +2,7 @@
 title: Uma alternativa em Docker para Mediawiki 1.26
 description: Registro de operações
 published: true
-date: 2022-08-18T17:04:29.486Z
+date: 2022-08-18T17:04:53.847Z
 tags: wiki, docker, compose, mediawiki, mysql
 editor: markdown
 dateCreated: 2022-08-18T17:01:20.488Z
