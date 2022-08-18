@@ -2,7 +2,7 @@
 title: Uma alternativa em Docker para Mediawiki 1.26
 description: Registro de operações
 published: true
-date: 2022-08-18T17:04:53.847Z
+date: 2022-08-18T17:44:52.213Z
 tags: wiki, docker, compose, mediawiki, mysql
 editor: markdown
 dateCreated: 2022-08-18T17:01:20.488Z
@@ -46,17 +46,17 @@ services:
     volumes:
       - dados_mw:/var/www/html/
     environment:
-      - MEDIAWIKI_DB_HOST=mwiki_db
-      - MEDIAWIKI_DB_TYPE=mysql
-      - MEDIAWIKI_DB_NAME=wiki_db
-      - MEDIAWIKI_DB_USER=wikimediaUSER
-      - MEDIAWIKI_DB_PASSWORD=wikimediaSENHA
-      - MEDIAWIKI_SITE_SERVER=//localhost
-      - MEDIAWIKI_SITE_NAME=MediaWiki
-      - MEDIAWIKI_SITE_LANG=pt_BR
-      - MEDIAWIKI_ADMIN_USER=adminUSER
-      - MEDIAWIKI_ADMIN_PASS=passwordSENHA
-      - MEDIAWIKI_UPDATE=true
+      MEDIAWIKI_DB_HOST: mwiki_db
+      MEDIAWIKI_DB_TYPE: mysql
+      MEDIAWIKI_DB_NAME: wiki_db
+      MEDIAWIKI_DB_USER: wikimediaUSER
+      MEDIAWIKI_DB_PASSWORD: wikimediaSENHA
+      MEDIAWIKI_SITE_SERVER: //localhost
+      MEDIAWIKI_SITE_NAME: MediaWiki
+      MEDIAWIKI_SITE_LANG: pt_BR
+      MEDIAWIKI_ADMIN_USER: adminUSER
+      MEDIAWIKI_ADMIN_PASS: passwordSENHA
+      MEDIAWIKI_UPDATE: true
     restart: always
     networks:
       - suarede
