@@ -1,8 +1,8 @@
 ---
 title: Águas de Maya v0.2
-description:  Identificar possíveis impactos provocados pelo ser humano e avaliar de que maneira podemos mitigar os crimes.
+description: Identificar possíveis impactos provocados pelo ser humano e avaliar de que maneira podemos eliminar ou mitigar os danos.
 published: true
-date: 2022-08-22T21:21:02.551Z
+date: 2022-08-22T21:21:28.209Z
 tags: águas, mapa, educação, sustentabilidade, vizinhança
 editor: markdown
 dateCreated: 2022-08-22T21:19:16.535Z
