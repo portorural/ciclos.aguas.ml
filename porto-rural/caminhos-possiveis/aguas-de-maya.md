@@ -2,7 +2,7 @@
 title: Águas de Maya v0.2
 description:  Identificar possíveis impactos provocados pelo ser humano e avaliar de que maneira podemos mitigar os crimes.
 published: true
-date: 2022-08-22T21:19:16.535Z
+date: 2022-08-22T21:21:02.551Z
 tags: águas, mapa, educação, sustentabilidade, vizinhança
 editor: markdown
 dateCreated: 2022-08-22T21:19:16.535Z
@@ -14,7 +14,8 @@ https://caminhodasaguas.org.br
 Início do rascunho: 04/03/2022
 
 **Foco**
-Identificar possíveis impactos provocados pela ocorrência de catástrofes naturais ou alterações nos componentes físicos, biológicos ou sociais de um ecossistema e avaliar de que maneira podem afetar suas populações quanto às possibilidades de extinção de espécies, alteração de hábitos, migração, entre outras.
+Identificar possíveis impactos provocados pelo ser humano e avaliar de que maneira podemos eliminar ou mitigar os danos.
+
 
 
 ## Objetivos sociais no Projeto
