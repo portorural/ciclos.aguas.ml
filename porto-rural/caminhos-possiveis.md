@@ -2,7 +2,7 @@
 title: Projetos do Escritório Permacultural da Resiliência na Porto Rural
 description: Relatos de possibilidades na Porto Rural
 published: true
-date: 2022-08-18T18:08:55.068Z
+date: 2022-08-22T21:16:05.489Z
 tags: rural, porto rural, vivências, projetos
 editor: markdown
 dateCreated: 2019-11-29T17:22:58.555Z
@@ -53,6 +53,11 @@ Programas de incentivo ao desenvolvimento local de potencialidades econômicas
 [Banco Social da Comunidade de Aprendizagem das Águas - Banco CAPIN](https://bancocapin.ga)
 [Bases para Programas de Desenvolvimento Econômico local](https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/valorizando-as-economias)
 [Assis Dengue Experience](https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/assis-experience)
+{.is-success}
+
+> **Águas de Maya v0.2**
+Identificar possíveis impactos provocados pelo ser humano e avaliar de que maneira podemos mitigar os crimes.
+[Ler índice de anotações inspiradoras](https://ciclos.aguas.ml/porto-rural/caminhos-possiveis/aguas-de-maya)
 {.is-success}
 
 > **Inspirando uma Smart Village**
