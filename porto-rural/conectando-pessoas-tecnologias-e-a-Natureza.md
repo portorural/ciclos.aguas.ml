@@ -2,7 +2,7 @@
 title: Conectando pessoas, tecnologias e a Natureza
 description: 
 published: true
-date: 2022-08-30T02:30:32.242Z
+date: 2022-08-30T02:31:33.020Z
 tags: plataforma, ferramentas, ecossistema, código aberto
 editor: markdown
 dateCreated: 2022-03-25T23:49:54.883Z
@@ -16,6 +16,7 @@ dateCreated: 2022-03-25T23:49:54.883Z
 
 Todas as ferramentas digitais disponíveis à comunidade Águas Brasil Bem Comum em Mídia Livre estão na página de [Ferramentas Digitais](https://ciclos.aguas.ml/plataforma/digitais)
 
+Este ano estamos reformulando tudo e iniciando novas atividades.
 .
 #### Rádio PACHAMEN
 here we are testing a lot of ideas in consortium with (https://pacha.men) doing some projects of Porto Rural and something more
