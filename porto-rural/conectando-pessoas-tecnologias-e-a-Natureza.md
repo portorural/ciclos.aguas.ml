@@ -2,14 +2,13 @@
 title: Conectando pessoas, tecnologias e a Natureza
 description: 
 published: true
-date: 2022-08-01T17:54:44.882Z
+date: 2022-08-30T02:30:32.242Z
 tags: plataforma, ferramentas, ecossistema, código aberto
 editor: markdown
 dateCreated: 2022-03-25T23:49:54.883Z
 ---
 
-# Conectando pessoas, tecnologias e a Natureza
-**OBJETIVO:** Stack útil todos os dias na execução de nossas atividades
+**OBJETIVO:** Praticar DEVOps, produzindo serviços úteis todos os dias na execução de nossas atividades
 
 
 .
