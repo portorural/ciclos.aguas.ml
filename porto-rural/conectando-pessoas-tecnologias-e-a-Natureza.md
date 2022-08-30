@@ -2,7 +2,7 @@
 title: Conectando pessoas, tecnologias e a Natureza
 description: 
 published: true
-date: 2022-08-30T02:34:54.485Z
+date: 2022-08-30T02:35:48.897Z
 tags: plataforma, ferramentas, ecossistema, código aberto
 editor: markdown
 dateCreated: 2022-03-25T23:49:54.883Z
@@ -21,7 +21,7 @@ Este ano estamos reformulando tudo e iniciando novas atividades.
 #### Rádio PACHAMEN
 here we are testing a lot of ideas in consortium with (https://pacha.men) doing some projects of Porto Rural and something more
 
-Veja nosso guia de uso de uma estação na [Rádio PACHAMEN](https://ciclos.aguas.ml/plataforma/radio-pachamen)
+Veja nosso [Guia de uso de uma estação na Rádio PACHAMEN](https://ciclos.aguas.ml/plataforma/radio-pachamen)
 
 .
 #### Maya em WaterOps
