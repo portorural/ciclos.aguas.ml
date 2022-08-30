@@ -2,7 +2,7 @@
 title: Conectando pessoas, tecnologias e a Natureza
 description: 
 published: true
-date: 2022-08-30T02:31:33.020Z
+date: 2022-08-30T02:33:48.969Z
 tags: plataforma, ferramentas, ecossistema, código aberto
 editor: markdown
 dateCreated: 2022-03-25T23:49:54.883Z
@@ -25,10 +25,9 @@ Veja nosso guia de uso de uma estação na [Rádio PACHAMEN](https://ciclos.agua
 
 .
 #### Maya em WaterOps
-Em parceria com a Eclips, uma plataforma que oferece provisionamento autogerenciado para Organizações da Sociedade Civil (OSC). Os usuários poderão utilizar ferramentas de uma instância, para que cibernética possamos manter o controle sobre os dados inseridos nesses aplicativos.
+Em parceria com a Eclips, uma plataforma que oferece provisionamento autogerenciado para Organizações da Sociedade Civil (OSC). Os usuários poderão utilizar ferramentas de uma instância cibernética, para que possamos manter o controle sobre os dados inseridos nesses aplicativos.
 
 Usando [Stackspin em nosso beta](/plataforma/ferramentas/stackspin) porque ele tem:
-
 
 
     Código aberto
