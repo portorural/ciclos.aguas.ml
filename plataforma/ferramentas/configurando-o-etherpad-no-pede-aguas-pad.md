@@ -1,8 +1,8 @@
 ---
-title: Como configuramos o Etherpad da plataforma ÁguasML
-description: Algumas informações relevantes sobre nossa instalação do Etherpad  v1.6.6 no Pede Água Pad
+title: Como configuramos o Etherpad do Pad ÁguasML
+description: Algumas informações relevantes sobre o etherpad-lite nv1.6.6 no Pad Águas Pad
 published: true
-date: 2022-08-31T15:07:18.857Z
+date: 2022-08-31T15:08:19.769Z
 tags: águas, plataforma, pad, ferramentas, nginx, nodejs, etherpad, dicas
 editor: markdown
 dateCreated: 2019-11-29T17:23:12.516Z
